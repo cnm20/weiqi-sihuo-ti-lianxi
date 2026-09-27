@@ -1,0 +1,2429 @@
+[
+ {
+  "f": "easy/ggg-easy-02.sgf",
+  "hints": [
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-03.sgf",
+  "hints": [
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-04.sgf",
+  "hints": [
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-09.sgf",
+  "hints": [
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-100.sgf",
+  "hints": [
+   "White could also tenuki now, if she wants to take sente for example, and Black will only b",
+   "If White tenukis...",
+   "The rest of White's group is still alive. White shouldn't connect at A because Black would"
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-102.sgf",
+  "hints": [
+   "Even if Black plays at A now, it will almost never be sente, because B and C are miai. See",
+   "Even if Black plays at A now, it will almost never be sente, because B and C are miai. See",
+   "Some players worry that Black can escape like this. However, unless there's a stone nearby",
+   "If there's nothing for Black to connect to, White can also just keep extending.",
+   "White will make as many of these exchanges as Black likes.",
+   "Black can't escape like this either. For example..."
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-103.sgf",
+  "hints": [
+   "Black can make a seki (in gote) with A, but Black can do better."
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-104.sgf",
+  "hints": [
+   "This move gives Black a shortage of liberties.",
+   "How can you stop this happening?",
+   "It's a snapback."
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-105.sgf",
+  "hints": [
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-106.sgf",
+  "hints": [
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-107.sgf",
+  "hints": [
+   "There's a better move for this.",
+   "There's a better move for this.",
+   "There's a better move for this.",
+   "This is also possible, but there was a better move for A.",
+   "This is also possible, but there was a better move for A."
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-108.sgf",
+  "hints": [
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-110.sgf",
+  "hints": [
+   "It's a bent four in the corner. http://senseis.xmp.net/?BentFourInTheCorner",
+   "It's a bent four in the corner. http://senseis.xmp.net/?BentFourInTheCorner"
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-111.sgf",
+  "hints": [
+   "It's a ko, but Black can do better.",
+   "It's a double ko, and Black's captured.",
+   "It's a double ko, and Black's captured."
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-116.sgf",
+  "hints": [
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-118.sgf",
+  "hints": [
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-119.sgf",
+  "hints": [
+   "Black A has been captured in a ladder. This result is bad for Black.",
+   "Black A has been captured in a ladder. This result is bad for Black.",
+   "There's a ko at A, but Black can do better.",
+   "This is possible, but Black can do better.",
+   "This is possible, but Black can do better. White's peep at A will be sente."
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-12.sgf",
+  "hints": [
+   "It's bent four in the corner. http://senseis.xmp.net/?BentFourInTheCorner"
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-126.sgf",
+  "hints": [
+   "White's alive. Even if Black connects at A next, White's already alive in seki.",
+   "It' a ko, but Black can do better.",
+   "It' a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-127.sgf",
+  "hints": [
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-128.sgf",
+  "hints": [
+   "White's alive. Even if Black plays at A next, White's already alive in seki."
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-13.sgf",
+  "hints": [
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-132.sgf",
+  "hints": [
+   "Even if Black connects at A next, White's already alive in seki."
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-133.sgf",
+  "hints": [
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-134.sgf",
+  "hints": [
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-135.sgf",
+  "hints": [
+   "It's a ko, but Black can do better.",
+   "Black's position on the outside is falling apart."
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-137.sgf",
+  "hints": [
+   "This ladder doesn't work for Black, because Black A is in atari.",
+   "Black can do better."
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-138.sgf",
+  "hints": [
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-139.sgf",
+  "hints": [
+   "This is also possible, but Black can do better.",
+   "This is also possible, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-17.sgf",
+  "hints": [
+   "White's already alive."
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-21.sgf",
+  "hints": [
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-22.sgf",
+  "hints": [
+   "It's a ko, but Black can do better.",
+   "White got tricked...",
+   "...Black shouldn't live, but does with this move.",
+   "This move is a mistake for White...",
+   "It's a ko."
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-24.sgf",
+  "hints": [
+   "A could also be a move like B or C, but A is as far away as possible to provide a greater "
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-26.sgf",
+  "hints": [
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-28.sgf",
+  "hints": [
+   "White can't play here either...",
+   "White can't get more liberties, so this doesn't change anything..."
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-29.sgf",
+  "hints": [
+   "White can't play here...",
+   "White's alive."
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-30.sgf",
+  "hints": [
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-40.sgf",
+  "hints": [
+   "After White 4 here, there's no way to live."
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-41.sgf",
+  "hints": [
+   "The ladder doesn't work.",
+   "The ladder doesn't work.",
+   "White's escaping.",
+   "Black can do better.",
+   "Black can do better.",
+   "Now Black's in trouble."
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-43.sgf",
+  "hints": [
+   "This is the vital point.",
+   "Good move, this makes White's eyespace as small as possible.",
+   "Black almost had it. There's a better move than A.",
+   "White's already alive in seki.",
+   "White's four in a row eyespace is alive because White A and B are miai (that means if Blac"
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-44.sgf",
+  "hints": [
+   "The shape of White's four stones is called a 'bulky four'. If Black captures White's four ",
+   "Even if White passes...",
+   "Black can't make two eyes.",
+   "Black passes. Black's already dead, but for the sake of demonstration...",
+   "Atari...",
+   "Capture...",
+   "White plays on the vital point.",
+   "Black can't make two eyes."
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-46.sgf",
+  "hints": [
+   "It's a ko, but Black can do better.",
+   "Black should be captured now, but this White move is a mistake...",
+   "A and B are miai for Black (if White defends against one, Black plays the other), so Black"
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-48.sgf",
+  "hints": [
+   "This is a mess. Black has a move that settles things in a simple and clean manner.",
+   "Next White can cut at A or B, so the position becomes very difficult for Black.",
+   "Black's missed a great opportunity. White can even cut here now.",
+   "Black defended the left side, but White can play here now."
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-49.sgf",
+  "hints": [
+   "Not too bad, but Black can do capture some stones."
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-51.sgf",
+  "hints": [
+   "Almost got it, have another go.",
+   "Almost got it, have another go."
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-52.sgf",
+  "hints": [
+   "Next if Black cuts at A, White can atari at B and capture two stones. If Black plays C ins"
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-53.sgf",
+  "hints": [
+   "White plays on the vital point and Black's group becomes weak. Notice the relationship bet",
+   "If the game continues like this, Black doesn't have much room to make eyes, so the whole g",
+   "Later on there's still a vital point here...",
+   "Making this exchange helps White. In addition, Black still has weaknesses at A and B, so B",
+   "This move is uninspired.",
+   "Later on White can play here and Black doesn't have much eyespace, so the group will be we"
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-56.sgf",
+  "hints": [
+   "White's alive.",
+   "Black can't connect at A. If he could, he wouldn't have any liberties and his stones would"
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-57.sgf",
+  "hints": [
+   "Now Black has to fight a ko here. If Black just conntects at A, White will atari at B and ",
+   "This is a seki, and Black has to worry about the weakness at A now.",
+   "This is a seki, and Black has to worry about the weakness at A now.",
+   "Black doesn't have enough liberties to make a ko, so Black dies.",
+   "Now Black has to fight a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-61.sgf",
+  "hints": [
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-68.sgf",
+  "hints": [
+   "Now White can't play here, right?",
+   "Black can't make two eyes now. A is a false eye because it's not connected to the rest of ",
+   "Black can't make two eyes now. Later if White wants to take these stones off the board for"
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-70.sgf",
+  "hints": [
+   "Capturing at A only makes a false eye, so Black dies.",
+   "Black only has one eye, so Black's dead.",
+   "Black only has one eye, so Black's dead.",
+   "Capturing at A only makes a false eye, so Black's already died."
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-71.sgf",
+  "hints": [
+   "Black can't make two eyes now.",
+   "This is the vital point. Black will die after White plays here."
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-72.sgf",
+  "hints": [
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-73.sgf",
+  "hints": [
+   "A is a false eye, so Black's group will be captured.",
+   "White can capture Black's stones now, so the cutting stone Black played loses its value."
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-74.sgf",
+  "hints": [
+   "Now White can fight a ko, but Black could have avoided that."
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-76.sgf",
+  "hints": [
+   "This variation is even worse for Black than the previous one because White's stones are sa"
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-78.sgf",
+  "hints": [
+   "Turning like this is often a good move, but in this case,",
+   "White will play here and now Black's corner stones are captured."
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-80.sgf",
+  "hints": [
+   "This is also possible, but there's a better one."
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-81.sgf",
+  "hints": [
+   "This is a kind of net, not really a ladder.",
+   "If Black tries to escape...",
+   "This is also good for White.",
+   "Black can attack on a large scale too.",
+   "White can manage the situation lightly like this. Other moves are possible too.",
+   "A and B are miai for White next."
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-83.sgf",
+  "hints": [
+   "It's a ko, but Black can do better.",
+   "White doesn't need to fight a ko."
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-84.sgf",
+  "hints": [
+   "Black can capture at A, but this will be a ko fight. Black can do better.",
+   "It's a ko, but Black can do better.",
+   "This move helps White.",
+   "Black still has a ko, but playing like this is unnecessary",
+   "Black still has a ko, but playing like this is unnecessary",
+   "If Black wants a ko, he'll get one, but Black can avoid ko completely.",
+   "It's a ko fight, but Black can do better.",
+   "It's a ko fight, but Black can do better."
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-85.sgf",
+  "hints": [
+   "White can resist with a ko. Can you do better?",
+   "This is a seki, but now Black has to worry about the cutting point at A.",
+   "This is a seki, but now Black has to worry about the cutting point at A. White could also "
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-88.sgf",
+  "hints": [
+   "It's a ko, but it's unnecessary for Black to fight a ko here.",
+   "It's a seki, but Black can do better."
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-95.sgf",
+  "hints": [
+   "White can also kill Black like this.",
+   "Even if Black plays at A or B next, White can ignore it and Black's still dead."
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-98.sgf",
+  "hints": [
+   "This ladder doesn't work for Black.",
+   "This ladder doesn't work for Black."
+  ]
+ },
+ {
+  "f": "easy/ggg-easy-99.sgf",
+  "hints": [
+   "It's also possible, but not the best. When White pushes at A, Black can't block at B, beca"
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-01.sgf",
+  "hints": [
+   "This way Black also lives. Compared to the main variation, White has lost 3 points by cont",
+   "Black's already died."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-05.sgf",
+  "hints": [
+   "White's alive in seki.",
+   "It's a ko, but Black can do better.",
+   "White's alive in seki.",
+   "White's alive in seki.",
+   "White's alive in seki."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-07.sgf",
+  "hints": [
+   "This is also possible, but it's not the best solution.",
+   "Black's alive, but this isn't the best solution."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-09.sgf",
+  "hints": [
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-100.sgf",
+  "hints": [
+   "Black's dead.",
+   "Even if Black captures at A next, Black only has one eye, so he's dead.",
+   "Black's dead.",
+   "Black's dead.",
+   "Black's dead.",
+   "Black's dead.",
+   "Black's dead.",
+   "Black's dead."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-101.sgf",
+  "hints": [
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-102.sgf",
+  "hints": [
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "This is also a ko. Perhaps you can change your plan slightly?",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-104.sgf",
+  "hints": [
+   "White's already dead. If White plays at A or B, Black can play at C, and it's a dead shape",
+   "It's a ko, but Black can do better.",
+   "White lives in seki even if Black plays at A.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a double ko. White's alive.",
+   "It's a ko, but Black can do better.",
+   "White lives in seki."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-105.sgf",
+  "hints": [
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-107.sgf",
+  "hints": [
+   "It's a ko, but Black can do better.",
+   "It's a double ko.",
+   "It's a seki, and White's alive.",
+   "Even if Black connects at A in gote, it's a double ko, and White's alive.",
+   "It's a one step ko, but Black can do better.",
+   "It's a one step ko, but Black can do better.",
+   "It's a seki, and White's alive. White doesn't need to play at A until later in the game.",
+   "It's a one step ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-108.sgf",
+  "hints": [
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-109.sgf",
+  "hints": [
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a bent four in the corner: http://senseis.xmp.net/?BentFourInTheCorner",
+   "It's a bent four in the corner: http://senseis.xmp.net/?BentFourInTheCorner"
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-110.sgf",
+  "hints": [
+   "It's a ko, but blcak can do better.",
+   "It's a seki. A and B are miai for White.",
+   "It's a seki."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-111.sgf",
+  "hints": [
+   "Its a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-112.sgf",
+  "hints": [
+   "It's a seki.",
+   "It's a seki.",
+   "It's a ko, Black can do better.",
+   "It's a ko, Black can do better."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-115.sgf",
+  "hints": [
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-117.sgf",
+  "hints": [
+   "It's a ko, but Black can do better.",
+   "It's a seki, so White's alive.",
+   "It's a ko, but Black can do better.",
+   "It's a ten thousand year ko, so Black can do better. http://senseis.xmp.net/?TenThousandYe",
+   "It's a seki, so White's alive.",
+   "It's a ten thousand year ko, so Black can do better. http://senseis.xmp.net/?TenThousandYe",
+   "It's seki, so White's alive.",
+   "It's a seki, so White's alive."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-118.sgf",
+  "hints": [
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-119.sgf",
+  "hints": [
+   "Even if Black plays another move, he can't capture White."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-121.sgf",
+  "hints": [
+   "Black can do better."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-125.sgf",
+  "hints": [
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "This isn't necessarily the best way to live, but White could also decide to play here if s",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-126.sgf",
+  "hints": [
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-127.sgf",
+  "hints": [
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-128.sgf",
+  "hints": [
+   "It's a ko, but Black can do better",
+   "It's a ko, but Black can do better"
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-129.sgf",
+  "hints": [
+   "Even if Black plays at A next, White's already alive in seki."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-13.sgf",
+  "hints": [
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-131.sgf",
+  "hints": [
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-133.sgf",
+  "hints": [
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-134.sgf",
+  "hints": [
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "White's alive. Even if Black plays A next, White is already alive in seki.",
+   "White's alive. Even if Black plays A next, White is already alive in seki."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-135.sgf",
+  "hints": [
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "White can also live like this."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-136.sgf",
+  "hints": [
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-137.sgf",
+  "hints": [
+   "This ladder doesn't work for Black because of A.",
+   "This ladder doesn't work for Black because of A."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-14.sgf",
+  "hints": [
+   "This move also kills White, it's second best to the throw in at 'A' though. Playing this m",
+   "Oops! White can live now."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-140.sgf",
+  "hints": [
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-15.sgf",
+  "hints": [
+   "White can't stop Black from capturing the marked stones.",
+   "It's a seki, but Black can do better.",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-16.sgf",
+  "hints": [
+   "White is dead. White's shape in the corner is a standard dead shape, called the L-group. R",
+   "White is dead. White's shape in the corner is a standard dead shape, called the L-group. R",
+   "Ko, but Black can do better.",
+   "Bad move, White dies now. White should make a ko at A3 instead."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-17.sgf",
+  "hints": [
+   "E1 also kills White.",
+   "E1 also kills White.",
+   "Black can't connect at C2, White lives.",
+   "C2 is a mistake...",
+   "White lives.",
+   "White lives."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-18.sgf",
+  "hints": [
+   "White should have made a ko.",
+   "White should have made a ko.",
+   "White should have made a ko.",
+   "White should have made a ko.",
+   "White should have made a ko.",
+   "White should have made a ko."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-19.sgf",
+  "hints": [
+   "In a real game White would just play here because there's no way to kill Black now and try",
+   "This White move is not as good as simply capturing at A because it gives Black options.",
+   "Playing the marked stone is tempting, but it gives White the opportunity to make it a ko. ",
+   "A and B are miai for Black.",
+   "It's a ko, but Black can do better.",
+   "Black Q1 is a good idea, but White's connection at R1 is a mistake...",
+   "Black lives because White didn't play the best moves.",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-21.sgf",
+  "hints": [
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-22.sgf",
+  "hints": [
+   "This also kills, but playing A at B first is better because White might still save part of",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "White can't avoid the ko...",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-23.sgf",
+  "hints": [
+   "White can simply live like this, but White can also play A. See the variation.",
+   "White's already alive, and later...",
+   "Yum!",
+   "Black can't cut White off from A while also defending against B, so White will capture the",
+   "White could also play A to live simply.",
+   "White's already alive and...",
+   "Black still can't much here...",
+   "Yum!"
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-24.sgf",
+  "hints": [
+   "Black might hope for this, but A is a mistake and should be played at B instead.",
+   "Now it's a difficult ko, because White made a mistake at A."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-25.sgf",
+  "hints": [
+   "This move lets Black live without ko.",
+   "Black lived easily because White played A.",
+   "This move is a mistake for White because it lets Black live without ko.",
+   "Black lived without ko because White made a mistake at A.",
+   "Black lived without ko because White made a mistake at A.",
+   "This move is a mistake for White because it lets Black live without ko.",
+   "Black lived without ko because White made a mistake at A.",
+   "Black lived without ko because White made a mistake at A."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-27.sgf",
+  "hints": [
+   "Ko, but Black can do better.",
+   "A and B are miai for White."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-28.sgf",
+  "hints": [
+   "If White tries to avoid the ko...",
+   "This is the right idea, but now Black has to make the first ko threat. If Black plays A in",
+   "After exchanging A for B Black can still live in the same way as before. This isn't wrong,"
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-29.sgf",
+  "hints": [
+   "White M1 is a mistake.",
+   "Black lived easily because White played A."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-30.sgf",
+  "hints": [
+   "A and B are still miai.",
+   "A and B are still miai."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-31.sgf",
+  "hints": [
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-32.sgf",
+  "hints": [
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "Playing A and letting White atari at B is a big mistake.",
+   "White doesn't actually have to play here right now, but will play here when Black fills a ",
+   "It's a ko, but Black can do better.",
+   "A and B are miai. White is alive.",
+   "This is a 10,000 year ko. Black can do a lot better. If White plays A at B, it would still",
+   "White's live in seki."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-33.sgf",
+  "hints": [
+   "Black can't win this capturing race. If Black plays at A, White will take sente.",
+   "Black can't win this capturing race. If Black plays at A, White will take sente.",
+   "A could also be at B, but this demonstrates more clearly that White captures Black's stone",
+   "White A is a bad response.",
+   "White A was a bad move and Black turned the tables.",
+   "Black can capture some stones with A now, but White's already winning the capturing race a",
+   "Black can capture some stones with A now, but White's already winning the capturing race a"
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-34.sgf",
+  "hints": [
+   "White A is a bad move.",
+   "B is White's best move now. If White plays C or D instead, Black will take the other one (",
+   "Black gets a ko because of White's mistake at A."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-35.sgf",
+  "hints": [
+   "White died because 2 (A) was a bad move.",
+   "Ko is the best solution, but there's a slightly better move order that doesn't leave a cut",
+   "Even if Black plays A next, White lives in seki.",
+   "White can't play here in this case.",
+   "White died because 2 (A) was a bad move.",
+   "This doesn't work for White either.",
+   "White died because 2 (B) was a bad move.",
+   "White died because 2 (B) was a bad move."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-36.sgf",
+  "hints": [
+   "If White captures at A...",
+   "Black 1 is the vital point, but Black needs to make some preparations before playing there",
+   "It's too late to play A now.",
+   "This is a mistake for White...",
+   "White has to fight a ko, because A was a bad move.",
+   "White will escape to the center.",
+   "This is a double ko. If Black fights the ko at A, White just plays B and vice versa.",
+   "White A and B are miai, so White is alive."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-37.sgf",
+  "hints": [
+   "This move is a mistake for White.",
+   "Now B and C are miai. White dies because A was a bad move."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-38.sgf",
+  "hints": [
+   "If White resists like this..."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-39.sgf",
+  "hints": [
+   "Alive, but not the best solution.",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-40.sgf",
+  "hints": [
+   "This result is playable for Black.",
+   "If White's happy to give up the center stones, White can also think about this move. It's ",
+   "This move feels forced.",
+   "Even if White just proceeds like this...",
+   "Exchanging A for B was good for White.",
+   "Playing like this isn't really better for White, but it's a lot more complicated.",
+   "The result is good for Black.",
+   "A and B are miai next, and it's playable for Black."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-41.sgf",
+  "hints": [
+   "White can't fix things by playing here...",
+   "Black is fine, White only has three liberties at the bottom and is too thin to fight anywa",
+   "The ladder works for White.",
+   "The ladder works for White.",
+   "Black's play is too slow."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-42.sgf",
+  "hints": [
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, because Black can only make one eye at the bottom now. Black can do better.",
+   "It's a ko, because Black can only make one eye at the bottom now. Black can do better.",
+   "It's a ko, because Black can only make one eye at the bottom now. Black can do better."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-43.sgf",
+  "hints": [
+   "A and B are miai. White lives in seki.",
+   "A and B are miai. White lives in seki.",
+   "A and B are miai. White lives in seki.",
+   "Even if Black plays at A, White lives in seki.",
+   "Even if Black plays at A, White lives in seki.",
+   "Even if Black plays at A, White lives in seki."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-44.sgf",
+  "hints": [
+   "It's a ko, but Black can do better.",
+   "If Black plays here...",
+   "Now this move is sente, and Black has to be careful. Black should have reduced White's eye",
+   "White lives in seki.",
+   "White lives in seki."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-45.sgf",
+  "hints": [
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "Living like this loses one point, but also removes one ko threat, so there are pros and co",
+   "White can get more points by playing here, but leaves a big ko threat in the corner.",
+   "It's a mistake for White.",
+   "White dies.",
+   "It's a mistake for White.",
+   "White dies."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-46.sgf",
+  "hints": [
+   "This isn't good enough for White...",
+   "This isn't White's best move, but Black still needs to be careful...",
+   "This is a mistake...",
+   "Now Black has to fight a ko at A.",
+   "This isn't Black's best move either...",
+   "Both players made a mistake, so it all came out in the wash. Back to ko.",
+   "Black can't play here...",
+   "It's also possible to play this last move at A. Black still dies and it may well be better"
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-48.sgf",
+  "hints": [
+   "Almost correct. Is there a way for Black to take the ko first?",
+   "White 4 here doesn't work..."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-49.sgf",
+  "hints": [
+   "Black's stones are caught in a ladder. There's still a way for Black to save the important",
+   "This ladder doesn't work for Black, because of A.",
+   "This ladder doesn't work for Black, because of A.",
+   "Black's caught in a ladder."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-50.sgf",
+  "hints": [
+   "It's a ko, but Black can do better.",
+   "Now Black has a ko for life in the corner, but Black was able to live without ko earlier.",
+   "It's a ko, but Black can do better.",
+   "Even if Black plays here...",
+   "It's still a ko. Black should try to live without ko.",
+   "Now Black has a ko for life in the corner, but Black was able to live without ko earlier.",
+   "In a real game, White would probably want to play like this to strengthen her own group in",
+   "If White's group at B is strong enough, White can answer A like this. Black has a better w"
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-51.sgf",
+  "hints": [
+   "A and B are miai. Black's dead.",
+   "A and B are miai. Black's dead.",
+   "A and B are miai. Black's dead.",
+   "A and B are miai. Black's dead.",
+   "It's a ko, but Black can do better.",
+   "A and B are miai. Black's dead.",
+   "A and B are miai. Black's dead.",
+   "A and B are miai. Black's dead."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-52.sgf",
+  "hints": [
+   "This is White's best response.",
+   "This isn't White's best response, but it is the trickiest way to play.",
+   "This move is greedy.",
+   "Black managed to cut White's group in two, but now White's cutting stones are safe and it'",
+   "This would be a mistake for White...",
+   "Both players made mistakes and captured a group. Black comes out better because the lower ",
+   "White can't capture Black's cutting stone.",
+   "Both players made mistakes, but White is crushed. The lower right group is dead."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-54.sgf",
+  "hints": [
+   "White can't kill Black like this...",
+   "Black lives.",
+   "This would be a mistake for Black.",
+   "Black can't live locally, so now it would be a capturing race.",
+   "This would be a mistake for Black.",
+   "Black can't live locally, so now it would be a capturing race.",
+   "White can't live like this...",
+   "This is a type of 'bent four in the corner' shape. White's still dead: http://senseis.xmp."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-55.sgf",
+  "hints": [
+   "In actual play, White might decide to resist like this, but",
+   "Black can take the corner in sente, and",
+   "White can take sente by playing like this, but then",
+   "Black still takes the corner.",
+   "This is very nice point for enclosing Black's group, but",
+   "Now Black can play these moves in sente, and",
+   "This move is interesting too, but",
+   "Black captured the lower left corner and lost the initiative in the fighting. Black can do"
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-56.sgf",
+  "hints": [
+   "The KGS Go Server at http://www.gokgs.com/",
+   "This is how Black played in the game, but it didn't work out well.",
+   "This move doesn't work well.",
+   "This looks like a good move for White, but it's a mistake...",
+   "It's a ko. White could have captured Black after S3 instead of making a ko.",
+   "This is also a ko, but White could have captured Black after S3 instead of ko."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-57.sgf",
+  "hints": [
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "This move is a mistake for White.",
+   "Both players made a mistake and it all came out in the wash.",
+   "It's one eye vs no eye. Black's play wasn't ideal, but Black wins because White made a mis",
+   "It's a mistake to play here.",
+   "It's one eye vs no eye. Black wins because White made a mistake."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-58.sgf",
+  "hints": [
+   "White shouldn't play here, because then Black can capture White without a ko."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-59.sgf",
+  "hints": [
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "Since White's other moves don't work, White should play like this.",
+   "White's position is still ok like this."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-60.sgf",
+  "hints": [
+   "It's still a ko, but this is second best.",
+   "White's capture here is clumsy, and lets Black live.",
+   "White let Black live without ko.",
+   "White's capture here is clumsy, and lets Black live.",
+   "White let Black live without ko."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-61.sgf",
+  "hints": [
+   "If Black plays here",
+   "It's a ko.",
+   "Black's dead."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-63.sgf",
+  "hints": [
+   "If White tries to avoid a ko..."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-64.sgf",
+  "hints": [
+   "White should fall back here.",
+   "Almost correct, but you can improve the move order."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-65.sgf",
+  "hints": [
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-66.sgf",
+  "hints": [
+   "White can't avoid a ko by playing here."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-67.sgf",
+  "hints": [
+   "Now the best Black can do is to fight a ko at A.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-68.sgf",
+  "hints": [
+   "If White plays here, Black can live.",
+   "Black lived easily because White made a mistake.",
+   "This is an interesting idea, but it's an overplay in this case.",
+   "Black will live if White plays here, but White has a stronger move.",
+   "Black lived easily (in seki) because White made a mistake.",
+   "White can't capture...",
+   "It's a snapback."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-69.sgf",
+  "hints": [
+   "Compared to the main variation, this is second best.",
+   "This is still playable for both. Black could've attacked a bit more severely.",
+   "It's a ko, but it's not the best for Black.",
+   "White A and B will be sente."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-70.sgf",
+  "hints": [
+   "It's a direct ko, but Black can do better.",
+   "This looks like a good move for White, but it's not in this case.",
+   "Now Black can fight a direct ko at A, but Black could do better. If Black ataris at B, Whi",
+   "Now Black can fight a direct ko at A, but Black could do better. If Black ataris at B, Whi",
+   "It's a direct ko, but Black can do better.",
+   "It's a direct ko, but Black can do a bit better.",
+   "It's a direct ko, but Black can do a bit better."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-71.sgf",
+  "hints": [
+   "It's a ko, but if Black loses this ko the lower right corner will also be destroyed when W",
+   "White can also play here."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-72.sgf",
+  "hints": [
+   "Black has to fight a ko at A now.",
+   "Even if Black plays at A now, White can start filling liberties at B at any time and Black",
+   "Eventually Black will have to capture White's three stones, and Black will die.",
+   "Black doesn't have enough room to make two eyes now.",
+   "Even if Black plays A-C now, the shape is still dead."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-74.sgf",
+  "hints": [
+   "Black can't capture White so Black's stones are all dead.",
+   "Black can't capture White so Black's stones are all dead."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-75.sgf",
+  "hints": [
+   "Black's alive, but White's alive too."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-77.sgf",
+  "hints": [
+   "It's a seki, so White's alive.",
+   "White can cause some trouble with a ko like this. Try to avoid fighting ko.",
+   "White can cause some trouble with a ko like this. Try to avoid fighting ko.",
+   "It's a ko, because A and B are miai for White. Black can do better than this.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-78.sgf",
+  "hints": [
+   "Black can also live like this, but later...",
+   "This move will be sente against Black's corner (aiming at a ko) and,",
+   "White might be able to play an annoying endgame move like this.",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-80.sgf",
+  "hints": [
+   "This move is also possible, but exchanging this atari for A is a thank you move. Black sho",
+   "Now Black has to fight a ko, but Black can avoid this ko if Black pays attention to move o",
+   "Now Black has to fight a ko, but Black can avoid this ko if Black pays attention to move o",
+   "This move works too in this case, but playing at A instead is slightly better. That's beca",
+   "If White plays something like this,",
+   "Black can just live locally.",
+   "This asking move is also possible. In fact, it's probably slightly better (unless Black ha",
+   "If White takes the stone,"
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-81.sgf",
+  "hints": [
+   "It's a ko, but Black can do better.",
+   "White's escaping. Black can do better.",
+   "A and B are miai. Black can do better. White could also connect at A instead now if White'",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-82.sgf",
+  "hints": [
+   "White's alive. Even if Black plays at A now, it's only a seki.",
+   "White lives.",
+   "White might also play here, then...",
+   "This combination often works, but it's not the best approach in this case.",
+   "Black has to fight a ko now.",
+   "Even if Black captures like this,",
+   "Black's short of liberties, so it's still a ko.",
+   "This is a good idea, but it doesn't quite work in this case either. Black needs to change "
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-83.sgf",
+  "hints": [
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "White's alive in seki.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-84.sgf",
+  "hints": [
+   "Now Black has a ko. Can you find a way to live without ko?"
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-86.sgf",
+  "hints": [
+   "It's easy to make a ko, but can you find a way to avoid ko?",
+   "It's easy to make a ko, but can you find a way to avoid ko?",
+   "It's easy to make a ko, but can you find a way to avoid ko?",
+   "It's easy to make a ko, but can you find a way to avoid ko?",
+   "Black can live without ko. This is the second best result, because at least now if Black w",
+   "Black can live without ko. This is the second best result, because at least now if Black w"
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-87.sgf",
+  "hints": [
+   "It's a ko. Can you do better?",
+   "It's a ko. Can you do better?",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-88.sgf",
+  "hints": [
+   "It's a ko, but Black can do better",
+   "It's a ko, but Black can do better",
+   "It's a ko, but Black can do better",
+   "It's a ko, but Black can do better"
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-89.sgf",
+  "hints": [
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-90.sgf",
+  "hints": [
+   "It's a ko, and Black can do better.",
+   "It's a ko, and Black can do better.",
+   "It's a ko, and Black can do better.",
+   "It's a ko, and Black can do better.",
+   "It's a ko, and Black can do better.",
+   "It's a ko, and Black can do better.",
+   "It's a ko, and Black can do better.",
+   "It's a ko, and Black can do better."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-91.sgf",
+  "hints": [
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-92.sgf",
+  "hints": [
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-95.sgf",
+  "hints": [
+   "This is a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-96.sgf",
+  "hints": [
+   "Playing here would be a mistake now.",
+   "White lived because Black made a mistake.",
+   "White lived because Black made a mistake.",
+   "This is a mistake for Black too.",
+   "White lived because Black made a mistake.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-97.sgf",
+  "hints": [
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-98.sgf",
+  "hints": [
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "hard/ggg-hard-99.sgf",
+  "hints": [
+   "This leads to ko. Can you do better?"
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-05.sgf",
+  "hints": [
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-06.sgf",
+  "hints": [
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-07.sgf",
+  "hints": [
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-08.sgf",
+  "hints": [
+   "Black's already alive in a seki."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-100.sgf",
+  "hints": [
+   "Black can also live like this, but White captured the number 1! Can you do better?",
+   "Black can't win the capturing race.",
+   "Black can't win the capturing race.",
+   "Black can't win the capturing race.",
+   "Black can't win the capturing race.",
+   "Black's dead. Even if Black ataris at A now, White can ignore it because Black still can't",
+   "Black only has one eye at best, so Black's dead.",
+   "Black's best moves are elsewhere. This variation stops here."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-102.sgf",
+  "hints": [
+   "It's a ko, but Black can do better.",
+   "White wins the capturing race."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-103.sgf",
+  "hints": [
+   "Black shouldn't let White seal him in like this.",
+   "White can make a ko starting like this, but",
+   "This is a two stage ko where Black has the advantage. Black shouldn't be too worried about",
+   "This direct ko isn't as good for Black as the other option.",
+   "The marked stones are captured. Black's ponnuki is ok, but Black can do better.",
+   "Just living in the corner isn't good enough.",
+   "This is possible, but Black can do better because White's shape is also very thick and str",
+   "White might also think about playing here now, depending on the whole board situation."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-105.sgf",
+  "hints": [
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-107.sgf",
+  "hints": [
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-109.sgf",
+  "hints": [
+   "It's also possible, but Black can do better.",
+   "It's also possible, but Black can do better.",
+   "This move isn't good.",
+   "It's possible, but it's better for White."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-110.sgf",
+  "hints": [
+   "It's also possible, but Black can do better.",
+   "It's also possible, but Black can do better.",
+   "It's bad for Black.",
+   "It's possible, but Black can do better."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-111.sgf",
+  "hints": [
+   "It's no good for Black.",
+   "This is good for White.",
+   "This is good for White."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-112.sgf",
+  "hints": [
+   "It's possible, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-114.sgf",
+  "hints": [
+   "It's good for White.",
+   "It's good for White."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-116.sgf",
+  "hints": [
+   "It's also possible, but Black can do better.",
+   "It's possible, but the shape isn't good.",
+   "It's good for White.",
+   "It's good for White."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-117.sgf",
+  "hints": [
+   "It's a double ko, so White's alive.",
+   "It's a seki, so White's alive.",
+   "It's a double ko, so White's alive."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-118.sgf",
+  "hints": [
+   "It's a ladder.",
+   "This result is better for White.",
+   "This result is better for White.",
+   "This result is better for White.",
+   "This result is better for White.",
+   "This result is better for White.",
+   "This result is better for White."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-119.sgf",
+  "hints": [
+   "This is also possible, but there's a better move.",
+   "This isn't good enough. Black can do better.",
+   "This result is good for White.",
+   "This is possible, but Black can do better.",
+   "This is possible, but Black can do better.",
+   "This is possible, but Black can do better.",
+   "This is possible, but Black can do better.",
+   "This is possible, but Black can do better."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-120.sgf",
+  "hints": [
+   "Black can do better."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-121.sgf",
+  "hints": [
+   "Playing atari here is a mistake for White.",
+   "Black should strike while the iron's hot and play here.",
+   "In descending here, Black succumbs to wishful thinking.",
+   "Black will be able to salvage the situation, but the two mistakes canceled each other out "
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-122.sgf",
+  "hints": [
+   "Black loses points in the corner if he plays like this. The atari at A is also possible fo",
+   "Black can connect at A next, but it's gote."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-123.sgf",
+  "hints": [
+   "This is also possible, but there's a slightly better move in the center.",
+   "Blocking here is sente for White. Black can do better.",
+   "Now A and B are miai for White.",
+   "Black made White's left side position very strong.",
+   "Black made White's left side position very strong.",
+   "Black made White's left side position very strong.",
+   "Black made White's left side position very strong.",
+   "Black made White's left side position very strong."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-124.sgf",
+  "hints": [
+   "It's a bent four in the corner: http://senseis.xmp.net/?BentFourInTheCorner",
+   "It's a bent four in the corner: http://senseis.xmp.net/?BentFourInTheCorner",
+   "It's a bent four in the corner: http://senseis.xmp.net/?BentFourInTheCorner",
+   "It's a bent four in the corner: http://senseis.xmp.net/?BentFourInTheCorner"
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-125.sgf",
+  "hints": [
+   "Even if Black plays at A, it's already a seki. White could also tenuki, instead of playing",
+   "If Black plays at A next, it's a seki, but Black can do better.",
+   "If Black plays at A next, it's a seki, but Black can do better.",
+   "Black can do better.",
+   "If Black plays at A next, it's a seki, but Black can do better.",
+   "If Black plays at A next, it's a seki, but Black can do better.",
+   "It's a seki, but Black can do better.",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-126.sgf",
+  "hints": [
+   "Black needs to defend at A or B now. Black can do better."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-127.sgf",
+  "hints": [
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a bent four in the corner. Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-128.sgf",
+  "hints": [
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-129.sgf",
+  "hints": [
+   "Black is alive, but can do better.",
+   "Black can do better.",
+   "Black can do better.",
+   "Black can do better."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-13.sgf",
+  "hints": [
+   "Seki"
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-130.sgf",
+  "hints": [
+   "It's a ko, but Black can do better.",
+   "Blocking here also works for Black. However, A will be sente for White later (which could ",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "If Black plays at A or B next, it's a seki, but Black can do better.",
+   "If Black plays at A or B next, it's a seki, but Black can do better.",
+   "If Black plays at A or B next, it's a seki, but Black can do better."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-131.sgf",
+  "hints": [
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-133.sgf",
+  "hints": [
+   "Black can do better.",
+   "This is also possible, but there's a clearer way for Black to play.",
+   "It's a ko, but Black can do better.",
+   "Black can do better.",
+   "This is also possible, but Black can do better.",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-135.sgf",
+  "hints": [
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-136.sgf",
+  "hints": [
+   "This is also possible.",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-137.sgf",
+  "hints": [
+   "This is also good, but Black can play in the corner first."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-139.sgf",
+  "hints": [
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-140.sgf",
+  "hints": [
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-16.sgf",
+  "hints": [
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-17.sgf",
+  "hints": [
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-18.sgf",
+  "hints": [
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "Black can't do better."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-19.sgf",
+  "hints": [
+   "A and B are in seki, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-24.sgf",
+  "hints": [
+   "Now it's a ko, but Black can do better.",
+   "Now it's a ko, but Black can do better.",
+   "Now it's a ko, but Black can do better.",
+   "This is a crucial move for White.",
+   "Now it's a ko, but Black can do better.",
+   "This is a mistake for White. A should be at B.",
+   "A and B were both mistakes, but it all came out in the wash... White is captured."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-27.sgf",
+  "hints": [
+   "If White doesn't fight the ko,",
+   "Black can live. A and B are miai next.",
+   "This move lets Black live without ko.",
+   "Black lived easily because of A.",
+   "This move lets Black live without ko.",
+   "Black lived easily because of A."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-28.sgf",
+  "hints": [
+   "This trade is possible, and isn't a bad idea. Black could make better use of the stone at ",
+   "A and B are miai for White. This isn't a good result for Black.",
+   "Now Black's group will have to make eyes in the center.",
+   "Sometimes playing A is a strong move and in those cases, White B should be at A instead. H",
+   "Black A is often a good idea, but Black has a sharper move in this case. If Black wanted t"
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-29.sgf",
+  "hints": [
+   "White R5 is an overplay.",
+   "Black captures White in a ladder.",
+   "White N3 is also an overplay."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-30.sgf",
+  "hints": [
+   "This White move is too greedy..."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-32.sgf",
+  "hints": [
+   "Black has left a weakness here.",
+   "A doesn't work, because Black can't cut at B (White would just play C-E).",
+   "In most cases White will have some ko threats and can play here.",
+   "Black should fight the ko now, but no ko was necessary, so this is a bad result for Black.",
+   "Black should fight the ko now, but no ko was necessary, so this is a bad result for Black.",
+   "Even if Black plays A, White can take sente now, Black's four stones are already captured.",
+   "White could also play A, if territory is important. It gets one more point but gives Black",
+   "A and B are miai for White."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-33.sgf",
+  "hints": [
+   "This is also possible, but Black can do better."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-36.sgf",
+  "hints": [
+   "Black has a ko at A, but Black can do better. White plays this way to take the ko first. W",
+   "Black has a ko at A, but Black can do better."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-38.sgf",
+  "hints": [
+   "Now Black's in trouble.",
+   "Black A is a vital point, but letting White capture Black's two stones in the corner takes"
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-39.sgf",
+  "hints": [
+   "Good. Black 1 is a kind of tesuji for developing Black's cutting stone efficiently.",
+   "This is White's calmest and best response.",
+   "If White plays atari like this, it just helps Black gain momentum. If White keeps pushing ",
+   "This is a bit slack for White.",
+   "Black 5 is another tesuji. Letting Black apply pressure like this makes the postition easy",
+   "Black played normal looking moves, but White is also comfortable.",
+   "Black played normal looking moves, but White is also comfortable.",
+   "Black's move order could be better. Now the stone at A isn't efficiently placed and A for "
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-40.sgf",
+  "hints": [
+   "White can't resist like this",
+   "Black's stones are caught in a ladder."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-41.sgf",
+  "hints": [
+   "White shouldn't try to pull these stones out, but how does Black handle it if she does?",
+   "If White plays like this...",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "This move looks normal, but...",
+   "White's happy to get a chance to play here.",
+   "Sacrificing two stones is a good idea. Can you find a way to get more out of your sacrific",
+   "Playing here is a mistake for White."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-42.sgf",
+  "hints": [
+   "This is what White wants.",
+   "Black can still play here, but...",
+   "Depending on the global position White might trade now, so it could be better to descend e",
+   "Sometimes this is a tesuji, but...",
+   "Black can't hope to win a capturing race at the bottom, so connecting here is good enough.",
+   "This is what White wants.",
+   "Black should live, but this is painful and White can attack Black's three stones at the bo"
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-43.sgf",
+  "hints": [
+   "Sometimes sacrificing like this is good, but here Black can do better.",
+   "Sometimes sacrificing like this is good, but here Black can do better.",
+   "You need to find something sharper than this.",
+   "Now Black's involved in a difficult fight, but there was a better way to play.",
+   "Playing here is good enough to make things hard for Black.",
+   "Black's move was a sort of tesuji, but it's not appropriate in this situation. White has d"
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-45.sgf",
+  "hints": [
+   "Black can do better than this.",
+   "Black can do better than this."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-46.sgf",
+  "hints": [
+   "This is the key move. It looks like bad shape, but it's a powerful technique in this situa",
+   "White shouldn't actually play all this out, but what if she does?",
+   "Good timing",
+   "Black's stones are captured, and he still has to play A in the lower left.",
+   "White A and B (ko) are miai next.",
+   "White is safe and Black's corner still isn't alive."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-49.sgf",
+  "hints": [
+   "Black got caught in a ladder.",
+   "Black got caught in a ladder.",
+   "Black got caught in a ladder.",
+   "There's no way to capture White now.",
+   "A and B are miai for White.",
+   "A and B are miai for White.",
+   "Black got caught in a ladder.",
+   "Black got caught in a ladder."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-50.sgf",
+  "hints": [
+   "Aiming to make a ko or cut off the stone at A is a plausible way of playing, but in this c",
+   "Aiming to make a ko or cut off the stone at A is a plausible way of playing, but in this c"
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-51.sgf",
+  "hints": [
+   "Connecting isn't good for White. White should fight a ko at A instead."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-52.sgf",
+  "hints": [
+   "This move is tesuji in this sort of situation.",
+   "If White insists on playing like this...",
+   "White can't save these stones...",
+   "White can't resist like this...",
+   "It's an overplay for White to try to cut like this.",
+   "Black plays tesuji here and White can't save the cutting stones. No matter what White does",
+   "For example...",
+   "This move is an overplay for White."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-53.sgf",
+  "hints": [
+   "It's a ladder and Black's star point stone doesn't help here.",
+   "It's a ladder and Black's star point stone doesn't help here.",
+   "It's a ladder and Black's star point stone doesn't help here.",
+   "It's a ladder and Black's star point stone doesn't help here.",
+   "White's winning the capturing race at the bottom 4 liberties to 3 and is developing nicely",
+   "White's winning the capturing race at the bottom 4 liberties to 3 and is developing nicely",
+   "White can capture Black's five cutting stones."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-54.sgf",
+  "hints": [
+   "Capturing here isn't good for White...",
+   "Black's stones are captured.",
+   "Black's stones are captured."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-57.sgf",
+  "hints": [
+   "White was able to play lightly and manage both weak groups. White's very thick, so Black h",
+   "White was able to play lightly and manage both weak groups. White's very thick, so Black h",
+   "White can try to oppose Black's plan by crouching down here.",
+   "But now Black will switch back to attacking like this and the exchange at the bottom is st",
+   "It's also possible to play like this.",
+   "Black A will be a strong move now, but...",
+   "Black's corner group was already strong, so White can sacrifice a few stones and make eyes",
+   "Black's attack isn't going anywhere."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-58.sgf",
+  "hints": [
+   "This is also correct.",
+   "Black can live, but White took a lot of profit."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-59.sgf",
+  "hints": [
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-61.sgf",
+  "hints": [
+   "Compared to the main variation, this is second best."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-62.sgf",
+  "hints": [
+   "If White's going to play here, this move is better, but it's better to leave this as a ko ",
+   "White managed to create a ko, but Black can do better.",
+   "White managed to create a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-63.sgf",
+  "hints": [
+   "This is also correct."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-67.sgf",
+  "hints": [
+   "Almost correct, but Black can't atari now, so White lives. Be careful towards the end of t",
+   "Almost correct, but Black's stones are in atari now. Is there a better way to play out the",
+   "Not bad. Can you find a way to win the capturing race though?",
+   "Not bad. Can you find a way to win the capturing race though? Sometimes Black's move at C1"
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-68.sgf",
+  "hints": [
+   "If taking sente or preventing White from controlling the center is very important, Black c",
+   "White is satisfied with this."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-69.sgf",
+  "hints": [
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ten thousand year ko: http://senseis.xmp.net/?MannenKo Black can do better.",
+   "It's a ten thousand year ko: http://senseis.xmp.net/?MannenKo Black can do better.",
+   "It's a ten thousand year ko: http://senseis.xmp.net/?MannenKo Black can do better.",
+   "It' a ko, but Black can do better.",
+   "White could also play here now. Even though White doesn't strictly have two eyes, White wo"
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-70.sgf",
+  "hints": [
+   "Black's dead.",
+   "Black has weaknesses at A and B, but only has time to fix one of them, so Black's dead.",
+   "Black's dead."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-71.sgf",
+  "hints": [
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "This is a two step ko, Black can do a lot better."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-72.sgf",
+  "hints": [
+   "This is ok too, but White's center stones are a bit stronger than in other variations."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-73.sgf",
+  "hints": [
+   "If Black answers at A, White can play elsewhere and still win the capturing race in the co"
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-74.sgf",
+  "hints": [
+   "White shouldn't extend like this. If she does, Black can get an even better result.",
+   "Compared to the main variation, White is one step ahead of Black here."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-75.sgf",
+  "hints": [
+   "Playing at A is possible, but could be a bit heavy for Black. The ko isn't that easy to fi",
+   "White's two stones are captured by a ladder.",
+   "If White plays here,",
+   "Black's happy to trade like this.",
+   "Black's ok here and, depending on the whole board situation, this could be playable. Howev"
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-76.sgf",
+  "hints": [
+   "Even if White exchanges this move,",
+   "Black just cuts and,",
+   "White still has to crawl after all.",
+   "This is another possible way of playing for Black. The main variation is a bit cleaner.",
+   "It's hard for Black to fight powerfully after this.",
+   "Sacrificing is ok for White because Black's corner was already alive anyway. This is a lig"
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-77.sgf",
+  "hints": [
+   "Black can try to squeeze, but he can't hold White in.",
+   "This ladder doesn't work.",
+   "Black can escape along the edge with a heavy group, but White can still live easily in the",
+   "Capturing like this is nearly always a mistake.",
+   "Now White can throw in here too. Unless Black has some stones that can help in the top lef"
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-78.sgf",
+  "hints": [
+   "If White play here, which is quite a bad move,",
+   "Now Black can extend here, and"
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-79.sgf",
+  "hints": [
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-80.sgf",
+  "hints": [
+   "If the ladder favors White, she could also cut at A now.",
+   "Black can create a ko like this, but Black doesn't need to fight a ko.",
+   "Black can make a ko like this. This is often a good resource for Black, but in this case B",
+   "Black doesn't have enough liberties to atari at A.",
+   "A and B are miai for White.",
+   "Black can live in ko with A-E, but this is a terrible result and Black's left side group i"
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-81.sgf",
+  "hints": [
+   "White will capture Black's corner stones."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-82.sgf",
+  "hints": [
+   "Black's dead."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-83.sgf",
+  "hints": [
+   "Not bad, but White managed to live. Can you do better?",
+   "White's alive. Can you do better?"
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-84.sgf",
+  "hints": [
+   "It's a ko for life, but Black has a better move.",
+   "If White plays here, which is a mistake...",
+   "White's group dies after Black plays like this."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-85.sgf",
+  "hints": [
+   "Eventually Black will have to connect at A (because the stone at B will let Black atari Bl"
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-86.sgf",
+  "hints": [
+   "This is a bad move for White...",
+   "This move is a mistake for White too."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-88.sgf",
+  "hints": [
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better",
+   "It's a ko, but Black can do better",
+   "It's a ko, but Black can do better",
+   "It's a ko, but Black can do better"
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-90.sgf",
+  "hints": [
+   "It's a ko, but Black can do better.",
+   "It's a seki.",
+   "It's a seki.",
+   "It's a ko, but Black can do better.",
+   "It's a seki.",
+   "It's a ko, but Black can do better.",
+   "It's a seki.",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-92.sgf",
+  "hints": [
+   "It's a seki, so White's alive."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-93.sgf",
+  "hints": [
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a double ko, so White's alive."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-94.sgf",
+  "hints": [
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-95.sgf",
+  "hints": [
+   "Not that bad, but Black can do better.",
+   "Black should avoid this cut.",
+   "Not that bad, but Black can do better.",
+   "This isn't the best result. Black can do better.",
+   "Black can live in the corner, but Black's cutting stones, at A, are lonely now.",
+   "Black can live in the corner, but Black's cutting stones, at A, are lonely now."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-96.sgf",
+  "hints": [
+   "This is also possible, but Black can make a profitable forcing exchange, at A, before conn"
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-97.sgf",
+  "hints": [
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-98.sgf",
+  "hints": [
+   "This ladder doesn't work for Black.",
+   "This ladder doesn't work for Black.",
+   "Sometimes Black plays something like this, but Black can do much better in this situation.",
+   "White wins the capturing race.",
+   "White wins the capturing race."
+  ]
+ },
+ {
+  "f": "intermediate/ggg-intermediate-99.sgf",
+  "hints": [
+   "Black doesn't have enough liberties to connect at A.",
+   "Black would prefer to capture these stones, if possible.",
+   "White's stones are separated and this is a good result for Black. The stone at A still has",
+   "This isn't too bad, but Black can get a better result with sharper play.",
+   "Black usually needs three liberties to make this work, but he only has two. Black's dead.",
+   "The stone at A has been wasted. Black can do better."
+  ]
+ }
+]

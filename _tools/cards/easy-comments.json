@@ -1,0 +1,1378 @@
+[
+ {
+  "f": "ggg-easy-01.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Also correct. Playing this move at A is usually better style because it leaves less bad aji (potential for bad things to happen) on the outside."
+  ]
+ },
+ {
+  "f": "ggg-easy-02.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "ggg-easy-03.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "ggg-easy-04.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "ggg-easy-05.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-06.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-07.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-08.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-09.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "ggg-easy-10.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-100.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct",
+   "Correct",
+   "Correct",
+   "White could also tenuki now, if she wants to take sente for example, and Black will only be able to capture the number 1 (through shortage of liberties). The rest of the group is already alive.",
+   "If White tenukis...",
+   "The rest of White's group is still alive. White shouldn't connect at A because Black would atari at B."
+  ]
+ },
+ {
+  "f": "ggg-easy-101.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-102.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct. Black has enough liberties to play here in this case.",
+   "Correct",
+   "Even if Black plays at A now, it will almost never be sente, because B and C are miai. See: http://senseis.xmp.net/?BentFourInTheCorner",
+   "Even if Black plays at A now, it will almost never be sente, because B and C are miai. See: http://senseis.xmp.net/?BentFourInTheCorner",
+   "Some players worry that Black can escape like this. However, unless there's a stone nearby on the bottom side, there's no way to escape. For example...",
+   "If there's nothing for Black to connect to, White can also just keep extending.",
+   "White will make as many of these exchanges as Black likes.",
+   "Black can't escape like this either. For example..."
+  ]
+ },
+ {
+  "f": "ggg-easy-103.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct",
+   "Correct",
+   "Correct",
+   "Black can make a seki (in gote) with A, but Black can do better."
+  ]
+ },
+ {
+  "f": "ggg-easy-104.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct",
+   "This move gives Black a shortage of liberties.",
+   "How can you stop this happening?",
+   "It's a snapback."
+  ]
+ },
+ {
+  "f": "ggg-easy-105.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "It's a ko, but Black can do better.",
+   "Correct",
+   "Correct",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "ggg-easy-106.sgf",
+  "cm": [
+   "Correct",
+   "Correct",
+   "Correct",
+   "Correct",
+   "Correct",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "ggg-easy-107.sgf",
+  "cm": [
+   "Correct",
+   "Correct",
+   "There's a better move for this.",
+   "Correct",
+   "Correct",
+   "Correct",
+   "Correct",
+   "Correct",
+   "There's a better move for this.",
+   "Correct",
+   "There's a better move for this.",
+   "This is also possible, but there was a better move for A.",
+   "This is also possible, but there was a better move for A."
+  ]
+ },
+ {
+  "f": "ggg-easy-108.sgf",
+  "cm": [
+   "Correct",
+   "Correct",
+   "Correct",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "ggg-easy-109.sgf",
+  "cm": [
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-11.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-110.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "It's a bent four in the corner. \nhttp://senseis.xmp.net/?BentFourInTheCorner",
+   "It's a bent four in the corner. \nhttp://senseis.xmp.net/?BentFourInTheCorner"
+  ]
+ },
+ {
+  "f": "ggg-easy-111.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct",
+   "Correct",
+   "Correct",
+   "Correct",
+   "It's a ko, but Black can do better.",
+   "It's a double ko, and Black's captured.",
+   "It's a double ko, and Black's captured."
+  ]
+ },
+ {
+  "f": "ggg-easy-112.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct. It's a ko.",
+   "Correct. It's a ko.",
+   "Correct. It's a ko.",
+   "Correct. It's a ko.",
+   "Correct. It's a ko."
+  ]
+ },
+ {
+  "f": "ggg-easy-113.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-114.sgf",
+  "cm": [
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-115.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-116.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct",
+   "Correct",
+   "Correct",
+   "Correct",
+   "Correct",
+   "Correct",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "ggg-easy-117.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-118.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "Correct",
+   "Correct",
+   "Correct",
+   "Correct",
+   "Correct",
+   "Correct",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "ggg-easy-119.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct",
+   "Black A has been captured in a ladder. This result is bad for Black.",
+   "Black A has been captured in a ladder. This result is bad for Black.",
+   "There's a ko at A, but Black can do better.",
+   "This is possible, but Black can do better.",
+   "This is possible, but Black can do better. White's peep at A will be sente."
+  ]
+ },
+ {
+  "f": "ggg-easy-12.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "It's bent four in the corner. http://senseis.xmp.net/?BentFourInTheCorner"
+  ]
+ },
+ {
+  "f": "ggg-easy-120.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct",
+   "Correct",
+   "Correct",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-121.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-122.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct",
+   "Correct",
+   "Correct",
+   "Correct",
+   "Correct",
+   "Correct",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-123.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-124.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct.\n\nIt's a bent four in the corner: http://senseis.xmp.net/?BentFourInTheCorner"
+  ]
+ },
+ {
+  "f": "ggg-easy-125.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct",
+   "Correct",
+   "Correct",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-126.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "White's alive. Even if Black connects at A next, White's already alive in seki.",
+   "Correct",
+   "It' a ko, but Black can do better.",
+   "It' a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "ggg-easy-127.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct",
+   "It's a ko, but Black can do better.",
+   "Correct",
+   "Correct",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-128.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct",
+   "White's alive. Even if Black plays at A next, White's already alive in seki."
+  ]
+ },
+ {
+  "f": "ggg-easy-129.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct",
+   "Correct",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-13.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "ggg-easy-130.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-131.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-132.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct. Even if White connects at A next, she'll lose the capturing race because it's 'one eye vs no eye'.",
+   "Even if Black connects at A next, White's already alive in seki."
+  ]
+ },
+ {
+  "f": "ggg-easy-133.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct",
+   "Correct",
+   "Correct",
+   "Correct",
+   "Correct",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "ggg-easy-134.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct",
+   "Correct",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "ggg-easy-135.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct",
+   "It's a ko, but Black can do better.",
+   "Correct",
+   "Black's position on the outside is falling apart.",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-136.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct",
+   "Correct",
+   "Correct",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-137.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct",
+   "This ladder doesn't work for Black, because Black A is in atari.",
+   "Black can do better.",
+   "Correct",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-138.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct",
+   "Correct",
+   "Correct",
+   "Correct",
+   "Correct",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "ggg-easy-139.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct",
+   "This is also possible, but Black can do better.",
+   "This is also possible, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "It's a ko, but Black can do better.",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-14.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-140.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct",
+   "Correct",
+   "Correct",
+   "Also correct.",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-15.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-16.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-17.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct",
+   "Correct",
+   "White's already alive."
+  ]
+ },
+ {
+  "f": "ggg-easy-18.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-19.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-20.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-21.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "ggg-easy-22.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "It's a ko, but Black can do better.",
+   "White got tricked...",
+   "...Black shouldn't live, but does with this move.",
+   "This move is a mistake for White...",
+   "It's a ko."
+  ]
+ },
+ {
+  "f": "ggg-easy-23.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-24.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct, if Black ignores A, White can play at B.",
+   "Correct, Black could also play A at B to live with one more point.",
+   "Correct",
+   "Correct",
+   "A could also be a move like B or C, but A is as far away as possible to provide a greater benefit in the marked area."
+  ]
+ },
+ {
+  "f": "ggg-easy-25.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-26.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct, but White just gives away two points by playing this way.",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "ggg-easy-27.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-28.sgf",
+  "cm": [
+   "Black to play. Can you find a way to capture White's two stones?\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Also correct. Playing A at B is better style though because White might play C as a ko threat later. If you ignore the ko threat, would you rather lose two stones or three?",
+   "Correct",
+   "White can't play here either...",
+   "Correct",
+   "White can't get more liberties, so this doesn't change anything...",
+   "Correct",
+   "Correct",
+   "Correct",
+   "Correct",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-29.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "White can't play here...",
+   "Correct",
+   "White's alive."
+  ]
+ },
+ {
+  "f": "ggg-easy-30.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct",
+   "Correct",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "ggg-easy-31.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-32.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-33.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-34.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-35.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-36.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct",
+   "Correct",
+   "Correct",
+   "Correct",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-37.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct. Now both groups are alive in seki.",
+   "Correct. Now both groups are alive in seki."
+  ]
+ },
+ {
+  "f": "ggg-easy-38.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-39.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-40.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct",
+   "After White 4 here, there's no way to live."
+  ]
+ },
+ {
+  "f": "ggg-easy-41.sgf",
+  "cm": [
+   "Black to play. Can you capture White's cutting stone at A?\n\nhttps://gogameguru.com/",
+   "Correct",
+   "The ladder doesn't work.",
+   "The ladder doesn't work.",
+   "White's escaping.",
+   "Black can do better.",
+   "Black can do better.",
+   "Now Black's in trouble."
+  ]
+ },
+ {
+  "f": "ggg-easy-42.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-43.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "This is the vital point.",
+   "Good move, this makes White's eyespace as small as possible.",
+   "Correct. If White plays A, Black can just play B (or atari at C in some situations). White can't make two eyes.",
+   "Black almost had it. There's a better move than A.",
+   "Correct",
+   "White's already alive in seki.",
+   "Correct",
+   "White's four in a row eyespace is alive because White A and B are miai (that means if Black takes one, White can take the other one)."
+  ]
+ },
+ {
+  "f": "ggg-easy-44.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct. Now Black's alive in seki. If White tries to play A or B, Black can capture and make two eyes.",
+   "The shape of White's four stones is called a 'bulky four'. If Black captures White's four stones, White will immediately play at A, and Black won't be able to make two eyes.\n\nIf Black does nothing, White can atari at B, making a 'bulky five' shape. If Black then captures, White A still works.",
+   "Even if White passes...",
+   "Black can't make two eyes.",
+   "Black passes. Black's already dead, but for the sake of demonstration...",
+   "Atari...",
+   "Capture...",
+   "White plays on the vital point.",
+   "Black can't make two eyes.",
+   "Black can't make two eyes.",
+   "It's already a dead shape.",
+   "It's already a dead shape."
+  ]
+ },
+ {
+  "f": "ggg-easy-45.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-46.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "It's a ko, but Black can do better.",
+   "Black should be captured now, but this White move is a mistake...",
+   "A and B are miai for Black (if White defends against one, Black plays the other), so Black lives."
+  ]
+ },
+ {
+  "f": "ggg-easy-47.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-48.sgf",
+  "cm": [
+   "Black to play.\n\nWhite A would have been better at B. Why?\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct",
+   "Correct",
+   "This is a mess. Black has a move that settles things in a simple and clean manner.",
+   "Next White can cut at A or B, so the position becomes very difficult for Black.",
+   "Black's missed a great opportunity. White can even cut here now.",
+   "Black defended the left side, but White can play here now."
+  ]
+ },
+ {
+  "f": "ggg-easy-49.sgf",
+  "cm": [
+   "Black to play. How can Black prevent White from capturing at A while also winning the capturing race between B and C?\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct",
+   "Correct",
+   "Correct",
+   "Correct",
+   "Not too bad, but Black can do capture some stones."
+  ]
+ },
+ {
+  "f": "ggg-easy-50.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-51.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Almost got it, have another go.",
+   "Almost got it, have another go."
+  ]
+ },
+ {
+  "f": "ggg-easy-52.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct",
+   "Correct",
+   "Next if Black cuts at A, White can atari at B and capture two stones. If Black plays C instead, White can keep fighting at D, or just connect at A. Black had a way to capture the cutting stones instead.",
+   "Correct",
+   "Correct",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-53.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct. This is the best shape, because it gives Black the best potential for making eyes later. A and B are miai for Black now. If White tries to play A-C, Black D captures White's stones.",
+   "White plays on the vital point and Black's group becomes weak. Notice the relationship between A and B - the point at C can only ever become a false eye now.",
+   "If the game continues like this, Black doesn't have much room to make eyes, so the whole group may be in trouble later.",
+   "Later on there's still a vital point here...",
+   "Making this exchange helps White. In addition, Black still has weaknesses at A and B, so Black hasn't developed a good shape and still has to play another move here. In some situations White might choose to play at A or B immediately after Black kicks with the diagonal attachment.",
+   "This move is uninspired.",
+   "Later on White can play here and Black doesn't have much eyespace, so the group will be weak."
+  ]
+ },
+ {
+  "f": "ggg-easy-54.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct",
+   "Correct",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-55.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct. White has one eye and one false eye.",
+   "Correct",
+   "Also correct.",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-56.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct. Now, even if White captures the four stones, it won't be possible to make two eyes.",
+   "White's alive.",
+   "Black can't connect at A. If he could, he wouldn't have any liberties and his stones would be captured. After that, it would be White’s turn and White could play at A to make two eyes."
+  ]
+ },
+ {
+  "f": "ggg-easy-57.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct. Black wins the capturing race.",
+   "Correct. Black wins the capturing race.",
+   "Correct. Black captures the cutting stones.",
+   "Correct. Black captures the cutting stones.",
+   "Now Black has to fight a ko here. If Black just conntects at A, White will atari at B and it's still a ko.",
+   "This is a seki, and Black has to worry about the weakness at A now.",
+   "This is a seki, and Black has to worry about the weakness at A now.",
+   "Black doesn't have enough liberties to make a ko, so Black dies.",
+   "Now Black has to fight a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "ggg-easy-58.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-59.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct",
+   "Correct",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-60.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-61.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "ggg-easy-62.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct",
+   "Correct",
+   "Correct",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-63.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct",
+   "Correct",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-64.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-65.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-66.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-67.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-68.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Now White can't play here, right?",
+   "Correct",
+   "Correct",
+   "Correct",
+   "Black can't make two eyes now. A is a false eye because it's not connected to the rest of the group with a Black stone at B.",
+   "Black can't make two eyes now. Later if White wants to take these stones off the board for some reason, White can exchange A for B, then fill the outside liberties with C and D. Capturing White's stones will only give Black one eye."
+  ]
+ },
+ {
+  "f": "ggg-easy-69.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct. Black wins the capturing race.",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-70.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct. Black lives with two eyes.",
+   "Capturing at A only makes a false eye, so Black dies.",
+   "Black only has one eye, so Black's dead.",
+   "Black only has one eye, so Black's dead.",
+   "Capturing at A only makes a false eye, so Black's already died."
+  ]
+ },
+ {
+  "f": "ggg-easy-71.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct. If White plays at A Black can capture at B. If White plays at B, Black connects at A, so Black's alive with two eyes.",
+   "Correct",
+   "Black can't make two eyes now.",
+   "This is the vital point. Black will die after White plays here."
+  ]
+ },
+ {
+  "f": "ggg-easy-72.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "It's a ko, but Black can do better."
+  ]
+ },
+ {
+  "f": "ggg-easy-73.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct",
+   "Correct",
+   "Correct",
+   "A is a false eye, so Black's group will be captured.",
+   "White can capture Black's stones now, so the cutting stone Black played loses its value."
+  ]
+ },
+ {
+  "f": "ggg-easy-74.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct. White can't cut at A because she'll atari herself.",
+   "Correct",
+   "Now White can fight a ko, but Black could have avoided that."
+  ]
+ },
+ {
+  "f": "ggg-easy-75.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct\n\nA and B are miai for Black now."
+  ]
+ },
+ {
+  "f": "ggg-easy-76.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct. White only has two liberties and all of Black's groups have more than that. No matter what White does next, Black can atari.",
+   "This variation is even worse for Black than the previous one because White's stones are safe and Black still has to worry about White cutting at A."
+  ]
+ },
+ {
+  "f": "ggg-easy-77.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-78.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Turning like this is often a good move, but in this case,",
+   "White will play here and now Black's corner stones are captured."
+  ]
+ },
+ {
+  "f": "ggg-easy-79.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-80.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct",
+   "This is also possible, but there's a better one.",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-81.sgf",
+  "cm": [
+   "Black to play.\n\nHow can Black connect his all stones?\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct",
+   "This is a kind of net, not really a ladder.",
+   "If Black tries to escape...",
+   "This is also good for White.",
+   "Black can attack on a large scale too.",
+   "White can manage the situation lightly like this. Other moves are possible too.",
+   "A and B are miai for White next."
+  ]
+ },
+ {
+  "f": "ggg-easy-82.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct",
+   "Correct. A and B are still miai for Black.",
+   "Correct. A and B are still miai for Black."
+  ]
+ },
+ {
+  "f": "ggg-easy-83.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "It's a ko, but Black can do better.",
+   "White doesn't need to fight a ko.",
+   "Correct",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-84.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct. Now White doesn't have enough liberties to atari at A.",
+   "Black can capture at A, but this will be a ko fight. Black can do better.",
+   "It's a ko, but Black can do better.",
+   "This move helps White.",
+   "Black still has a ko, but playing like this is unnecessary",
+   "Black still has a ko, but playing like this is unnecessary",
+   "If Black wants a ko, he'll get one, but Black can avoid ko completely.",
+   "It's a ko fight, but Black can do better.",
+   "It's a ko fight, but Black can do better."
+  ]
+ },
+ {
+  "f": "ggg-easy-85.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct",
+   "Correct",
+   "Correct",
+   "White can resist with a ko. Can you do better?",
+   "This is a seki, but now Black has to worry about the cutting point at A.",
+   "This is a seki, but now Black has to worry about the cutting point at A. White could also have chosen to fight a ko at B."
+  ]
+ },
+ {
+  "f": "ggg-easy-86.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct. Black doesn't have to start this sort of ko immediately. It might be better to leave it as a time bomb. If White defends, Black will get to play two moves in a row somewhere else."
+  ]
+ },
+ {
+  "f": "ggg-easy-87.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-88.sgf",
+  "cm": [
+   "Black to play.\r\n\r\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct",
+   "It's a ko, but it's unnecessary for Black to fight a ko here.",
+   "It's a seki, but Black can do better."
+  ]
+ },
+ {
+  "f": "ggg-easy-89.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-90.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct. It's not best though.",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-91.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct. White doesn't have enough liberties to atari at A or B, so Black will win the capturing race.",
+   "Correct",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-92.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct, but not the best. White has one more liberty."
+  ]
+ },
+ {
+  "f": "ggg-easy-93.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-94.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-95.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct. Even if White plays at A next, Black's still alive in seki: http://senseis.xmp.net/?seki",
+   "Correct",
+   "White can also kill Black like this.",
+   "Even if Black plays at A or B next, White can ignore it and Black's still dead."
+  ]
+ },
+ {
+  "f": "ggg-easy-96.sgf",
+  "cm": [
+   "Correct",
+   "Correct",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-97.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "Correct",
+   "Correct",
+   "Correct"
+  ]
+ },
+ {
+  "f": "ggg-easy-98.sgf",
+  "cm": [
+   "Black to play.\n\nhttps://gogameguru.com/",
+   "Correct",
+   "This ladder doesn't work for Black.",
+   "This ladder doesn't work for Black."
+  ]
+ },
+ {
+  "f": "ggg-easy-99.sgf",
+  "cm": [
+   "Black to play.\n\nHow can Black capture the cutting stones?\n\nhttps://gogameguru.com/",
+   "Correct",
+   "It's also possible, but not the best. When White pushes at A, Black can't block at B, because of cut at C.",
+   "Correct",
+   "Also correct."
+  ]
+ }
+]

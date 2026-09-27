@@ -1,0 +1,3804 @@
+[
+ {
+  "file": "easy/ggg-easy-01.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-02.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-03.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-04.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 1,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-05.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-06.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-07.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-08.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-09.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 1,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-10.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-100.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-101.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-102.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-103.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-104.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-105.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-106.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-107.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 9,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-108.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-109.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-11.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-110.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-111.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-112.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-113.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-114.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-115.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-116.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-117.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-118.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 9,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-119.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-12.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-120.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-121.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-122.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-123.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 9,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-124.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-125.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-126.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-127.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-128.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-129.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-13.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 1,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-130.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-131.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-132.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-133.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-134.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 9,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-135.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-136.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-137.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 11,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-138.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-139.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-14.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-140.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-15.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-16.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-17.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-18.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-19.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-20.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-21.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 1,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-22.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-23.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-24.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-25.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 1,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-26.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-27.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-28.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-29.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-30.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-31.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-32.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-33.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-34.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-35.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-36.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-37.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-38.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 1,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-39.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-40.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-41.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-42.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-43.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 9,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-44.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 1,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-45.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-46.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-47.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-48.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-49.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-50.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-51.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-52.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-53.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 1,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-54.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-55.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-56.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 1,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-57.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-58.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-59.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-60.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-61.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-62.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-63.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 9,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-64.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-65.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-66.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-67.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-68.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-69.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-70.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-71.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-72.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-73.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-74.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 1,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-75.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 1,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-76.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-77.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 9,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-78.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-79.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-80.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 9,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-81.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-82.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-83.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-84.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 1,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-85.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-86.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-87.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-88.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-89.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-90.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-91.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-92.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-93.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-94.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 9,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-95.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-96.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-97.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-98.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 9,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "easy/ggg-easy-99.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-01.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-02.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-03.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-04.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-05.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-06.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 1,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-07.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-08.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-09.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-10.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-100.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 9,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-101.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-102.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-103.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-104.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-105.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-106.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-107.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-108.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-109.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-11.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-110.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-111.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-112.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-113.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 9,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-114.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-115.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-116.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-117.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-118.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 9,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-119.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 11,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-12.sgf",
+  "ok": false,
+  "errors": [
+   "主解未到达 success 终点"
+  ],
+  "mainlineLen": 0,
+  "successReachable": false,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": true
+ },
+ {
+  "file": "intermediate/ggg-intermediate-120.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 13,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-121.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 11,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-122.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-123.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-124.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-125.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 13,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-126.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-127.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-128.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 13,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-129.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 11,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-13.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-130.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 9,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-131.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 13,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-132.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-133.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 9,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-134.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-135.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 9,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-136.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 11,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-137.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 11,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-138.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-139.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 9,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-14.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-140.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-15.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-16.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-17.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-18.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-19.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-20.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-21.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 15,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-22.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-23.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-24.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-25.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-26.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-27.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-28.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 13,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-29.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 9,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-30.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-31.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-32.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-33.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 9,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-34.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 9,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-35.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-36.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-37.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-38.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-39.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-40.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-41.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 13,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-42.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 13,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-43.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 9,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-44.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-45.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-46.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 13,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-47.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-48.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-49.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 9,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-50.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-51.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-52.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-53.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-54.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-55.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 17,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-56.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-57.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-58.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 9,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-59.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 15,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-60.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 11,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-61.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-62.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-63.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-64.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 9,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-65.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 23,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-66.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 11,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-67.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 15,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-68.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-69.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 9,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-70.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 1,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-71.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-72.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-73.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-74.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-75.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 9,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-76.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-77.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 19,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-78.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 9,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-79.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-80.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 9,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-81.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-82.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-83.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 9,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-84.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-85.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 9,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-86.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-87.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-88.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-89.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-90.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-91.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 9,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-92.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-93.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-94.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-95.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 9,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-96.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-97.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 9,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-98.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 11,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "intermediate/ggg-intermediate-99.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 11,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-01.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-02.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-03.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-04.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-05.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 11,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-06.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 9,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-07.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-08.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 9,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-09.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 9,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-10.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-100.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-101.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 11,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-102.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-103.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-104.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 9,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-105.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 11,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-106.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-107.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 11,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-108.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 11,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-109.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 9,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-11.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 11,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-110.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-111.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-112.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 13,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-113.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 11,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-114.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 11,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-115.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 11,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-116.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 9,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-117.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 9,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-118.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 9,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-119.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 11,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-12.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-120.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 23,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-121.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-122.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 9,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-123.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-124.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-125.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 11,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-126.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-127.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-128.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-129.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-13.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 11,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-130.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-131.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 11,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-132.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 15,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-133.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 9,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-134.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 9,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-135.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 9,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-136.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 13,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-137.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 11,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-138.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 11,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-139.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-14.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 9,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-140.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-15.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-16.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 11,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-17.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-18.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 9,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-19.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 11,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-20.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 9,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-21.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 13,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-22.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-23.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 11,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-24.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-25.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 11,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-26.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 9,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-27.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 13,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-28.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-29.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-30.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 13,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-31.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 13,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-32.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 9,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-33.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-34.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 9,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-35.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-36.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-37.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-38.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-39.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 15,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-40.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-41.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-42.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 15,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-43.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 9,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-44.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 11,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-45.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 13,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-46.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 11,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-47.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 9,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-48.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 13,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-49.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 21,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-50.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 17,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-51.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 19,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-52.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-53.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-54.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 11,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-55.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 9,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-56.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 9,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-57.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 13,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-58.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-59.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 17,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-60.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-61.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 9,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-62.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 9,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-63.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-64.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 15,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-65.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-66.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-67.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 11,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-68.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 19,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-69.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-70.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-71.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 9,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-72.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-73.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-74.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 13,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-75.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-76.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-77.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-78.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 13,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-79.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 9,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-80.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 65,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-81.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 11,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-82.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-83.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 3,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-84.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 9,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-85.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 9,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-86.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-87.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-88.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 13,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-89.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 9,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-90.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 11,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-91.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 13,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-92.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 17,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-93.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-94.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 7,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-95.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 9,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-96.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 11,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-97.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 11,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-98.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 11,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "hard/ggg-hard-99.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 5,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "other/ggg-eternal-life.sgf",
+  "ok": true,
+  "errors": [],
+  "mainlineLen": 9,
+  "successReachable": true,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": false
+ },
+ {
+  "file": "other/heart-go-problem.sgf",
+  "ok": false,
+  "errors": [
+   "主解未到达 success 终点"
+  ],
+  "mainlineLen": 0,
+  "successReachable": false,
+  "hasDeadRoot": false,
+  "noSuccessLeaf": true
+ }
+]

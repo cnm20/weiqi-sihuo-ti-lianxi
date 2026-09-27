@@ -1,0 +1,338 @@
+[
+ {
+  "file": "easy/ggg-easy-17.sgf",
+  "mainLen": 1,
+  "successLeaves": 2,
+  "commentLeaves": 2,
+  "rootCandidates": 5,
+  "userColor": "B",
+  "comments": [
+   "Correct",
+   "White's already alive."
+  ]
+ },
+ {
+  "file": "easy/ggg-easy-04.sgf",
+  "mainLen": 1,
+  "successLeaves": 1,
+  "commentLeaves": 1,
+  "rootCandidates": 4,
+  "userColor": "B",
+  "comments": [
+   "Correct"
+  ]
+ },
+ {
+  "file": "easy/ggg-easy-09.sgf",
+  "mainLen": 1,
+  "successLeaves": 1,
+  "commentLeaves": 1,
+  "rootCandidates": 3,
+  "userColor": "B",
+  "comments": [
+   "Correct"
+  ]
+ },
+ {
+  "file": "easy/ggg-easy-13.sgf",
+  "mainLen": 1,
+  "successLeaves": 1,
+  "commentLeaves": 1,
+  "rootCandidates": 4,
+  "userColor": "B",
+  "comments": [
+   "Correct"
+  ]
+ },
+ {
+  "file": "easy/ggg-easy-21.sgf",
+  "mainLen": 1,
+  "successLeaves": 1,
+  "commentLeaves": 1,
+  "rootCandidates": 2,
+  "userColor": "B",
+  "comments": [
+   "Correct"
+  ]
+ },
+ {
+  "file": "easy/ggg-easy-25.sgf",
+  "mainLen": 1,
+  "successLeaves": 1,
+  "commentLeaves": 1,
+  "rootCandidates": 3,
+  "userColor": "B",
+  "comments": [
+   "Correct"
+  ]
+ },
+ {
+  "file": "easy/ggg-easy-38.sgf",
+  "mainLen": 1,
+  "successLeaves": 1,
+  "commentLeaves": 1,
+  "rootCandidates": 5,
+  "userColor": "B",
+  "comments": [
+   "Correct"
+  ]
+ },
+ {
+  "file": "easy/ggg-easy-44.sgf",
+  "mainLen": 1,
+  "successLeaves": 1,
+  "commentLeaves": 1,
+  "rootCandidates": 4,
+  "userColor": "B",
+  "comments": [
+   "Correct. Now Black's alive in seki. If White tries to play A"
+  ]
+ },
+ {
+  "file": "easy/ggg-easy-53.sgf",
+  "mainLen": 1,
+  "successLeaves": 1,
+  "commentLeaves": 1,
+  "rootCandidates": 5,
+  "userColor": "B",
+  "comments": [
+   "Correct. This is the best shape, because it gives Black the "
+  ]
+ },
+ {
+  "file": "easy/ggg-easy-56.sgf",
+  "mainLen": 1,
+  "successLeaves": 1,
+  "commentLeaves": 1,
+  "rootCandidates": 6,
+  "userColor": "B",
+  "comments": [
+   "Correct. Now, even if White captures the four stones, it won"
+  ]
+ },
+ {
+  "file": "easy/ggg-easy-74.sgf",
+  "mainLen": 1,
+  "successLeaves": 1,
+  "commentLeaves": 1,
+  "rootCandidates": 5,
+  "userColor": "B",
+  "comments": [
+   "Correct. White can't cut at A because she'll atari herself."
+  ]
+ },
+ {
+  "file": "easy/ggg-easy-75.sgf",
+  "mainLen": 1,
+  "successLeaves": 1,
+  "commentLeaves": 1,
+  "rootCandidates": 5,
+  "userColor": "B",
+  "comments": [
+   "Correct\n\nA and B are miai for Black now."
+  ]
+ },
+ {
+  "file": "easy/ggg-easy-84.sgf",
+  "mainLen": 1,
+  "successLeaves": 1,
+  "commentLeaves": 1,
+  "rootCandidates": 6,
+  "userColor": "B",
+  "comments": [
+   "Correct. Now White doesn't have enough liberties to atari at"
+  ]
+ },
+ {
+  "file": "easy/ggg-easy-55.sgf",
+  "mainLen": 2,
+  "successLeaves": 3,
+  "commentLeaves": 3,
+  "rootCandidates": 6,
+  "userColor": "B",
+  "comments": [
+   "Correct. White has one eye and one false eye.",
+   "Correct",
+   "Also correct."
+  ]
+ },
+ {
+  "file": "easy/ggg-easy-60.sgf",
+  "mainLen": 2,
+  "successLeaves": 3,
+  "commentLeaves": 3,
+  "rootCandidates": 4,
+  "userColor": "B",
+  "comments": [
+   "Correct"
+  ]
+ },
+ {
+  "file": "easy/ggg-easy-91.sgf",
+  "mainLen": 2,
+  "successLeaves": 3,
+  "commentLeaves": 3,
+  "rootCandidates": 5,
+  "userColor": "B",
+  "comments": [
+   "Correct. White doesn't have enough liberties to atari at A o",
+   "Correct"
+  ]
+ },
+ {
+  "file": "easy/ggg-easy-01.sgf",
+  "mainLen": 2,
+  "successLeaves": 2,
+  "commentLeaves": 2,
+  "rootCandidates": 4,
+  "userColor": "B",
+  "comments": [
+   "Correct",
+   "Also correct. Playing this move at A is usually better style"
+  ]
+ },
+ {
+  "file": "easy/ggg-easy-27.sgf",
+  "mainLen": 2,
+  "successLeaves": 2,
+  "commentLeaves": 2,
+  "rootCandidates": 5,
+  "userColor": "B",
+  "comments": [
+   "Correct"
+  ]
+ },
+ {
+  "file": "easy/ggg-easy-37.sgf",
+  "mainLen": 2,
+  "successLeaves": 2,
+  "commentLeaves": 2,
+  "rootCandidates": 5,
+  "userColor": "B",
+  "comments": [
+   "Correct. Now both groups are alive in seki."
+  ]
+ },
+ {
+  "file": "easy/ggg-easy-47.sgf",
+  "mainLen": 2,
+  "successLeaves": 2,
+  "commentLeaves": 2,
+  "rootCandidates": 2,
+  "userColor": "B",
+  "comments": [
+   "Correct"
+  ]
+ },
+ {
+  "file": "easy/ggg-easy-49.sgf",
+  "mainLen": 2,
+  "successLeaves": 2,
+  "commentLeaves": 2,
+  "rootCandidates": 10,
+  "userColor": "B",
+  "comments": [
+   "Correct"
+  ]
+ },
+ {
+  "file": "easy/ggg-easy-90.sgf",
+  "mainLen": 2,
+  "successLeaves": 2,
+  "commentLeaves": 2,
+  "rootCandidates": 4,
+  "userColor": "B",
+  "comments": [
+   "Correct",
+   "Correct. It's not best though."
+  ]
+ },
+ {
+  "file": "easy/ggg-easy-02.sgf",
+  "mainLen": 2,
+  "successLeaves": 1,
+  "commentLeaves": 1,
+  "rootCandidates": 4,
+  "userColor": "B",
+  "comments": [
+   "Correct"
+  ]
+ },
+ {
+  "file": "easy/ggg-easy-05.sgf",
+  "mainLen": 2,
+  "successLeaves": 1,
+  "commentLeaves": 1,
+  "rootCandidates": 4,
+  "userColor": "B",
+  "comments": [
+   "Correct"
+  ]
+ },
+ {
+  "file": "easy/ggg-easy-06.sgf",
+  "mainLen": 2,
+  "successLeaves": 1,
+  "commentLeaves": 1,
+  "rootCandidates": 2,
+  "userColor": "B",
+  "comments": [
+   "Correct"
+  ]
+ },
+ {
+  "file": "easy/ggg-easy-10.sgf",
+  "mainLen": 2,
+  "successLeaves": 1,
+  "commentLeaves": 1,
+  "rootCandidates": 3,
+  "userColor": "B",
+  "comments": [
+   "Correct"
+  ]
+ },
+ {
+  "file": "easy/ggg-easy-101.sgf",
+  "mainLen": 2,
+  "successLeaves": 1,
+  "commentLeaves": 1,
+  "rootCandidates": 6,
+  "userColor": "B",
+  "comments": [
+   "Correct"
+  ]
+ },
+ {
+  "file": "easy/ggg-easy-103.sgf",
+  "mainLen": 2,
+  "successLeaves": 1,
+  "commentLeaves": 1,
+  "rootCandidates": 3,
+  "userColor": "B",
+  "comments": [
+   "Correct"
+  ]
+ },
+ {
+  "file": "easy/ggg-easy-105.sgf",
+  "mainLen": 2,
+  "successLeaves": 1,
+  "commentLeaves": 1,
+  "rootCandidates": 3,
+  "userColor": "B",
+  "comments": [
+   "Correct"
+  ]
+ },
+ {
+  "file": "easy/ggg-easy-11.sgf",
+  "mainLen": 2,
+  "successLeaves": 1,
+  "commentLeaves": 1,
+  "rootCandidates": 3,
+  "userColor": "B",
+  "comments": [
+   "Correct"
+  ]
+ }
+]

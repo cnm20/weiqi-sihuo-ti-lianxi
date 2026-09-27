@@ -1,0 +1,558 @@
+﻿==== easy : 33 problems with goal-ish comments
+### ggg-easy-100.sgf
+   - White could also tenuki now, if she wants to take sente for example, and Black will only be able to capture the number 1 (through shortage of liberties). The rest of the group is already alive.
+   - The rest of White's group is still alive. White shouldn't connect at A because Black would atari at B.
+### ggg-easy-103.sgf
+   - Black can make a seki (in gote) with A, but Black can do better.
+### ggg-easy-111.sgf
+   - It's a double ko, and Black's captured.
+   - It's a double ko, and Black's captured.
+### ggg-easy-119.sgf
+   - Black A has been captured in a ladder. This result is bad for Black.
+   - Black A has been captured in a ladder. This result is bad for Black.
+### ggg-easy-126.sgf
+   - White's alive. Even if Black connects at A next, White's already alive in seki.
+### ggg-easy-128.sgf
+   - White's alive. Even if Black plays at A next, White's already alive in seki.
+### ggg-easy-132.sgf
+   - Correct. Even if White connects at A next, she'll lose the capturing race because it's 'one eye vs no eye'.
+   - Even if Black connects at A next, White's already alive in seki.
+### ggg-easy-17.sgf
+   - White's already alive.
+### ggg-easy-28.sgf
+   - Black to play. Can you find a way to capture White's two stones? https://gogameguru.com/
+### ggg-easy-29.sgf
+   - White's alive.
+### ggg-easy-37.sgf
+   - Correct. Now both groups are alive in seki.
+   - Correct. Now both groups are alive in seki.
+### ggg-easy-41.sgf
+   - Black to play. Can you capture White's cutting stone at A? https://gogameguru.com/
+### ggg-easy-43.sgf
+   - Correct. If White plays A, Black can just play B (or atari at C in some situations). White can't make two eyes.
+   - White's already alive in seki.
+   - White's four in a row eyespace is alive because White A and B are miai (that means if Black takes one, White can take the other one).
+### ggg-easy-44.sgf
+   - Correct. Now Black's alive in seki. If White tries to play A or B, Black can capture and make two eyes.
+   - The shape of White's four stones is called a 'bulky four'. If Black captures White's four stones, White will immediately play at A, and Black won't be able to make two eyes. If Black does nothing, Whi
+   - Black can't make two eyes.
+   - Black passes. Black's already dead, but for the sake of demonstration...
+   - Capture...
+   - Black can't make two eyes.
+   - Black can't make two eyes.
+   - It's already a dead shape.
+   - It's already a dead shape.
+### ggg-easy-46.sgf
+   - Black should be captured now, but this White move is a mistake...
+   - A and B are miai for Black (if White defends against one, Black plays the other), so Black lives.
+### ggg-easy-49.sgf
+   - Black to play. How can Black prevent White from capturing at A while also winning the capturing race between B and C? https://gogameguru.com/
+   - Not too bad, but Black can do capture some stones.
+### ggg-easy-52.sgf
+   - Next if Black cuts at A, White can atari at B and capture two stones. If Black plays C instead, White can keep fighting at D, or just connect at A. Black had a way to capture the cutting stones instea
+### ggg-easy-53.sgf
+   - Correct. This is the best shape, because it gives Black the best potential for making eyes later. A and B are miai for Black now. If White tries to play A-C, Black D captures White's stones.
+### ggg-easy-56.sgf
+   - Correct. Now, even if White captures the four stones, it won't be possible to make two eyes.
+   - White's alive.
+   - Black can't connect at A. If he could, he wouldn't have any liberties and his stones would be captured. After that, it would be White’s turn and White could play at A to make two eyes.
+### ggg-easy-57.sgf
+   - Correct. Black wins the capturing race.
+   - Correct. Black wins the capturing race.
+   - Correct. Black captures the cutting stones.
+   - Correct. Black captures the cutting stones.
+   - This is a seki, and Black has to worry about the weakness at A now.
+   - This is a seki, and Black has to worry about the weakness at A now.
+   - Black doesn't have enough liberties to make a ko, so Black dies.
+### ggg-easy-68.sgf
+   - Black can't make two eyes now. A is a false eye because it's not connected to the rest of the group with a Black stone at B.
+   - Black can't make two eyes now. Later if White wants to take these stones off the board for some reason, White can exchange A for B, then fill the outside liberties with C and D. Capturing White's ston
+### ggg-easy-69.sgf
+   - Correct. Black wins the capturing race.
+### ggg-easy-70.sgf
+   - Correct. Black lives with two eyes.
+   - Capturing at A only makes a false eye, so Black dies.
+   - Black only has one eye, so Black's dead.
+   - Black only has one eye, so Black's dead.
+   - Capturing at A only makes a false eye, so Black's already died.
+### ggg-easy-71.sgf
+   - Correct. If White plays at A Black can capture at B. If White plays at B, Black connects at A, so Black's alive with two eyes.
+   - Black can't make two eyes now.
+### ggg-easy-73.sgf
+   - A is a false eye, so Black's group will be captured.
+   - White can capture Black's stones now, so the cutting stone Black played loses its value.
+### ggg-easy-76.sgf
+   - This variation is even worse for Black than the previous one because White's stones are safe and Black still has to worry about White cutting at A.
+### ggg-easy-78.sgf
+   - White will play here and now Black's corner stones are captured.
+### ggg-easy-84.sgf
+   - Black can capture at A, but this will be a ko fight. Black can do better.
+### ggg-easy-85.sgf
+   - This is a seki, but now Black has to worry about the cutting point at A.
+   - This is a seki, but now Black has to worry about the cutting point at A. White could also have chosen to fight a ko at B.
+### ggg-easy-88.sgf
+   - It's a seki, but Black can do better.
+### ggg-easy-91.sgf
+   - Correct. White doesn't have enough liberties to atari at A or B, so Black will win the capturing race.
+### ggg-easy-95.sgf
+   - Correct. Even if White plays at A next, Black's still alive in seki: http://senseis.xmp.net/?seki
+   - White can also kill Black like this.
+   - Even if Black plays at A or B next, White can ignore it and Black's still dead.
+### ggg-easy-99.sgf
+   - Black to play. How can Black capture the cutting stones? https://gogameguru.com/
+==== intermediate : 56 problems with goal-ish comments
+### ggg-intermediate-08.sgf
+   - Black's already alive in a seki.
+### ggg-intermediate-09.sgf
+   - Correct. Black lives in seki.
+### ggg-intermediate-100.sgf
+   - Black can also live like this, but White captured the number 1! Can you do better?
+   - Black can't win the capturing race.
+   - Black can't win the capturing race.
+   - Black can't win the capturing race.
+   - Black can't win the capturing race.
+   - Black's dead. Even if Black ataris at A now, White can ignore it because Black still can't make two eyes.
+   - Black only has one eye at best, so Black's dead.
+   - White wins the capturing race.
+   - White wins the capturing race.
+   - White wins the capturing race.
+   - Black can't get enough liberties to capture White's stones.
+   - Black can't get enough liberties to capture White's stones.
+### ggg-intermediate-102.sgf
+   - White wins the capturing race.
+### ggg-intermediate-103.sgf
+   - The marked stones are captured. Black's ponnuki is ok, but Black can do better.
+### ggg-intermediate-104.sgf
+   - Correct. White A will be captured.
+   - Correct. White A will be captured.
+   - Correct. White A will be captured.
+### ggg-intermediate-108.sgf
+   - Correct. Even if White plays at A now, the groups at A and B are in a temporary seki, but because White's outside stones will eventually be captured, White's dead.
+### ggg-intermediate-109.sgf
+   - Correct. It's better for Black.
+   - Correct. It's better for Black.
+   - It's possible, but it's better for White.
+### ggg-intermediate-110.sgf
+   - It's bad for Black.
+### ggg-intermediate-114.sgf
+   - Correct. It's a kind of joseki.
+### ggg-intermediate-117.sgf
+   - Correct. White's dead. Sometimes in actual games, White can play like this instead of fighting the ko. For example if there's a capturing race involving Black's surrounding stones, White might conside
+   - It's a double ko, so White's alive.
+   - It's a seki, so White's alive.
+   - It's a double ko, so White's alive.
+### ggg-intermediate-118.sgf
+   - This result is better for White.
+   - This result is better for White.
+   - This result is better for White.
+   - This result is better for White.
+   - This result is better for White.
+   - This result is better for White.
+### ggg-intermediate-125.sgf
+   - Even if Black plays at A, it's already a seki. White could also tenuki, instead of playing here.
+   - If Black plays at A next, it's a seki, but Black can do better.
+   - If Black plays at A next, it's a seki, but Black can do better.
+   - If Black plays at A next, it's a seki, but Black can do better.
+   - If Black plays at A next, it's a seki, but Black can do better.
+   - It's a seki, but Black can do better.
+   - If Black plays at A next, it's a seki, but Black can do better.
+### ggg-intermediate-126.sgf
+   - Correct. White's marked stones are captured.
+### ggg-intermediate-127.sgf
+   - Correct. It's a seki.
+### ggg-intermediate-129.sgf
+   - Black is alive, but can do better.
+### ggg-intermediate-13.sgf
+   - Seki
+### ggg-intermediate-130.sgf
+   - If Black plays at A or B next, it's a seki, but Black can do better.
+   - If Black plays at A or B next, it's a seki, but Black can do better.
+   - If Black plays at A or B next, it's a seki, but Black can do better.
+   - Capturing the cutting stones is good enough for Black. White still has to play another move at A, otherwise Black at B will capture without ko.
+### ggg-intermediate-19.sgf
+   - A and B are in seki, but Black can do better.
+### ggg-intermediate-24.sgf
+   - A and B were both mistakes, but it all came out in the wash... White is captured.
+### ggg-intermediate-29.sgf
+   - Black captures White in a ladder.
+### ggg-intermediate-32.sgf
+   - Even if Black plays A, White can take sente now, Black's four stones are already captured.
+   - Usually this would be seki after White plays A, but in this case Black can just cut at B, because of the stone at C. So White collapses because of the overplay at D.
+### ggg-intermediate-38.sgf
+   - Black A is a vital point, but letting White capture Black's two stones in the corner takes the wind out of Black's sails.
+### ggg-intermediate-39.sgf
+   - Black 5 is another tesuji. Letting Black apply pressure like this makes the postition easy for him. White should avoid this sequence. If White plays A now, Black plays B and C or D are miai next. If W
+### ggg-intermediate-41.sgf
+   - Correct. White can capture two stones at A next, but the corner was already alive, so those two stones weren't very important. After A, Black should play B and keep C as a ko threat. If White plays C,
+   - Correct. This is even worse for White, because there's still a capturing race at the bottom (whoever plays A will win), and White's bottom right group has been damaged. If White plays B now, Black can
+### ggg-intermediate-42.sgf
+   - Black can't hope to win a capturing race at the bottom, so connecting here is good enough.
+### ggg-intermediate-46.sgf
+   - Black's stones are captured, and he still has to play A in the lower left.
+   - White is safe and Black's corner still isn't alive.
+### ggg-intermediate-49.sgf
+   - There's no way to capture White now.
+   - This is possible, but if you let White get too many liberties, White can play A-C to capture the corner. If White does play to capture the corner, you'd prefer it to become a capturing race so you can
+### ggg-intermediate-51.sgf
+   - Correct. White is dead.
+   - Correct. White is dead.
+### ggg-intermediate-52.sgf
+   - Correct. White can still attack like this (starting with A), but Black's forced White to sacrifice two stones, so Black's right side group has become a lot stronger. It nearly has two eyes already.
+   - Pushing and cutting helps White find a nice rhythm. Now Black has two weak groups to look after. If Black connects at A next, White can attack with B and can aim at moves like C and D, depending on Bl
+   - This is what White wants. Even if Black can make life for the three stones, White's surrounding stones will become strong naturally, while Black struggles to make two eyes. White's aiming to attack at
+### ggg-intermediate-53.sgf
+   - White's winning the capturing race at the bottom 4 liberties to 3 and is developing nicely.
+   - White's winning the capturing race at the bottom 4 liberties to 3 and is developing nicely.
+   - White can capture Black's five cutting stones.
+### ggg-intermediate-54.sgf
+   - Capturing here isn't good for White...
+   - Black's stones are captured.
+   - Black's stones are captured.
+### ggg-intermediate-57.sgf
+   - Correct. This is even better for Black than the main variation, because it's harder for White to make eyes now.
+### ggg-intermediate-58.sgf
+   - Correct. Black could also tenuki now because A also lives.
+### ggg-intermediate-64.sgf
+   - Correct. Black lives in seki.
+   - Correct. Black lives in seki.
+### ggg-intermediate-67.sgf
+   - Correct. White's stones are captured.
+   - Almost correct, but Black can't atari now, so White lives. Be careful towards the end of the ladder.
+   - Not bad. Can you find a way to win the capturing race though?
+   - Not bad. Can you find a way to win the capturing race though? Sometimes Black's move at C1 (A) is tesuji - for example, if everything was moved one point to the left. In this case though, the atari at
+### ggg-intermediate-68.sgf
+   - Correct. Black can capture White's three stones.
+### ggg-intermediate-69.sgf
+   - Correct. A and B are miai for Black. White's is dead.
+   - Correct. It looks like White has a lot of eyespace, but White will eventually be forced to connect at A and B, so it's only a three point eye. White's dead.
+   - Correct. White's dead now.
+   - White could also play here now. Even though White doesn't strictly have two eyes, White would be able to make a second eye on the outside starting with A (if Black plays B), in most cases. If doing th
+   - A and B are miai. White's alive.
+### ggg-intermediate-70.sgf
+   - Black's dead.
+   - Black has weaknesses at A and B, but only has time to fix one of them, so Black's dead.
+   - Black's dead.
+### ggg-intermediate-73.sgf
+   - If Black answers at A, White can play elsewhere and still win the capturing race in the corner. White doesn't need to save the stone at B because it's not that important.
+### ggg-intermediate-75.sgf
+   - White's two stones are captured by a ladder.
+### ggg-intermediate-76.sgf
+   - Correct If White extends to A, Black just keeps extending to B and so on. Black's corner's already alive.
+   - Correct If White extends to A, Black just keeps extending to B and so on. Black's corner's already alive.
+   - Sacrificing is ok for White because Black's corner was already alive anyway. This is a light way for White to play.
+### ggg-intermediate-77.sgf
+   - Capturing like this is nearly always a mistake.
+   - Now White can throw in here too. Unless Black has some stones that can help in the top left (unlikely), Black's cutting stones will be captured now.
+### ggg-intermediate-78.sgf
+   - Correct. Exchanging A for B could be better for Black in this case, because now Black has two ko threats in the bottom left (starting with C).
+### ggg-intermediate-79.sgf
+   - Correct. After White recaptures the ko at A (ko threat first), Black can play B, White C, Black D. It's a one step ko in Black's favor.
+### ggg-intermediate-81.sgf
+   - White will capture Black's corner stones.
+### ggg-intermediate-82.sgf
+   - Black's dead.
+### ggg-intermediate-83.sgf
+   - Correct. A and B are miai for Black, so White's cutting stones are captured.
+   - White's alive. Can you do better?
+### ggg-intermediate-84.sgf
+   - White's group dies after Black plays like this.
+### ggg-intermediate-85.sgf
+   - Eventually Black will have to connect at A (because the stone at B will let Black atari Black with C later), and then he'll only have a three space eye on the inside. Black's dead.
+### ggg-intermediate-86.sgf
+   - Correct. Now White has to fight a ko for life at A. White can't get enough liberties to avoid the ko. If White B, Black C (and White can't play at E), White 1, Black D (and White still can't play at E
+   - Correct, Black was able to kill without ko, because White made a mistake.
+   - Correct, Black was able to kill without ko, because White made a mistake.
+### ggg-intermediate-90.sgf
+   - It's a seki.
+   - It's a seki.
+   - It's a seki.
+   - It's a seki.
+### ggg-intermediate-92.sgf
+   - It's a seki, so White's alive.
+### ggg-intermediate-93.sgf
+   - It's a double ko, so White's alive.
+### ggg-intermediate-98.sgf
+   - White wins the capturing race.
+   - White wins the capturing race.
+### ggg-intermediate-99.sgf
+   - Black would prefer to capture these stones, if possible.
+   - Black usually needs three liberties to make this work, but he only has two. Black's dead.
+==== hard : 67 problems with goal-ish comments
+### ggg-hard-01.sgf
+   - This way Black also lives. Compared to the main variation, White has lost 3 points by continuing to attack with A, even with the capture of 5 stones! However, if Black's cut at B would cause trouble f
+### ggg-hard-05.sgf
+   - White's alive in seki.
+   - White's alive in seki.
+   - White's alive in seki.
+   - White's alive in seki.
+### ggg-hard-07.sgf
+   - Black's alive, but this isn't the best solution.
+### ggg-hard-100.sgf
+   - Correct. It may look like Black's group only has false eyes. But Black's stones are all connected, so there's no way for White to atari Black to make him close the apparently 'false' eyes. In fact, si
+   - Black's dead.
+   - Even if Black captures at A next, Black only has one eye, so he's dead.
+   - Black's dead.
+   - Black's dead.
+   - Black's dead.
+   - Black's dead.
+   - Black's dead.
+   - Black's dead.
+   - Black's dead.
+   - Black's dead.
+   - Black's dead.
+### ggg-hard-102.sgf
+   - Correct. Even if White captures at A, she can only make one eye by doing so.
+   - White's alive because A and B are miai.
+### ggg-hard-104.sgf
+   - White's already dead. If White plays at A or B, Black can play at C, and it's a dead shape.
+   - Correct. White can't live, even though she captured seven Black stones.
+   - White lives in seki even if Black plays at A.
+   - It's a double ko. White's alive.
+   - White lives in seki.
+   - White lives in seki.
+   - White lives in seki.
+### ggg-hard-105.sgf
+   - It's a seki, so White's alive.
+   - It's a seki, so White's alive.
+   - Even if Black plays at A, it's only a seki. White's alive.
+   - Even if Black plays at A, it's only a seki. White's alive.
+### ggg-hard-107.sgf
+   - It's a seki, and White's alive.
+   - Even if Black connects at A in gote, it's a double ko, and White's alive.
+   - It's a seki, and White's alive. White doesn't need to play at A until later in the game.
+   - Now Black can only choose to make a ten thousand year ko, or a seki (with A).
+   - It's a seki.
+   - It's a seki.
+   - It's a seki.
+   - It's a seki.
+   - It's a seki.
+   - It's a seki.
+### ggg-hard-110.sgf
+   - It's a seki. A and B are miai for White.
+   - It's a seki.
+### ggg-hard-112.sgf
+   - It's a seki.
+   - It's a seki.
+### ggg-hard-116.sgf
+   - Correct. It's double ko, and Black's alive.
+   - Correct. It's double ko, and Black's alive.
+   - Correct. It's double ko, and Black's alive.
+   - Correct. It's double ko, and Black's alive.
+### ggg-hard-117.sgf
+   - It's a seki, so White's alive.
+   - Correct. Even if White connects at A, her stones are already dead because B and C are miai.
+   - Correct. Even if White connects at A, her stones are already dead because Black can play at B at anytime.
+   - It's a seki, so White's alive.
+   - It's seki, so White's alive.
+   - It's a seki, so White's alive.
+### ggg-hard-119.sgf
+   - Even if Black plays another move, he can't capture White.
+### ggg-hard-129.sgf
+   - Even if Black plays at A next, White's already alive in seki.
+### ggg-hard-133.sgf
+   - Correct. Even if White plays at A, Black is already alive in seki.
+   - Correct. Even if White plays at A, Black is already alive in seki.
+   - Correct. Black is alive in seki.
+   - Correct. Even if White plays at A, Black is already alive in seki.
+   - Correct. Even if White plays at A, Black is already alive in seki.
+### ggg-hard-134.sgf
+   - White's alive. Even if Black plays A next, White is already alive in seki.
+   - White's alive. Even if Black plays A next, White is already alive in seki.
+### ggg-hard-14.sgf
+   - This move also kills White, it's second best to the throw in at 'A' though. Playing this move as the throw in at 'A' would be better style. That's because Black stands to lose less if White brings thi
+   - Correct. White can't stop Black from capturing the marked stones.
+### ggg-hard-15.sgf
+   - White can't stop Black from capturing the marked stones.
+   - It's a seki, but Black can do better.
+### ggg-hard-16.sgf
+   - White is dead. White's shape in the corner is a standard dead shape, called the L-group. Refer to: http://senseis.xmp.net/?LGroup for more details.
+   - White is dead. White's shape in the corner is a standard dead shape, called the L-group. Refer to: http://senseis.xmp.net/?LGroup for more details.
+   - Bad move, White dies now. White should make a ko at A3 instead.
+### ggg-hard-17.sgf
+   - E1 also kills White.
+   - E1 also kills White.
+   - Black can't connect at C2, White lives.
+   - White lives.
+   - White lives.
+### ggg-hard-19.sgf
+   - In a real game White would just play here because there's no way to kill Black now and trying to do so will just lose points.
+   - This White move is not as good as simply capturing at A because it gives Black options.
+   - Black lives because White didn't play the best moves.
+   - Black lives because White didn't play the best moves.
+### ggg-hard-20.sgf
+   - Correct, White should just play this way and let Black live because trying to kill loses points.
+### ggg-hard-22.sgf
+   - This also kills, but playing A at B first is better because White might still save part of this group now.
+### ggg-hard-23.sgf
+   - White's already alive, and later...
+   - Black can't cut White off from A while also defending against B, so White will capture the marked stones eventually.
+   - White's already alive and...
+   - Black can't cut White off from A while also defending against B, so White will capture the marked stones eventually.
+   - White's already alive, and later...
+   - White's already alive, and...
+### ggg-hard-25.sgf
+   - Black lives easily because White made a mistake at A earlier.
+   - White can't connect at both A and B. Black lives.
+### ggg-hard-28.sgf
+   - This is the right idea, but now Black has to make the first ko threat. If Black plays A instead, White just plays B and captures. Can you improve the move order?
+### ggg-hard-30.sgf
+   - Correct, White dies because of an overplay at A.
+### ggg-hard-32.sgf
+   - White doesn't actually have to play here right now, but will play here when Black fills a liberty. White's alive in double ko.
+   - A and B are miai. White is alive.
+   - This is a 10,000 year ko. Black can do a lot better. If White plays A at B, it would still be a ko in this case because this shape doesn't quite have enough liberties to force a seki (due to the stone
+   - White's live in seki.
+### ggg-hard-33.sgf
+   - Black can't win this capturing race. If Black plays at A, White will take sente.
+   - Black can't win this capturing race. If Black plays at A, White will take sente.
+   - A could also be at B, but this demonstrates more clearly that White captures Black's stones.
+   - Black can capture some stones with A now, but White's already winning the capturing race at the bottom.
+   - Black can capture some stones with A now, but White's already winning the capturing race at the bottom.
+### ggg-hard-35.sgf
+   - Even if Black plays A next, White lives in seki.
+   - Even if Black plays A next, White lives in seki.
+### ggg-hard-36.sgf
+   - If White captures at A...
+   - White A and B are miai, so White is alive.
+### ggg-hard-37.sgf
+   - Now B and C are miai. White dies because A was a bad move.
+### ggg-hard-39.sgf
+   - Correct. Black wins the capturing race.
+   - Also correct. The main solution is slightly better because White won't actually play this sequence out, but will look for a way to trade instead. Throwing in at F3 is an unnecessary move that reduces 
+   - Alive, but not the best solution.
+### ggg-hard-40.sgf
+   - Correct. Now A and B (killing the corner) are miai for Black.
+   - Playing like this isn't really better for White, but it's a lot more complicated.
+### ggg-hard-43.sgf
+   - A and B are miai. White lives in seki.
+   - A and B are miai. White lives in seki.
+   - A and B are miai. White lives in seki.
+   - Even if Black plays at A, White lives in seki.
+   - Even if Black plays at A, White lives in seki.
+   - Even if Black plays at A, White lives in seki.
+### ggg-hard-44.sgf
+   - White lives in seki.
+   - White lives in seki.
+### ggg-hard-45.sgf
+   - White dies.
+   - White dies.
+### ggg-hard-46.sgf
+   - Correct. Black lives without ko, because of White's mistake at A.
+   - Correct, Black lives without ko.
+   - Correct, Black lives without ko.
+   - It's also possible to play this last move at A. Black still dies and it may well be better in many positions.
+   - White can't capture Black like this...
+### ggg-hard-50.sgf
+   - The shape (L-group http://senseis.xmp.net/?LGroup) that Black made in the corner can only make one eye. Black is dead. See the solution files for details.
+### ggg-hard-51.sgf
+   - A and B are miai. Black's dead.
+   - A and B are miai. Black's dead.
+   - A and B are miai. Black's dead.
+   - A and B are miai. Black's dead.
+   - A and B are miai. Black's dead.
+   - A and B are miai. Black's dead.
+   - A and B are miai. Black's dead.
+   - A and B are miai. Black's dead.
+   - A and B are miai. Black's dead.
+### ggg-hard-52.sgf
+   - Correct. Black captures White's four cutting stones.
+   - Black managed to cut White's group in two, but now White's cutting stones are safe and it's a capturing race. White has enough liberties to capture Black's group in the lower left.
+   - Both players made mistakes and captured a group. Black comes out better because the lower right group is bigger.
+   - White can't capture Black's cutting stone.
+   - Both players made mistakes, but White is crushed. The lower right group is dead.
+   - Black managed to cut White's group in two, but now White's cutting stones are safe and it's a capturing race. White has enough liberties to capture Black's group in the lower left.
+   - Black captures the cutting stones and ends in gote. This ok, but it isn't the best way to play.
+   - Black captures the cutting stones and ends in gote. This ok, but it isn't the best way to play.
+   - Black captures the cutting stones and ends in gote. This ok, but it isn't the best way to play.
+   - Correct. Black's group in the lower left is dead, but it doesn't matter because Black traded it for the bigger group in the lower right, which is also dead now. If White plays A, Black can just answer
+### ggg-hard-54.sgf
+   - White can't kill Black like this...
+   - Black lives.
+   - Black can't live locally, so now it would be a capturing race.
+   - Black can't live locally, so now it would be a capturing race.
+   - White can't live like this...
+   - This is a type of 'bent four in the corner' shape. White's still dead: http://senseis.xmp.net/?BentFourInTheCornerIsDead
+### ggg-hard-55.sgf
+   - Correct. White's eye shape is incomplete and White still owes Black a move at A. Later, if Black plays A, he can try to capture White, but Black needs to either be alive first, or have 10 liberties to
+   - Black captured the lower left corner and lost the initiative in the fighting. Black can do better if he changes the move order.
+### ggg-hard-56.sgf
+   - It's a ko. White could have captured Black after S3 instead of making a ko.
+   - This is also a ko, but White could have captured Black after S3 instead of ko.
+### ggg-hard-57.sgf
+   - Correct. Black captured the cutting stones.
+   - Correct. Black wins the capturing race.
+   - Also correct. Black captured the cutting stones. This variation is second best.
+   - Also correct. Black wins the capturing race but White's dead stones still have two liberties. There's a weak point at A, so Black will have to be careful if fighting breaks out along the bottom. This 
+   - Correct. It's a one eye vs no eye capturing race. The White stones in the corner are dead.
+   - Correct. White can't extend from atari because Black would still capture. Black's tesuji (move 3 - T5) reduced White's liberties.
+   - Correct. White's stones are captured.
+   - It's one eye vs no eye, so Black will win the capturing race, because White made a mistake.
+### ggg-hard-58.sgf
+   - White shouldn't play here, because then Black can capture White without a ko.
+### ggg-hard-59.sgf
+   - Correct. Black wins the capturing race.
+### ggg-hard-60.sgf
+   - White's capture here is clumsy, and lets Black live.
+   - White's capture here is clumsy, and lets Black live.
+### ggg-hard-61.sgf
+   - Black's dead.
+### ggg-hard-65.sgf
+   - Correct. A and B are miai, so Black's alive.
+### ggg-hard-67.sgf
+   - Correct. White's dead.
+### ggg-hard-68.sgf
+   - Correct. This is a one step ko where Black takes first. It's much better for Black than the main variation because White A was a mistake.
+   - Black lived easily (in seki) because White made a mistake.
+   - White can't capture...
+### ggg-hard-70.sgf
+   - Correct. Black's unconditionally alive because White made a mistake with A.
+   - Correct. Black's unconditionally alive because White made a mistake with A.
+   - Now Black can fight a direct ko at A, but Black could do better. If Black ataris at B, White will capture Black's stones with C, so Black has to fight the ko.
+   - Now Black can fight a direct ko at A, but Black could do better. If Black ataris at B, White will capture Black's stones with C, so White has to fight the ko.
+### ggg-hard-71.sgf
+   - It's a ko, but if Black loses this ko the lower right corner will also be destroyed when White captures at A, so this ko is very heavy for Black. Can Black do better?
+### ggg-hard-72.sgf
+   - Correct. It's a good time to exchange A for B before making two eyes here, but that's a small detail.
+   - Correct. Black's alive.
+   - Even if Black plays at A now, White can start filling liberties at B at any time and Black will have to play at C and D, so Black only has a three space eye and White can capture this group.
+   - Eventually Black will have to capture White's three stones, and Black will die.
+   - Black doesn't have enough room to make two eyes now.
+   - Even if Black plays A-C now, the shape is still dead.
+### ggg-hard-73.sgf
+   - Correct. Black can play at A and make a bulky five shape whenever he wants to (which is dead - http://senseis.xmp.net/?BulkyFive). If White plays at A, she ataris herself and Black can capture.
+### ggg-hard-74.sgf
+   - Black can't capture White so Black's stones are all dead.
+   - Black can't capture White so Black's stones are all dead.
+### ggg-hard-75.sgf
+   - Black's alive, but White's alive too.
+### ggg-hard-77.sgf
+   - It's a seki, so White's alive.
+### ggg-hard-78.sgf
+   - Black to play. If White A had been at B, Black would be dead. How about now? https://gogameguru.com/
+   - Also correct. Playing this move at A is slightly more certain and connects Black along the edge. White might connect at A now and try to kill Black.
+   - Correct. Even if White plays at A, Black still lives in seki.
+### ggg-hard-80.sgf
+   - This move is also possible, but exchanging this atari for A is a thank you move. Black should atari at B first, assuming that White will realize what his plan is and will let Black live locally (i.e. 
+   - Black's already alive in the top left, so he can play here. Black could also atari at A first.
+   - If White still tries to kill...
+   - A is a good move locally, but Black's lower right group is dead. Can you find a way to save both groups at the same time?
+   - Black's already alive in the top left, so White will just play here now. This ensures that Black's lower right group is captured.
+### ggg-hard-81.sgf
+   - Correct. A and B are miai for Black. If White plays C, Black plays D. White's dead.
+### ggg-hard-82.sgf
+   - White's alive. Even if Black plays at A now, it's only a seki.
+   - White lives.
+   - Correct. It's a temporary seki between the groups A and B, but Black will capture White's surrounding stones and the seki will collapse.
+   - Even if Black captures like this,
+   - White just barely manages to make two eyes and lives.
+   - Both players made mistakes, but now White's dead. It should have been a ko after Black's mistake.
+   - A and B are miai for White. If Black keeps trying to kill...
+### ggg-hard-83.sgf
+   - White's alive in seki.
+### ggg-hard-86.sgf
+   - Black can live without ko. This is the second best result, because at least now if Black wins the ko at A he can do so in style, by capturing at B.
+   - Black can live without ko. This is the second best result, because at least now if Black wins the ko at A he can do so in style, by capturing at B.
+### ggg-hard-90.sgf
+   - Correct. Black lives with a double ko.
+### ggg-hard-98.sgf
+   - Also correct. White can make a ko (with ko captures at A and B) in this case, but Black has too many outside liberties for it to mean much.

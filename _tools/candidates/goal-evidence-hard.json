@@ -1,0 +1,1142 @@
+[
+ {
+  "file": "hard/ggg-hard-01.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 7
+ },
+ {
+  "file": "hard/ggg-hard-02.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 1,
+  "mainLen": 7
+ },
+ {
+  "file": "hard/ggg-hard-03.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 7
+ },
+ {
+  "file": "hard/ggg-hard-04.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 1,
+  "mainLen": 5
+ },
+ {
+  "file": "hard/ggg-hard-05.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 11
+ },
+ {
+  "file": "hard/ggg-hard-06.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 9
+ },
+ {
+  "file": "hard/ggg-hard-07.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 7
+ },
+ {
+  "file": "hard/ggg-hard-08.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 1,
+  "mainLen": 9
+ },
+ {
+  "file": "hard/ggg-hard-09.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 9
+ },
+ {
+  "file": "hard/ggg-hard-10.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 7
+ },
+ {
+  "file": "hard/ggg-hard-100.sgf",
+  "userColor": "B",
+  "goalSuggest": "live",
+  "evidence": [
+   "成功[Black 做活/成眼]: Correct. It may look like Black's group only has false eyes. But Black's stones are all connected, so there's "
+  ],
+  "captureBlackW": 0,
+  "mainLen": 5
+ },
+ {
+  "file": "hard/ggg-hard-101.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 11
+ },
+ {
+  "file": "hard/ggg-hard-102.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 7
+ },
+ {
+  "file": "hard/ggg-hard-103.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 7
+ },
+ {
+  "file": "hard/ggg-hard-104.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 3,
+  "mainLen": 9
+ },
+ {
+  "file": "hard/ggg-hard-105.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 11
+ },
+ {
+  "file": "hard/ggg-hard-106.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 5
+ },
+ {
+  "file": "hard/ggg-hard-107.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 11
+ },
+ {
+  "file": "hard/ggg-hard-108.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 11
+ },
+ {
+  "file": "hard/ggg-hard-109.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 9
+ },
+ {
+  "file": "hard/ggg-hard-11.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 11
+ },
+ {
+  "file": "hard/ggg-hard-110.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 7
+ },
+ {
+  "file": "hard/ggg-hard-111.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 7
+ },
+ {
+  "file": "hard/ggg-hard-112.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 13
+ },
+ {
+  "file": "hard/ggg-hard-113.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 3,
+  "mainLen": 11
+ },
+ {
+  "file": "hard/ggg-hard-114.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 11
+ },
+ {
+  "file": "hard/ggg-hard-115.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 11
+ },
+ {
+  "file": "hard/ggg-hard-116.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 9
+ },
+ {
+  "file": "hard/ggg-hard-117.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 1,
+  "mainLen": 9
+ },
+ {
+  "file": "hard/ggg-hard-118.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 9
+ },
+ {
+  "file": "hard/ggg-hard-119.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 11
+ },
+ {
+  "file": "hard/ggg-hard-12.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 7
+ },
+ {
+  "file": "hard/ggg-hard-120.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 1,
+  "mainLen": 23
+ },
+ {
+  "file": "hard/ggg-hard-121.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 7
+ },
+ {
+  "file": "hard/ggg-hard-122.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 1,
+  "mainLen": 9
+ },
+ {
+  "file": "hard/ggg-hard-123.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 7
+ },
+ {
+  "file": "hard/ggg-hard-124.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 5
+ },
+ {
+  "file": "hard/ggg-hard-125.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 11
+ },
+ {
+  "file": "hard/ggg-hard-126.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 5
+ },
+ {
+  "file": "hard/ggg-hard-127.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 7
+ },
+ {
+  "file": "hard/ggg-hard-128.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 7
+ },
+ {
+  "file": "hard/ggg-hard-129.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 7
+ },
+ {
+  "file": "hard/ggg-hard-13.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 1,
+  "mainLen": 11
+ },
+ {
+  "file": "hard/ggg-hard-130.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 7
+ },
+ {
+  "file": "hard/ggg-hard-131.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 11
+ },
+ {
+  "file": "hard/ggg-hard-132.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 15
+ },
+ {
+  "file": "hard/ggg-hard-133.sgf",
+  "userColor": "B",
+  "goalSuggest": "live",
+  "evidence": [
+   "成功[Black 做活/成眼]: Correct. Even if White plays at A, Black is already alive in seki."
+  ],
+  "captureBlackW": 0,
+  "mainLen": 9
+ },
+ {
+  "file": "hard/ggg-hard-134.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 9
+ },
+ {
+  "file": "hard/ggg-hard-135.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 9
+ },
+ {
+  "file": "hard/ggg-hard-136.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 1,
+  "mainLen": 13
+ },
+ {
+  "file": "hard/ggg-hard-137.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 6,
+  "mainLen": 11
+ },
+ {
+  "file": "hard/ggg-hard-138.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 3,
+  "mainLen": 11
+ },
+ {
+  "file": "hard/ggg-hard-139.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 1,
+  "mainLen": 7
+ },
+ {
+  "file": "hard/ggg-hard-14.sgf",
+  "userColor": "B",
+  "goalSuggest": "kill",
+  "evidence": [
+   "成功[kill/capture 字眼]: This move also kills White, it's second best to the throw in at 'A' though.\n\nPlaying this move as the throw in"
+  ],
+  "captureBlackW": 0,
+  "mainLen": 9
+ },
+ {
+  "file": "hard/ggg-hard-140.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 7
+ },
+ {
+  "file": "hard/ggg-hard-15.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 7
+ },
+ {
+  "file": "hard/ggg-hard-16.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 11
+ },
+ {
+  "file": "hard/ggg-hard-17.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 7
+ },
+ {
+  "file": "hard/ggg-hard-18.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 1,
+  "mainLen": 9
+ },
+ {
+  "file": "hard/ggg-hard-19.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 11
+ },
+ {
+  "file": "hard/ggg-hard-20.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 9
+ },
+ {
+  "file": "hard/ggg-hard-21.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 13
+ },
+ {
+  "file": "hard/ggg-hard-22.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 5
+ },
+ {
+  "file": "hard/ggg-hard-23.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 11
+ },
+ {
+  "file": "hard/ggg-hard-24.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 2,
+  "mainLen": 7
+ },
+ {
+  "file": "hard/ggg-hard-25.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 1,
+  "mainLen": 11
+ },
+ {
+  "file": "hard/ggg-hard-26.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 9
+ },
+ {
+  "file": "hard/ggg-hard-27.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 13
+ },
+ {
+  "file": "hard/ggg-hard-28.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 1,
+  "mainLen": 5
+ },
+ {
+  "file": "hard/ggg-hard-29.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 7
+ },
+ {
+  "file": "hard/ggg-hard-30.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 13
+ },
+ {
+  "file": "hard/ggg-hard-31.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 1,
+  "mainLen": 13
+ },
+ {
+  "file": "hard/ggg-hard-32.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 9
+ },
+ {
+  "file": "hard/ggg-hard-33.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 5
+ },
+ {
+  "file": "hard/ggg-hard-34.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 9
+ },
+ {
+  "file": "hard/ggg-hard-35.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 7
+ },
+ {
+  "file": "hard/ggg-hard-36.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 1,
+  "mainLen": 3
+ },
+ {
+  "file": "hard/ggg-hard-37.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 7
+ },
+ {
+  "file": "hard/ggg-hard-38.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 1,
+  "mainLen": 7
+ },
+ {
+  "file": "hard/ggg-hard-39.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 15
+ },
+ {
+  "file": "hard/ggg-hard-40.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 5
+ },
+ {
+  "file": "hard/ggg-hard-41.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 5
+ },
+ {
+  "file": "hard/ggg-hard-42.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 4,
+  "mainLen": 15
+ },
+ {
+  "file": "hard/ggg-hard-43.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 9
+ },
+ {
+  "file": "hard/ggg-hard-44.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 11
+ },
+ {
+  "file": "hard/ggg-hard-45.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 3,
+  "mainLen": 13
+ },
+ {
+  "file": "hard/ggg-hard-46.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 2,
+  "mainLen": 11
+ },
+ {
+  "file": "hard/ggg-hard-47.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 4,
+  "mainLen": 9
+ },
+ {
+  "file": "hard/ggg-hard-48.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 1,
+  "mainLen": 13
+ },
+ {
+  "file": "hard/ggg-hard-49.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 21
+ },
+ {
+  "file": "hard/ggg-hard-50.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 17
+ },
+ {
+  "file": "hard/ggg-hard-51.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 3,
+  "mainLen": 19
+ },
+ {
+  "file": "hard/ggg-hard-52.sgf",
+  "userColor": "B",
+  "goalSuggest": "kill",
+  "evidence": [
+   "成功[kill/capture 字眼]: Correct. Black captures White's four cutting stones."
+  ],
+  "captureBlackW": 0,
+  "mainLen": 3
+ },
+ {
+  "file": "hard/ggg-hard-53.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 1,
+  "mainLen": 7
+ },
+ {
+  "file": "hard/ggg-hard-54.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 11
+ },
+ {
+  "file": "hard/ggg-hard-55.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 9
+ },
+ {
+  "file": "hard/ggg-hard-56.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 9
+ },
+ {
+  "file": "hard/ggg-hard-57.sgf",
+  "userColor": "B",
+  "goalSuggest": "kill",
+  "evidence": [
+   "成功[kill/capture 字眼]: Correct. Black captured the cutting stones."
+  ],
+  "captureBlackW": 4,
+  "mainLen": 13
+ },
+ {
+  "file": "hard/ggg-hard-58.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 5
+ },
+ {
+  "file": "hard/ggg-hard-59.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 2,
+  "mainLen": 17
+ },
+ {
+  "file": "hard/ggg-hard-60.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 1,
+  "mainLen": 7
+ },
+ {
+  "file": "hard/ggg-hard-61.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 9
+ },
+ {
+  "file": "hard/ggg-hard-62.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 9
+ },
+ {
+  "file": "hard/ggg-hard-63.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 3
+ },
+ {
+  "file": "hard/ggg-hard-64.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 15
+ },
+ {
+  "file": "hard/ggg-hard-65.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 7
+ },
+ {
+  "file": "hard/ggg-hard-66.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 5
+ },
+ {
+  "file": "hard/ggg-hard-67.sgf",
+  "userColor": "B",
+  "goalSuggest": "kill",
+  "evidence": [
+   "成功[White 被杀/不能成眼]: Correct. White's dead."
+  ],
+  "captureBlackW": 0,
+  "mainLen": 11
+ },
+ {
+  "file": "hard/ggg-hard-68.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 5,
+  "mainLen": 19
+ },
+ {
+  "file": "hard/ggg-hard-69.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 7
+ },
+ {
+  "file": "hard/ggg-hard-70.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 7
+ },
+ {
+  "file": "hard/ggg-hard-71.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 1,
+  "mainLen": 9
+ },
+ {
+  "file": "hard/ggg-hard-72.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 3,
+  "mainLen": 7
+ },
+ {
+  "file": "hard/ggg-hard-73.sgf",
+  "userColor": "B",
+  "goalSuggest": "kill",
+  "evidence": [
+   "成功[kill/capture 字眼]: Correct. Black can play at A and make a bulky five shape whenever he wants to (which is dead - http://senseis."
+  ],
+  "captureBlackW": 0,
+  "mainLen": 7
+ },
+ {
+  "file": "hard/ggg-hard-74.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 1,
+  "mainLen": 13
+ },
+ {
+  "file": "hard/ggg-hard-75.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 5,
+  "mainLen": 7
+ },
+ {
+  "file": "hard/ggg-hard-76.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 2,
+  "mainLen": 7
+ },
+ {
+  "file": "hard/ggg-hard-77.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 7
+ },
+ {
+  "file": "hard/ggg-hard-78.sgf",
+  "userColor": "B",
+  "goalSuggest": "kill",
+  "evidence": [
+   "成功[kill/capture 字眼]: Also correct. Playing this move at A is slightly more certain and connects Black along the edge. White might c"
+  ],
+  "captureBlackW": 4,
+  "mainLen": 13
+ },
+ {
+  "file": "hard/ggg-hard-79.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 9
+ },
+ {
+  "file": "hard/ggg-hard-80.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 43,
+  "mainLen": 65
+ },
+ {
+  "file": "hard/ggg-hard-81.sgf",
+  "userColor": "B",
+  "goalSuggest": "kill",
+  "evidence": [
+   "成功[White 被杀/不能成眼]: Correct. A and B are miai for Black. If White plays C, Black plays D. White's dead."
+  ],
+  "captureBlackW": 0,
+  "mainLen": 11
+ },
+ {
+  "file": "hard/ggg-hard-82.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 7
+ },
+ {
+  "file": "hard/ggg-hard-83.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 3
+ },
+ {
+  "file": "hard/ggg-hard-84.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 2,
+  "mainLen": 9
+ },
+ {
+  "file": "hard/ggg-hard-85.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 2,
+  "mainLen": 9
+ },
+ {
+  "file": "hard/ggg-hard-86.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 7
+ },
+ {
+  "file": "hard/ggg-hard-87.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 7
+ },
+ {
+  "file": "hard/ggg-hard-88.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 2,
+  "mainLen": 13
+ },
+ {
+  "file": "hard/ggg-hard-89.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 9
+ },
+ {
+  "file": "hard/ggg-hard-90.sgf",
+  "userColor": "B",
+  "goalSuggest": "live",
+  "evidence": [
+   "成功[Black 做活/成眼]: Correct. Black lives with a double ko."
+  ],
+  "captureBlackW": 2,
+  "mainLen": 11
+ },
+ {
+  "file": "hard/ggg-hard-91.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 13
+ },
+ {
+  "file": "hard/ggg-hard-92.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 17
+ },
+ {
+  "file": "hard/ggg-hard-93.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 7
+ },
+ {
+  "file": "hard/ggg-hard-94.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 7
+ },
+ {
+  "file": "hard/ggg-hard-95.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 9
+ },
+ {
+  "file": "hard/ggg-hard-96.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 1,
+  "mainLen": 11
+ },
+ {
+  "file": "hard/ggg-hard-97.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 11
+ },
+ {
+  "file": "hard/ggg-hard-98.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 11
+ },
+ {
+  "file": "hard/ggg-hard-99.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 5
+ }
+]

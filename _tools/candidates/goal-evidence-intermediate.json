@@ -1,0 +1,1140 @@
+[
+ {
+  "file": "intermediate/ggg-intermediate-01.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 7
+ },
+ {
+  "file": "intermediate/ggg-intermediate-02.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 3
+ },
+ {
+  "file": "intermediate/ggg-intermediate-03.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 3
+ },
+ {
+  "file": "intermediate/ggg-intermediate-04.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 3
+ },
+ {
+  "file": "intermediate/ggg-intermediate-05.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 5
+ },
+ {
+  "file": "intermediate/ggg-intermediate-06.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 1
+ },
+ {
+  "file": "intermediate/ggg-intermediate-07.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 5
+ },
+ {
+  "file": "intermediate/ggg-intermediate-08.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 7
+ },
+ {
+  "file": "intermediate/ggg-intermediate-09.sgf",
+  "userColor": "B",
+  "goalSuggest": "live",
+  "evidence": [
+   "成功[Black 做活/成眼]: Correct. Black lives in seki."
+  ],
+  "captureBlackW": 1,
+  "mainLen": 5
+ },
+ {
+  "file": "intermediate/ggg-intermediate-10.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 3
+ },
+ {
+  "file": "intermediate/ggg-intermediate-100.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 9
+ },
+ {
+  "file": "intermediate/ggg-intermediate-101.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 7
+ },
+ {
+  "file": "intermediate/ggg-intermediate-102.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 3
+ },
+ {
+  "file": "intermediate/ggg-intermediate-103.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 1,
+  "mainLen": 7
+ },
+ {
+  "file": "intermediate/ggg-intermediate-104.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 7
+ },
+ {
+  "file": "intermediate/ggg-intermediate-105.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 7
+ },
+ {
+  "file": "intermediate/ggg-intermediate-106.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 5
+ },
+ {
+  "file": "intermediate/ggg-intermediate-107.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 1,
+  "mainLen": 7
+ },
+ {
+  "file": "intermediate/ggg-intermediate-108.sgf",
+  "userColor": "B",
+  "goalSuggest": "kill",
+  "evidence": [
+   "成功[White 被杀/不能成眼]: Correct. Even if White plays at A now, the groups at A and B are in a temporary seki, but because White's outs",
+   "成功[kill/capture 字眼]: Correct. Even if White plays at A now, the groups at A and B are in a temporary seki, but because White's outs"
+  ],
+  "captureBlackW": 0,
+  "mainLen": 5
+ },
+ {
+  "file": "intermediate/ggg-intermediate-109.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 5
+ },
+ {
+  "file": "intermediate/ggg-intermediate-11.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 5
+ },
+ {
+  "file": "intermediate/ggg-intermediate-110.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 3
+ },
+ {
+  "file": "intermediate/ggg-intermediate-111.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 7
+ },
+ {
+  "file": "intermediate/ggg-intermediate-112.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 5
+ },
+ {
+  "file": "intermediate/ggg-intermediate-113.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 9
+ },
+ {
+  "file": "intermediate/ggg-intermediate-114.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 5
+ },
+ {
+  "file": "intermediate/ggg-intermediate-115.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 5
+ },
+ {
+  "file": "intermediate/ggg-intermediate-116.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 5
+ },
+ {
+  "file": "intermediate/ggg-intermediate-117.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 7
+ },
+ {
+  "file": "intermediate/ggg-intermediate-118.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 9
+ },
+ {
+  "file": "intermediate/ggg-intermediate-119.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 11
+ },
+ {
+  "file": "intermediate/ggg-intermediate-12.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 0
+ },
+ {
+  "file": "intermediate/ggg-intermediate-120.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 13
+ },
+ {
+  "file": "intermediate/ggg-intermediate-121.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 1,
+  "mainLen": 11
+ },
+ {
+  "file": "intermediate/ggg-intermediate-122.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 5
+ },
+ {
+  "file": "intermediate/ggg-intermediate-123.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 5
+ },
+ {
+  "file": "intermediate/ggg-intermediate-124.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 1,
+  "mainLen": 5
+ },
+ {
+  "file": "intermediate/ggg-intermediate-125.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 13
+ },
+ {
+  "file": "intermediate/ggg-intermediate-126.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 5
+ },
+ {
+  "file": "intermediate/ggg-intermediate-127.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 7
+ },
+ {
+  "file": "intermediate/ggg-intermediate-128.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 13
+ },
+ {
+  "file": "intermediate/ggg-intermediate-129.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 1,
+  "mainLen": 11
+ },
+ {
+  "file": "intermediate/ggg-intermediate-13.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 3
+ },
+ {
+  "file": "intermediate/ggg-intermediate-130.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 9
+ },
+ {
+  "file": "intermediate/ggg-intermediate-131.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 13
+ },
+ {
+  "file": "intermediate/ggg-intermediate-132.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 5
+ },
+ {
+  "file": "intermediate/ggg-intermediate-133.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 9
+ },
+ {
+  "file": "intermediate/ggg-intermediate-134.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 7
+ },
+ {
+  "file": "intermediate/ggg-intermediate-135.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 9
+ },
+ {
+  "file": "intermediate/ggg-intermediate-136.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 11
+ },
+ {
+  "file": "intermediate/ggg-intermediate-137.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 11
+ },
+ {
+  "file": "intermediate/ggg-intermediate-138.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 7
+ },
+ {
+  "file": "intermediate/ggg-intermediate-139.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 9
+ },
+ {
+  "file": "intermediate/ggg-intermediate-14.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 5
+ },
+ {
+  "file": "intermediate/ggg-intermediate-140.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 7
+ },
+ {
+  "file": "intermediate/ggg-intermediate-15.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 3
+ },
+ {
+  "file": "intermediate/ggg-intermediate-16.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 3
+ },
+ {
+  "file": "intermediate/ggg-intermediate-17.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 5
+ },
+ {
+  "file": "intermediate/ggg-intermediate-18.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 7
+ },
+ {
+  "file": "intermediate/ggg-intermediate-19.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 3
+ },
+ {
+  "file": "intermediate/ggg-intermediate-20.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 1,
+  "mainLen": 5
+ },
+ {
+  "file": "intermediate/ggg-intermediate-21.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 15
+ },
+ {
+  "file": "intermediate/ggg-intermediate-22.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 5
+ },
+ {
+  "file": "intermediate/ggg-intermediate-23.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 3
+ },
+ {
+  "file": "intermediate/ggg-intermediate-24.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 7
+ },
+ {
+  "file": "intermediate/ggg-intermediate-25.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 5
+ },
+ {
+  "file": "intermediate/ggg-intermediate-26.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 5
+ },
+ {
+  "file": "intermediate/ggg-intermediate-27.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 3
+ },
+ {
+  "file": "intermediate/ggg-intermediate-28.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 13
+ },
+ {
+  "file": "intermediate/ggg-intermediate-29.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 9
+ },
+ {
+  "file": "intermediate/ggg-intermediate-30.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 5
+ },
+ {
+  "file": "intermediate/ggg-intermediate-31.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 7
+ },
+ {
+  "file": "intermediate/ggg-intermediate-32.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 7
+ },
+ {
+  "file": "intermediate/ggg-intermediate-33.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 9
+ },
+ {
+  "file": "intermediate/ggg-intermediate-34.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 9
+ },
+ {
+  "file": "intermediate/ggg-intermediate-35.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 7
+ },
+ {
+  "file": "intermediate/ggg-intermediate-36.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 3
+ },
+ {
+  "file": "intermediate/ggg-intermediate-37.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 5
+ },
+ {
+  "file": "intermediate/ggg-intermediate-38.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 7
+ },
+ {
+  "file": "intermediate/ggg-intermediate-39.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 5
+ },
+ {
+  "file": "intermediate/ggg-intermediate-40.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 3
+ },
+ {
+  "file": "intermediate/ggg-intermediate-41.sgf",
+  "userColor": "B",
+  "goalSuggest": "kill",
+  "evidence": [
+   "成功[kill/capture 字眼]: Correct. White can capture two stones at A next, but the corner was already alive, so those two stones weren't"
+  ],
+  "captureBlackW": 0,
+  "mainLen": 13
+ },
+ {
+  "file": "intermediate/ggg-intermediate-42.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 13
+ },
+ {
+  "file": "intermediate/ggg-intermediate-43.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 9
+ },
+ {
+  "file": "intermediate/ggg-intermediate-44.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 5
+ },
+ {
+  "file": "intermediate/ggg-intermediate-45.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 5
+ },
+ {
+  "file": "intermediate/ggg-intermediate-46.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 13
+ },
+ {
+  "file": "intermediate/ggg-intermediate-47.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 3
+ },
+ {
+  "file": "intermediate/ggg-intermediate-48.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 7
+ },
+ {
+  "file": "intermediate/ggg-intermediate-49.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 9
+ },
+ {
+  "file": "intermediate/ggg-intermediate-50.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 5
+ },
+ {
+  "file": "intermediate/ggg-intermediate-51.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 1,
+  "mainLen": 5
+ },
+ {
+  "file": "intermediate/ggg-intermediate-52.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 3
+ },
+ {
+  "file": "intermediate/ggg-intermediate-53.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 7
+ },
+ {
+  "file": "intermediate/ggg-intermediate-54.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 7
+ },
+ {
+  "file": "intermediate/ggg-intermediate-55.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 17
+ },
+ {
+  "file": "intermediate/ggg-intermediate-56.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 5
+ },
+ {
+  "file": "intermediate/ggg-intermediate-57.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 5
+ },
+ {
+  "file": "intermediate/ggg-intermediate-58.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 9
+ },
+ {
+  "file": "intermediate/ggg-intermediate-59.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 15
+ },
+ {
+  "file": "intermediate/ggg-intermediate-60.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 11
+ },
+ {
+  "file": "intermediate/ggg-intermediate-61.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 5
+ },
+ {
+  "file": "intermediate/ggg-intermediate-62.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 5
+ },
+ {
+  "file": "intermediate/ggg-intermediate-63.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 3
+ },
+ {
+  "file": "intermediate/ggg-intermediate-64.sgf",
+  "userColor": "B",
+  "goalSuggest": "live",
+  "evidence": [
+   "成功[Black 做活/成眼]: Correct. Black lives in seki."
+  ],
+  "captureBlackW": 0,
+  "mainLen": 9
+ },
+ {
+  "file": "intermediate/ggg-intermediate-65.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 23
+ },
+ {
+  "file": "intermediate/ggg-intermediate-66.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 11
+ },
+ {
+  "file": "intermediate/ggg-intermediate-67.sgf",
+  "userColor": "B",
+  "goalSuggest": "kill",
+  "evidence": [
+   "成功[White 被杀/不能成眼]: Correct. White's stones are captured.",
+   "成功[kill/capture 字眼]: Correct. White's stones are captured."
+  ],
+  "captureBlackW": 0,
+  "mainLen": 15
+ },
+ {
+  "file": "intermediate/ggg-intermediate-68.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 5
+ },
+ {
+  "file": "intermediate/ggg-intermediate-69.sgf",
+  "userColor": "B",
+  "goalSuggest": "kill",
+  "evidence": [
+   "成功[White 被杀/不能成眼]: Correct. A and B are miai for Black. White's is dead."
+  ],
+  "captureBlackW": 0,
+  "mainLen": 9
+ },
+ {
+  "file": "intermediate/ggg-intermediate-70.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 1
+ },
+ {
+  "file": "intermediate/ggg-intermediate-71.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 7
+ },
+ {
+  "file": "intermediate/ggg-intermediate-72.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 7
+ },
+ {
+  "file": "intermediate/ggg-intermediate-73.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 5
+ },
+ {
+  "file": "intermediate/ggg-intermediate-74.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 5
+ },
+ {
+  "file": "intermediate/ggg-intermediate-75.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 9
+ },
+ {
+  "file": "intermediate/ggg-intermediate-76.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 3
+ },
+ {
+  "file": "intermediate/ggg-intermediate-77.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 19
+ },
+ {
+  "file": "intermediate/ggg-intermediate-78.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 1,
+  "mainLen": 9
+ },
+ {
+  "file": "intermediate/ggg-intermediate-79.sgf",
+  "userColor": "B",
+  "goalSuggest": "kill",
+  "evidence": [
+   "成功[kill/capture 字眼]: Correct. After White recaptures the ko at A (ko threat first), Black can play B, White C, Black D. It's a one "
+  ],
+  "captureBlackW": 1,
+  "mainLen": 7
+ },
+ {
+  "file": "intermediate/ggg-intermediate-80.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 1,
+  "mainLen": 9
+ },
+ {
+  "file": "intermediate/ggg-intermediate-81.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 5
+ },
+ {
+  "file": "intermediate/ggg-intermediate-82.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 5
+ },
+ {
+  "file": "intermediate/ggg-intermediate-83.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 9
+ },
+ {
+  "file": "intermediate/ggg-intermediate-84.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 1,
+  "mainLen": 5
+ },
+ {
+  "file": "intermediate/ggg-intermediate-85.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 3,
+  "mainLen": 9
+ },
+ {
+  "file": "intermediate/ggg-intermediate-86.sgf",
+  "userColor": "B",
+  "goalSuggest": "kill",
+  "evidence": [
+   "成功[kill/capture 字眼]: Correct. Now White has to fight a ko for life at A.\n\nWhite can't get enough liberties to avoid the ko. If Whit"
+  ],
+  "captureBlackW": 0,
+  "mainLen": 3
+ },
+ {
+  "file": "intermediate/ggg-intermediate-87.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 7
+ },
+ {
+  "file": "intermediate/ggg-intermediate-88.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 5
+ },
+ {
+  "file": "intermediate/ggg-intermediate-89.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 7
+ },
+ {
+  "file": "intermediate/ggg-intermediate-90.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 7
+ },
+ {
+  "file": "intermediate/ggg-intermediate-91.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 9
+ },
+ {
+  "file": "intermediate/ggg-intermediate-92.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 7
+ },
+ {
+  "file": "intermediate/ggg-intermediate-93.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 1,
+  "mainLen": 5
+ },
+ {
+  "file": "intermediate/ggg-intermediate-94.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 7
+ },
+ {
+  "file": "intermediate/ggg-intermediate-95.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 9
+ },
+ {
+  "file": "intermediate/ggg-intermediate-96.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 5
+ },
+ {
+  "file": "intermediate/ggg-intermediate-97.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 9
+ },
+ {
+  "file": "intermediate/ggg-intermediate-98.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 11
+ },
+ {
+  "file": "intermediate/ggg-intermediate-99.sgf",
+  "userColor": "B",
+  "goalSuggest": "unknown",
+  "evidence": [],
+  "captureBlackW": 0,
+  "mainLen": 11
+ }
+]

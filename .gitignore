@@ -1,0 +1,35 @@
+# 依赖与运行环境
+node_modules/
+dist/
+*.local
+.android-tools/
+.npm-cache/
+
+# 构建与测试产物
+test-results/
+playwright-report/
+blob-report/
+
+# 系统文件
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# 本地缓存（不提交）
+_tools/.npm-cache/
+_tools/.playwright-browsers/
+_tools/test-node-ts/
+_tools/candidates/puzzles.json
+
+# 本地判读工具缓存（下载的 KataGo / 网络模型 / 网页快照，不提交）
+_tools/katago/
+_tools/packets/
+_tools/cards/easy-comments.json
+
+# 原始题库源（下载后本地使用；LICENSE 见 docs）
+_tools/dataset/
+_tools/candidates/candidate-index.json
+gtp_logs/
+
+# KataGo 分析引擎日志（analysis_example.cfg 默认 logDir=analysis_logs）
+analysis_logs/

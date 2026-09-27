@@ -1,0 +1,1802 @@
+[
+ {
+  "file": "intermediate/ggg-intermediate-79.sgf",
+  "userColor": "B",
+  "levelIndex": 0,
+  "orderInLevel": 1,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-intermediate-79）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "intermediate",
+  "metrics": {
+   "rootBranches": 2,
+   "successRootBranches": 0,
+   "mainlineLen": 0,
+   "totalNodes": 1
+  }
+ },
+ {
+  "file": "hard/ggg-hard-116.sgf",
+  "userColor": "B",
+  "levelIndex": 0,
+  "orderInLevel": 2,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-hard-116）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "hard",
+  "metrics": {
+   "rootBranches": 2,
+   "successRootBranches": 0,
+   "mainlineLen": 0,
+   "totalNodes": 1
+  }
+ },
+ {
+  "file": "hard/ggg-hard-32.sgf",
+  "userColor": "B",
+  "levelIndex": 0,
+  "orderInLevel": 3,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-hard-32）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "hard",
+  "metrics": {
+   "rootBranches": 2,
+   "successRootBranches": 0,
+   "mainlineLen": 0,
+   "totalNodes": 1
+  }
+ },
+ {
+  "file": "hard/ggg-hard-41.sgf",
+  "userColor": "B",
+  "levelIndex": 0,
+  "orderInLevel": 4,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-hard-41）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "hard",
+  "metrics": {
+   "rootBranches": 2,
+   "successRootBranches": 0,
+   "mainlineLen": 0,
+   "totalNodes": 1
+  }
+ },
+ {
+  "file": "hard/ggg-hard-68.sgf",
+  "userColor": "B",
+  "levelIndex": 0,
+  "orderInLevel": 5,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-hard-68）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "hard",
+  "metrics": {
+   "rootBranches": 2,
+   "successRootBranches": 0,
+   "mainlineLen": 0,
+   "totalNodes": 1
+  }
+ },
+ {
+  "file": "other/heart-go-problem.sgf",
+  "userColor": "B",
+  "levelIndex": 0,
+  "orderInLevel": 6,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（heart-go-problem）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "intermediate",
+  "metrics": {
+   "rootBranches": 2,
+   "successRootBranches": 0,
+   "mainlineLen": 0,
+   "totalNodes": 1
+  }
+ },
+ {
+  "file": "intermediate/ggg-intermediate-130.sgf",
+  "userColor": "B",
+  "levelIndex": 0,
+  "orderInLevel": 7,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-intermediate-130）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "intermediate",
+  "metrics": {
+   "rootBranches": 3,
+   "successRootBranches": 0,
+   "mainlineLen": 0,
+   "totalNodes": 1
+  }
+ },
+ {
+  "file": "intermediate/ggg-intermediate-27.sgf",
+  "userColor": "B",
+  "levelIndex": 0,
+  "orderInLevel": 8,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-intermediate-27）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "intermediate",
+  "metrics": {
+   "rootBranches": 3,
+   "successRootBranches": 0,
+   "mainlineLen": 0,
+   "totalNodes": 1
+  }
+ },
+ {
+  "file": "intermediate/ggg-intermediate-76.sgf",
+  "userColor": "B",
+  "levelIndex": 0,
+  "orderInLevel": 9,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-intermediate-76）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "intermediate",
+  "metrics": {
+   "rootBranches": 3,
+   "successRootBranches": 0,
+   "mainlineLen": 0,
+   "totalNodes": 1
+  }
+ },
+ {
+  "file": "hard/ggg-hard-16.sgf",
+  "userColor": "B",
+  "levelIndex": 0,
+  "orderInLevel": 10,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-hard-16）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "hard",
+  "metrics": {
+   "rootBranches": 3,
+   "successRootBranches": 0,
+   "mainlineLen": 0,
+   "totalNodes": 1
+  }
+ },
+ {
+  "file": "easy/ggg-easy-21.sgf",
+  "userColor": "B",
+  "levelIndex": 1,
+  "orderInLevel": 1,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-easy-21）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "easy",
+  "metrics": {
+   "rootBranches": 2,
+   "successRootBranches": 1,
+   "mainlineLen": 1,
+   "totalNodes": 1
+  }
+ },
+ {
+  "file": "easy/ggg-easy-112.sgf",
+  "userColor": "B",
+  "levelIndex": 1,
+  "orderInLevel": 2,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-easy-112）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "easy",
+  "metrics": {
+   "rootBranches": 4,
+   "successRootBranches": 0,
+   "mainlineLen": 0,
+   "totalNodes": 1
+  }
+ },
+ {
+  "file": "easy/ggg-easy-16.sgf",
+  "userColor": "B",
+  "levelIndex": 1,
+  "orderInLevel": 3,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-easy-16）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "easy",
+  "metrics": {
+   "rootBranches": 4,
+   "successRootBranches": 0,
+   "mainlineLen": 0,
+   "totalNodes": 1
+  }
+ },
+ {
+  "file": "intermediate/ggg-intermediate-75.sgf",
+  "userColor": "B",
+  "levelIndex": 1,
+  "orderInLevel": 4,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-intermediate-75）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "intermediate",
+  "metrics": {
+   "rootBranches": 4,
+   "successRootBranches": 0,
+   "mainlineLen": 0,
+   "totalNodes": 1
+  }
+ },
+ {
+  "file": "intermediate/ggg-intermediate-80.sgf",
+  "userColor": "B",
+  "levelIndex": 1,
+  "orderInLevel": 5,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-intermediate-80）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "intermediate",
+  "metrics": {
+   "rootBranches": 4,
+   "successRootBranches": 0,
+   "mainlineLen": 0,
+   "totalNodes": 1
+  }
+ },
+ {
+  "file": "hard/ggg-hard-01.sgf",
+  "userColor": "B",
+  "levelIndex": 1,
+  "orderInLevel": 6,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-hard-01）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "hard",
+  "metrics": {
+   "rootBranches": 4,
+   "successRootBranches": 0,
+   "mainlineLen": 0,
+   "totalNodes": 1
+  }
+ },
+ {
+  "file": "hard/ggg-hard-43.sgf",
+  "userColor": "B",
+  "levelIndex": 1,
+  "orderInLevel": 7,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-hard-43）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "hard",
+  "metrics": {
+   "rootBranches": 4,
+   "successRootBranches": 0,
+   "mainlineLen": 0,
+   "totalNodes": 1
+  }
+ },
+ {
+  "file": "hard/ggg-hard-54.sgf",
+  "userColor": "B",
+  "levelIndex": 1,
+  "orderInLevel": 8,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-hard-54）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "hard",
+  "metrics": {
+   "rootBranches": 4,
+   "successRootBranches": 0,
+   "mainlineLen": 0,
+   "totalNodes": 1
+  }
+ },
+ {
+  "file": "easy/ggg-easy-09.sgf",
+  "userColor": "B",
+  "levelIndex": 1,
+  "orderInLevel": 9,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-easy-09）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "easy",
+  "metrics": {
+   "rootBranches": 3,
+   "successRootBranches": 1,
+   "mainlineLen": 1,
+   "totalNodes": 1
+  }
+ },
+ {
+  "file": "easy/ggg-easy-25.sgf",
+  "userColor": "B",
+  "levelIndex": 1,
+  "orderInLevel": 10,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-easy-25）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "easy",
+  "metrics": {
+   "rootBranches": 3,
+   "successRootBranches": 1,
+   "mainlineLen": 1,
+   "totalNodes": 1
+  }
+ },
+ {
+  "file": "easy/ggg-easy-06.sgf",
+  "userColor": "B",
+  "levelIndex": 2,
+  "orderInLevel": 1,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-easy-06）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "easy",
+  "metrics": {
+   "rootBranches": 2,
+   "successRootBranches": 1,
+   "mainlineLen": 2,
+   "totalNodes": 2
+  }
+ },
+ {
+  "file": "easy/ggg-easy-47.sgf",
+  "userColor": "B",
+  "levelIndex": 2,
+  "orderInLevel": 2,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-easy-47）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "easy",
+  "metrics": {
+   "rootBranches": 2,
+   "successRootBranches": 1,
+   "mainlineLen": 2,
+   "totalNodes": 2
+  }
+ },
+ {
+  "file": "easy/ggg-easy-04.sgf",
+  "userColor": "B",
+  "levelIndex": 2,
+  "orderInLevel": 3,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-easy-04）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "easy",
+  "metrics": {
+   "rootBranches": 4,
+   "successRootBranches": 1,
+   "mainlineLen": 1,
+   "totalNodes": 1
+  }
+ },
+ {
+  "file": "easy/ggg-easy-13.sgf",
+  "userColor": "B",
+  "levelIndex": 2,
+  "orderInLevel": 4,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-easy-13）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "easy",
+  "metrics": {
+   "rootBranches": 4,
+   "successRootBranches": 1,
+   "mainlineLen": 1,
+   "totalNodes": 1
+  }
+ },
+ {
+  "file": "intermediate/ggg-intermediate-06.sgf",
+  "userColor": "B",
+  "levelIndex": 2,
+  "orderInLevel": 5,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-intermediate-06）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "intermediate",
+  "metrics": {
+   "rootBranches": 4,
+   "successRootBranches": 1,
+   "mainlineLen": 1,
+   "totalNodes": 1
+  }
+ },
+ {
+  "file": "easy/ggg-easy-10.sgf",
+  "userColor": "B",
+  "levelIndex": 2,
+  "orderInLevel": 6,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-easy-10）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "easy",
+  "metrics": {
+   "rootBranches": 3,
+   "successRootBranches": 1,
+   "mainlineLen": 2,
+   "totalNodes": 2
+  }
+ },
+ {
+  "file": "easy/ggg-easy-103.sgf",
+  "userColor": "B",
+  "levelIndex": 2,
+  "orderInLevel": 7,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-easy-103）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "easy",
+  "metrics": {
+   "rootBranches": 3,
+   "successRootBranches": 1,
+   "mainlineLen": 2,
+   "totalNodes": 2
+  }
+ },
+ {
+  "file": "easy/ggg-easy-105.sgf",
+  "userColor": "B",
+  "levelIndex": 2,
+  "orderInLevel": 8,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-easy-105）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "easy",
+  "metrics": {
+   "rootBranches": 3,
+   "successRootBranches": 1,
+   "mainlineLen": 2,
+   "totalNodes": 2
+  }
+ },
+ {
+  "file": "easy/ggg-easy-11.sgf",
+  "userColor": "B",
+  "levelIndex": 2,
+  "orderInLevel": 9,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-easy-11）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "easy",
+  "metrics": {
+   "rootBranches": 3,
+   "successRootBranches": 1,
+   "mainlineLen": 2,
+   "totalNodes": 2
+  }
+ },
+ {
+  "file": "easy/ggg-easy-20.sgf",
+  "userColor": "B",
+  "levelIndex": 2,
+  "orderInLevel": 10,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-easy-20）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "easy",
+  "metrics": {
+   "rootBranches": 3,
+   "successRootBranches": 1,
+   "mainlineLen": 2,
+   "totalNodes": 2
+  }
+ },
+ {
+  "file": "easy/ggg-easy-71.sgf",
+  "userColor": "B",
+  "levelIndex": 3,
+  "orderInLevel": 1,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-easy-71）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "easy",
+  "metrics": {
+   "rootBranches": 3,
+   "successRootBranches": 1,
+   "mainlineLen": 2,
+   "totalNodes": 2
+  }
+ },
+ {
+  "file": "easy/ggg-easy-76.sgf",
+  "userColor": "B",
+  "levelIndex": 3,
+  "orderInLevel": 2,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-easy-76）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "easy",
+  "metrics": {
+   "rootBranches": 3,
+   "successRootBranches": 1,
+   "mainlineLen": 2,
+   "totalNodes": 2
+  }
+ },
+ {
+  "file": "intermediate/ggg-intermediate-102.sgf",
+  "userColor": "B",
+  "levelIndex": 3,
+  "orderInLevel": 3,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-intermediate-102）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "intermediate",
+  "metrics": {
+   "rootBranches": 3,
+   "successRootBranches": 1,
+   "mainlineLen": 2,
+   "totalNodes": 3
+  }
+ },
+ {
+  "file": "easy/ggg-easy-107.sgf",
+  "userColor": "B",
+  "levelIndex": 3,
+  "orderInLevel": 4,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-easy-107）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "easy",
+  "metrics": {
+   "rootBranches": 6,
+   "successRootBranches": 0,
+   "mainlineLen": 0,
+   "totalNodes": 1
+  }
+ },
+ {
+  "file": "easy/ggg-easy-113.sgf",
+  "userColor": "B",
+  "levelIndex": 3,
+  "orderInLevel": 5,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-easy-113）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "easy",
+  "metrics": {
+   "rootBranches": 5,
+   "successRootBranches": 0,
+   "mainlineLen": 0,
+   "totalNodes": 1
+  }
+ },
+ {
+  "file": "easy/ggg-easy-116.sgf",
+  "userColor": "B",
+  "levelIndex": 3,
+  "orderInLevel": 6,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-easy-116）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "easy",
+  "metrics": {
+   "rootBranches": 5,
+   "successRootBranches": 0,
+   "mainlineLen": 0,
+   "totalNodes": 1
+  }
+ },
+ {
+  "file": "easy/ggg-easy-132.sgf",
+  "userColor": "B",
+  "levelIndex": 3,
+  "orderInLevel": 7,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-easy-132）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "easy",
+  "metrics": {
+   "rootBranches": 6,
+   "successRootBranches": 0,
+   "mainlineLen": 0,
+   "totalNodes": 1
+  }
+ },
+ {
+  "file": "intermediate/ggg-intermediate-101.sgf",
+  "userColor": "B",
+  "levelIndex": 3,
+  "orderInLevel": 8,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-intermediate-101）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "intermediate",
+  "metrics": {
+   "rootBranches": 5,
+   "successRootBranches": 0,
+   "mainlineLen": 0,
+   "totalNodes": 1
+  }
+ },
+ {
+  "file": "intermediate/ggg-intermediate-12.sgf",
+  "userColor": "B",
+  "levelIndex": 3,
+  "orderInLevel": 9,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-intermediate-12）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "intermediate",
+  "metrics": {
+   "rootBranches": 5,
+   "successRootBranches": 0,
+   "mainlineLen": 0,
+   "totalNodes": 1
+  }
+ },
+ {
+  "file": "intermediate/ggg-intermediate-29.sgf",
+  "userColor": "B",
+  "levelIndex": 3,
+  "orderInLevel": 10,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-intermediate-29）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "intermediate",
+  "metrics": {
+   "rootBranches": 7,
+   "successRootBranches": 0,
+   "mainlineLen": 0,
+   "totalNodes": 1
+  }
+ },
+ {
+  "file": "intermediate/ggg-intermediate-57.sgf",
+  "userColor": "B",
+  "levelIndex": 4,
+  "orderInLevel": 1,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-intermediate-57）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "intermediate",
+  "metrics": {
+   "rootBranches": 7,
+   "successRootBranches": 0,
+   "mainlineLen": 0,
+   "totalNodes": 1
+  }
+ },
+ {
+  "file": "intermediate/ggg-intermediate-85.sgf",
+  "userColor": "B",
+  "levelIndex": 4,
+  "orderInLevel": 2,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-intermediate-85）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "intermediate",
+  "metrics": {
+   "rootBranches": 6,
+   "successRootBranches": 0,
+   "mainlineLen": 0,
+   "totalNodes": 1
+  }
+ },
+ {
+  "file": "intermediate/ggg-intermediate-99.sgf",
+  "userColor": "B",
+  "levelIndex": 4,
+  "orderInLevel": 3,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-intermediate-99）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "intermediate",
+  "metrics": {
+   "rootBranches": 6,
+   "successRootBranches": 0,
+   "mainlineLen": 0,
+   "totalNodes": 1
+  }
+ },
+ {
+  "file": "hard/ggg-hard-111.sgf",
+  "userColor": "B",
+  "levelIndex": 4,
+  "orderInLevel": 4,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-hard-111）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "hard",
+  "metrics": {
+   "rootBranches": 10,
+   "successRootBranches": 0,
+   "mainlineLen": 0,
+   "totalNodes": 1
+  }
+ },
+ {
+  "file": "hard/ggg-hard-129.sgf",
+  "userColor": "B",
+  "levelIndex": 4,
+  "orderInLevel": 5,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-hard-129）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "hard",
+  "metrics": {
+   "rootBranches": 5,
+   "successRootBranches": 0,
+   "mainlineLen": 0,
+   "totalNodes": 1
+  }
+ },
+ {
+  "file": "hard/ggg-hard-15.sgf",
+  "userColor": "B",
+  "levelIndex": 4,
+  "orderInLevel": 6,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-hard-15）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "hard",
+  "metrics": {
+   "rootBranches": 5,
+   "successRootBranches": 0,
+   "mainlineLen": 0,
+   "totalNodes": 1
+  }
+ },
+ {
+  "file": "hard/ggg-hard-18.sgf",
+  "userColor": "B",
+  "levelIndex": 4,
+  "orderInLevel": 7,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-hard-18）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "hard",
+  "metrics": {
+   "rootBranches": 7,
+   "successRootBranches": 0,
+   "mainlineLen": 0,
+   "totalNodes": 1
+  }
+ },
+ {
+  "file": "hard/ggg-hard-25.sgf",
+  "userColor": "B",
+  "levelIndex": 4,
+  "orderInLevel": 8,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-hard-25）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "hard",
+  "metrics": {
+   "rootBranches": 8,
+   "successRootBranches": 0,
+   "mainlineLen": 0,
+   "totalNodes": 1
+  }
+ },
+ {
+  "file": "hard/ggg-hard-30.sgf",
+  "userColor": "B",
+  "levelIndex": 4,
+  "orderInLevel": 9,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-hard-30）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "hard",
+  "metrics": {
+   "rootBranches": 9,
+   "successRootBranches": 0,
+   "mainlineLen": 0,
+   "totalNodes": 1
+  }
+ },
+ {
+  "file": "hard/ggg-hard-35.sgf",
+  "userColor": "B",
+  "levelIndex": 4,
+  "orderInLevel": 10,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-hard-35）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "hard",
+  "metrics": {
+   "rootBranches": 7,
+   "successRootBranches": 0,
+   "mainlineLen": 0,
+   "totalNodes": 1
+  }
+ },
+ {
+  "file": "hard/ggg-hard-47.sgf",
+  "userColor": "B",
+  "levelIndex": 5,
+  "orderInLevel": 1,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-hard-47）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "hard",
+  "metrics": {
+   "rootBranches": 7,
+   "successRootBranches": 0,
+   "mainlineLen": 0,
+   "totalNodes": 1
+  }
+ },
+ {
+  "file": "hard/ggg-hard-59.sgf",
+  "userColor": "B",
+  "levelIndex": 5,
+  "orderInLevel": 2,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-hard-59）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "hard",
+  "metrics": {
+   "rootBranches": 6,
+   "successRootBranches": 0,
+   "mainlineLen": 0,
+   "totalNodes": 1
+  }
+ },
+ {
+  "file": "hard/ggg-hard-60.sgf",
+  "userColor": "B",
+  "levelIndex": 5,
+  "orderInLevel": 3,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-hard-60）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "hard",
+  "metrics": {
+   "rootBranches": 5,
+   "successRootBranches": 0,
+   "mainlineLen": 0,
+   "totalNodes": 1
+  }
+ },
+ {
+  "file": "hard/ggg-hard-63.sgf",
+  "userColor": "B",
+  "levelIndex": 5,
+  "orderInLevel": 4,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-hard-63）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "hard",
+  "metrics": {
+   "rootBranches": 5,
+   "successRootBranches": 0,
+   "mainlineLen": 0,
+   "totalNodes": 1
+  }
+ },
+ {
+  "file": "other/ggg-eternal-life.sgf",
+  "userColor": "B",
+  "levelIndex": 5,
+  "orderInLevel": 5,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-eternal-life）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "intermediate",
+  "metrics": {
+   "rootBranches": 6,
+   "successRootBranches": 0,
+   "mainlineLen": 0,
+   "totalNodes": 1
+  }
+ },
+ {
+  "file": "easy/ggg-easy-01.sgf",
+  "userColor": "B",
+  "levelIndex": 5,
+  "orderInLevel": 6,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-easy-01）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "easy",
+  "metrics": {
+   "rootBranches": 4,
+   "successRootBranches": 1,
+   "mainlineLen": 2,
+   "totalNodes": 2
+  }
+ },
+ {
+  "file": "easy/ggg-easy-02.sgf",
+  "userColor": "B",
+  "levelIndex": 5,
+  "orderInLevel": 7,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-easy-02）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "easy",
+  "metrics": {
+   "rootBranches": 4,
+   "successRootBranches": 1,
+   "mainlineLen": 2,
+   "totalNodes": 2
+  }
+ },
+ {
+  "file": "easy/ggg-easy-05.sgf",
+  "userColor": "B",
+  "levelIndex": 5,
+  "orderInLevel": 8,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-easy-05）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "easy",
+  "metrics": {
+   "rootBranches": 4,
+   "successRootBranches": 1,
+   "mainlineLen": 2,
+   "totalNodes": 2
+  }
+ },
+ {
+  "file": "easy/ggg-easy-14.sgf",
+  "userColor": "B",
+  "levelIndex": 5,
+  "orderInLevel": 9,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-easy-14）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "easy",
+  "metrics": {
+   "rootBranches": 4,
+   "successRootBranches": 1,
+   "mainlineLen": 2,
+   "totalNodes": 2
+  }
+ },
+ {
+  "file": "easy/ggg-easy-15.sgf",
+  "userColor": "B",
+  "levelIndex": 5,
+  "orderInLevel": 10,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-easy-15）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "easy",
+  "metrics": {
+   "rootBranches": 4,
+   "successRootBranches": 1,
+   "mainlineLen": 2,
+   "totalNodes": 2
+  }
+ },
+ {
+  "file": "easy/ggg-easy-22.sgf",
+  "userColor": "B",
+  "levelIndex": 6,
+  "orderInLevel": 1,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-easy-22）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "easy",
+  "metrics": {
+   "rootBranches": 4,
+   "successRootBranches": 1,
+   "mainlineLen": 2,
+   "totalNodes": 2
+  }
+ },
+ {
+  "file": "easy/ggg-easy-29.sgf",
+  "userColor": "B",
+  "levelIndex": 6,
+  "orderInLevel": 2,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-easy-29）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "easy",
+  "metrics": {
+   "rootBranches": 4,
+   "successRootBranches": 1,
+   "mainlineLen": 2,
+   "totalNodes": 2
+  }
+ },
+ {
+  "file": "easy/ggg-easy-35.sgf",
+  "userColor": "B",
+  "levelIndex": 6,
+  "orderInLevel": 3,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-easy-35）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "easy",
+  "metrics": {
+   "rootBranches": 4,
+   "successRootBranches": 1,
+   "mainlineLen": 2,
+   "totalNodes": 2
+  }
+ },
+ {
+  "file": "easy/ggg-easy-60.sgf",
+  "userColor": "B",
+  "levelIndex": 6,
+  "orderInLevel": 4,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-easy-60）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "easy",
+  "metrics": {
+   "rootBranches": 4,
+   "successRootBranches": 1,
+   "mainlineLen": 2,
+   "totalNodes": 2
+  }
+ },
+ {
+  "file": "easy/ggg-easy-61.sgf",
+  "userColor": "B",
+  "levelIndex": 6,
+  "orderInLevel": 5,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-easy-61）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "easy",
+  "metrics": {
+   "rootBranches": 4,
+   "successRootBranches": 1,
+   "mainlineLen": 2,
+   "totalNodes": 2
+  }
+ },
+ {
+  "file": "easy/ggg-easy-66.sgf",
+  "userColor": "B",
+  "levelIndex": 6,
+  "orderInLevel": 6,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-easy-66）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "easy",
+  "metrics": {
+   "rootBranches": 4,
+   "successRootBranches": 1,
+   "mainlineLen": 2,
+   "totalNodes": 2
+  }
+ },
+ {
+  "file": "easy/ggg-easy-69.sgf",
+  "userColor": "B",
+  "levelIndex": 6,
+  "orderInLevel": 7,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-easy-69）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "easy",
+  "metrics": {
+   "rootBranches": 4,
+   "successRootBranches": 1,
+   "mainlineLen": 2,
+   "totalNodes": 2
+  }
+ },
+ {
+  "file": "easy/ggg-easy-78.sgf",
+  "userColor": "B",
+  "levelIndex": 6,
+  "orderInLevel": 8,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-easy-78）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "easy",
+  "metrics": {
+   "rootBranches": 4,
+   "successRootBranches": 1,
+   "mainlineLen": 2,
+   "totalNodes": 2
+  }
+ },
+ {
+  "file": "easy/ggg-easy-82.sgf",
+  "userColor": "B",
+  "levelIndex": 6,
+  "orderInLevel": 9,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-easy-82）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "easy",
+  "metrics": {
+   "rootBranches": 4,
+   "successRootBranches": 1,
+   "mainlineLen": 2,
+   "totalNodes": 2
+  }
+ },
+ {
+  "file": "easy/ggg-easy-87.sgf",
+  "userColor": "B",
+  "levelIndex": 6,
+  "orderInLevel": 10,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-easy-87）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "easy",
+  "metrics": {
+   "rootBranches": 4,
+   "successRootBranches": 1,
+   "mainlineLen": 2,
+   "totalNodes": 2
+  }
+ },
+ {
+  "file": "easy/ggg-easy-89.sgf",
+  "userColor": "B",
+  "levelIndex": 7,
+  "orderInLevel": 1,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-easy-89）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "easy",
+  "metrics": {
+   "rootBranches": 4,
+   "successRootBranches": 1,
+   "mainlineLen": 2,
+   "totalNodes": 2
+  }
+ },
+ {
+  "file": "intermediate/ggg-intermediate-04.sgf",
+  "userColor": "B",
+  "levelIndex": 7,
+  "orderInLevel": 2,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-intermediate-04）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "intermediate",
+  "metrics": {
+   "rootBranches": 4,
+   "successRootBranches": 1,
+   "mainlineLen": 2,
+   "totalNodes": 2
+  }
+ },
+ {
+  "file": "intermediate/ggg-intermediate-110.sgf",
+  "userColor": "B",
+  "levelIndex": 7,
+  "orderInLevel": 3,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-intermediate-110）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "intermediate",
+  "metrics": {
+   "rootBranches": 4,
+   "successRootBranches": 1,
+   "mainlineLen": 2,
+   "totalNodes": 2
+  }
+ },
+ {
+  "file": "intermediate/ggg-intermediate-15.sgf",
+  "userColor": "B",
+  "levelIndex": 7,
+  "orderInLevel": 4,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-intermediate-15）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "intermediate",
+  "metrics": {
+   "rootBranches": 4,
+   "successRootBranches": 1,
+   "mainlineLen": 2,
+   "totalNodes": 2
+  }
+ },
+ {
+  "file": "intermediate/ggg-intermediate-19.sgf",
+  "userColor": "B",
+  "levelIndex": 7,
+  "orderInLevel": 5,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-intermediate-19）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "intermediate",
+  "metrics": {
+   "rootBranches": 4,
+   "successRootBranches": 1,
+   "mainlineLen": 2,
+   "totalNodes": 2
+  }
+ },
+ {
+  "file": "intermediate/ggg-intermediate-23.sgf",
+  "userColor": "B",
+  "levelIndex": 7,
+  "orderInLevel": 6,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-intermediate-23）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "intermediate",
+  "metrics": {
+   "rootBranches": 4,
+   "successRootBranches": 1,
+   "mainlineLen": 2,
+   "totalNodes": 2
+  }
+ },
+ {
+  "file": "intermediate/ggg-intermediate-47.sgf",
+  "userColor": "B",
+  "levelIndex": 7,
+  "orderInLevel": 7,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-intermediate-47）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "intermediate",
+  "metrics": {
+   "rootBranches": 4,
+   "successRootBranches": 1,
+   "mainlineLen": 2,
+   "totalNodes": 2
+  }
+ },
+ {
+  "file": "easy/ggg-easy-90.sgf",
+  "userColor": "B",
+  "levelIndex": 7,
+  "orderInLevel": 8,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-easy-90）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "easy",
+  "metrics": {
+   "rootBranches": 4,
+   "successRootBranches": 1,
+   "mainlineLen": 2,
+   "totalNodes": 3
+  }
+ },
+ {
+  "file": "easy/ggg-easy-72.sgf",
+  "userColor": "B",
+  "levelIndex": 7,
+  "orderInLevel": 9,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-easy-72）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "easy",
+  "metrics": {
+   "rootBranches": 3,
+   "successRootBranches": 1,
+   "mainlineLen": 3,
+   "totalNodes": 3
+  }
+ },
+ {
+  "file": "intermediate/ggg-intermediate-114.sgf",
+  "userColor": "B",
+  "levelIndex": 7,
+  "orderInLevel": 10,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-intermediate-114）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "intermediate",
+  "metrics": {
+   "rootBranches": 3,
+   "successRootBranches": 1,
+   "mainlineLen": 3,
+   "totalNodes": 3
+  }
+ },
+ {
+  "file": "intermediate/ggg-intermediate-39.sgf",
+  "userColor": "B",
+  "levelIndex": 8,
+  "orderInLevel": 1,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-intermediate-39）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "intermediate",
+  "metrics": {
+   "rootBranches": 3,
+   "successRootBranches": 1,
+   "mainlineLen": 3,
+   "totalNodes": 3
+  }
+ },
+ {
+  "file": "easy/ggg-easy-38.sgf",
+  "userColor": "B",
+  "levelIndex": 8,
+  "orderInLevel": 2,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-easy-38）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "easy",
+  "metrics": {
+   "rootBranches": 5,
+   "successRootBranches": 1,
+   "mainlineLen": 1,
+   "totalNodes": 1
+  }
+ },
+ {
+  "file": "easy/ggg-easy-53.sgf",
+  "userColor": "B",
+  "levelIndex": 8,
+  "orderInLevel": 3,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-easy-53）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "easy",
+  "metrics": {
+   "rootBranches": 5,
+   "successRootBranches": 1,
+   "mainlineLen": 1,
+   "totalNodes": 1
+  }
+ },
+ {
+  "file": "easy/ggg-easy-56.sgf",
+  "userColor": "B",
+  "levelIndex": 8,
+  "orderInLevel": 4,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-easy-56）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "easy",
+  "metrics": {
+   "rootBranches": 6,
+   "successRootBranches": 1,
+   "mainlineLen": 1,
+   "totalNodes": 1
+  }
+ },
+ {
+  "file": "easy/ggg-easy-74.sgf",
+  "userColor": "B",
+  "levelIndex": 8,
+  "orderInLevel": 5,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-easy-74）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "easy",
+  "metrics": {
+   "rootBranches": 5,
+   "successRootBranches": 1,
+   "mainlineLen": 1,
+   "totalNodes": 1
+  }
+ },
+ {
+  "file": "easy/ggg-easy-75.sgf",
+  "userColor": "B",
+  "levelIndex": 8,
+  "orderInLevel": 6,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-easy-75）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "easy",
+  "metrics": {
+   "rootBranches": 5,
+   "successRootBranches": 1,
+   "mainlineLen": 1,
+   "totalNodes": 1
+  }
+ },
+ {
+  "file": "easy/ggg-easy-84.sgf",
+  "userColor": "B",
+  "levelIndex": 8,
+  "orderInLevel": 7,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-easy-84）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "easy",
+  "metrics": {
+   "rootBranches": 6,
+   "successRootBranches": 1,
+   "mainlineLen": 1,
+   "totalNodes": 1
+  }
+ },
+ {
+  "file": "intermediate/ggg-intermediate-70.sgf",
+  "userColor": "B",
+  "levelIndex": 8,
+  "orderInLevel": 8,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-intermediate-70）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "intermediate",
+  "metrics": {
+   "rootBranches": 5,
+   "successRootBranches": 1,
+   "mainlineLen": 1,
+   "totalNodes": 1
+  }
+ },
+ {
+  "file": "easy/ggg-easy-104.sgf",
+  "userColor": "B",
+  "levelIndex": 8,
+  "orderInLevel": 9,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-easy-104）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "easy",
+  "metrics": {
+   "rootBranches": 4,
+   "successRootBranches": 1,
+   "mainlineLen": 3,
+   "totalNodes": 3
+  }
+ },
+ {
+  "file": "easy/ggg-easy-127.sgf",
+  "userColor": "B",
+  "levelIndex": 8,
+  "orderInLevel": 10,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-easy-127）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "easy",
+  "metrics": {
+   "rootBranches": 4,
+   "successRootBranches": 1,
+   "mainlineLen": 3,
+   "totalNodes": 3
+  }
+ },
+ {
+  "file": "easy/ggg-easy-139.sgf",
+  "userColor": "B",
+  "levelIndex": 9,
+  "orderInLevel": 1,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-easy-139）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "easy",
+  "metrics": {
+   "rootBranches": 4,
+   "successRootBranches": 1,
+   "mainlineLen": 3,
+   "totalNodes": 3
+  }
+ },
+ {
+  "file": "easy/ggg-easy-34.sgf",
+  "userColor": "B",
+  "levelIndex": 9,
+  "orderInLevel": 2,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-easy-34）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "easy",
+  "metrics": {
+   "rootBranches": 4,
+   "successRootBranches": 1,
+   "mainlineLen": 3,
+   "totalNodes": 3
+  }
+ },
+ {
+  "file": "easy/ggg-easy-36.sgf",
+  "userColor": "B",
+  "levelIndex": 9,
+  "orderInLevel": 3,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-easy-36）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "easy",
+  "metrics": {
+   "rootBranches": 4,
+   "successRootBranches": 1,
+   "mainlineLen": 3,
+   "totalNodes": 3
+  }
+ },
+ {
+  "file": "easy/ggg-easy-46.sgf",
+  "userColor": "B",
+  "levelIndex": 9,
+  "orderInLevel": 4,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-easy-46）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "easy",
+  "metrics": {
+   "rootBranches": 4,
+   "successRootBranches": 1,
+   "mainlineLen": 3,
+   "totalNodes": 3
+  }
+ },
+ {
+  "file": "easy/ggg-easy-50.sgf",
+  "userColor": "B",
+  "levelIndex": 9,
+  "orderInLevel": 5,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-easy-50）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "easy",
+  "metrics": {
+   "rootBranches": 4,
+   "successRootBranches": 1,
+   "mainlineLen": 3,
+   "totalNodes": 3
+  }
+ },
+ {
+  "file": "easy/ggg-easy-54.sgf",
+  "userColor": "B",
+  "levelIndex": 9,
+  "orderInLevel": 6,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-easy-54）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "easy",
+  "metrics": {
+   "rootBranches": 4,
+   "successRootBranches": 1,
+   "mainlineLen": 3,
+   "totalNodes": 3
+  }
+ },
+ {
+  "file": "easy/ggg-easy-57.sgf",
+  "userColor": "B",
+  "levelIndex": 9,
+  "orderInLevel": 7,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-easy-57）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "easy",
+  "metrics": {
+   "rootBranches": 4,
+   "successRootBranches": 1,
+   "mainlineLen": 3,
+   "totalNodes": 3
+  }
+ },
+ {
+  "file": "easy/ggg-easy-62.sgf",
+  "userColor": "B",
+  "levelIndex": 9,
+  "orderInLevel": 8,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-easy-62）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "easy",
+  "metrics": {
+   "rootBranches": 4,
+   "successRootBranches": 1,
+   "mainlineLen": 3,
+   "totalNodes": 3
+  }
+ },
+ {
+  "file": "easy/ggg-easy-68.sgf",
+  "userColor": "B",
+  "levelIndex": 9,
+  "orderInLevel": 9,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-easy-68）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "easy",
+  "metrics": {
+   "rootBranches": 4,
+   "successRootBranches": 1,
+   "mainlineLen": 3,
+   "totalNodes": 3
+  }
+ },
+ {
+  "file": "easy/ggg-easy-85.sgf",
+  "userColor": "B",
+  "levelIndex": 9,
+  "orderInLevel": 10,
+  "goalTextCN": "黑先 · 目标待审核",
+  "keyPointCN": "",
+  "titleCN": "待审核（ggg-easy-85）",
+  "reviewStatus": "needs-review",
+  "rulesVerified": true,
+  "sourceBucket": "easy",
+  "metrics": {
+   "rootBranches": 4,
+   "successRootBranches": 1,
+   "mainlineLen": 3,
+   "totalNodes": 3
+  }
+ }
+]

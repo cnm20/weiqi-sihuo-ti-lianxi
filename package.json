@@ -1,0 +1,45 @@
+{
+  "name": "kejie-tsumego",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "中文围棋死活题练习网页应用（个人非商业使用）",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit -p tsconfig.json && vite build",
+    "cap": "node --require ./tools/capacitor-preload.cjs ./node_modules/@capacitor/cli/bin/capacitor",
+    "mobile:sync": "npm run build && npm run cap -- sync android",
+    "apk:debug": "powershell -NoProfile -ExecutionPolicy Bypass -File tools/build-apk.ps1",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit -p tsconfig.json",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:e2e": "playwright test"
+  },
+  "dependencies": {
+    "@capacitor/android": "^8.5.1",
+    "@capacitor/core": "^8.5.1",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "@capacitor/android": "^8.5.1",
+    "@capacitor/core": "^8.5.1",
+    "workbox-window": "^7.4.1"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^8.5.1",
+    "@playwright/test": "^1.63.0",
+    "@capacitor/cli": "^8.5.1",
+    "@testing-library/jest-dom": "^6.9.1",
+    "@testing-library/react": "^16.3.3",
+    "@testing-library/user-event": "^14.6.1",
+    "@types/node": "^24.10.0",
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.7",
+    "@vitejs/plugin-react": "^6.1.1",
+    "jsdom": "^30.0.1",
+    "typescript": "~5.9.3",
+    "vite": "^8.2.2",
+    "vite-plugin-pwa": "^1.3.0",
+    "vitest": "^5.0.0"
+  }
+}

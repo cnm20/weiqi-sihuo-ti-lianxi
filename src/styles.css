@@ -1,0 +1,498 @@
+:root {
+  --wood-dark: #8b5a2b;
+  --wood-mid: #a9743f;
+  --wood-light: #d9b380;
+  --paper: #f7eedd;
+  --ink: #3a2a18;
+  --accent: #b04a2a;
+  --ok: #2e7d32;
+  --err: #c62828;
+  --radius: 14px;
+  --shadow: 0 6px 18px rgba(60, 40, 10, 0.25);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif;
+  background: var(--paper);
+  color: var(--ink);
+  -webkit-tap-highlight-color: transparent;
+}
+
+.app {
+  max-width: 560px;
+  margin: 0 auto;
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+  background: var(--paper);
+}
+
+header.app-header {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 12px 14px;
+  background: var(--wood-mid);
+  color: #fff;
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  box-shadow: var(--shadow);
+}
+
+.app-header .title {
+  font-size: 18px;
+  font-weight: 700;
+  flex: 1;
+}
+
+.back-btn {
+  background: rgba(0, 0, 0, 0.18);
+  border: none;
+  color: #fff;
+  border-radius: 8px;
+  padding: 6px 12px;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+main {
+  flex: 1;
+  padding: 14px;
+}
+
+button {
+  font-family: inherit;
+}
+
+/* 首页等级 */
+.level-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+}
+
+.level-card {
+  background: linear-gradient(160deg, #fdf6e9, #f0ddbb);
+  border: 1px solid #d9b380;
+  border-radius: var(--radius);
+  padding: 14px 12px;
+  cursor: pointer;
+  text-align: left;
+  box-shadow: 0 2px 6px rgba(80, 55, 20, 0.12);
+  transition: transform 0.06s;
+}
+
+.level-card:active {
+  transform: scale(0.98);
+}
+
+.level-card .lv {
+  font-size: 22px;
+  font-weight: 800;
+  color: var(--wood-dark);
+}
+
+.level-card .theme {
+  font-size: 12px;
+  color: #6a4e2a;
+  margin: 4px 0 8px;
+}
+
+.level-card .progress {
+  font-size: 13px;
+  color: var(--ink);
+}
+
+.level-card .bar {
+  height: 6px;
+  background: #dcc9a4;
+  border-radius: 3px;
+  margin-top: 6px;
+  overflow: hidden;
+}
+
+.level-card .bar > i {
+  display: block;
+  height: 100%;
+  background: var(--ok);
+}
+
+.continue-banner {
+  background: var(--accent);
+  color: #fff;
+  border-radius: var(--radius);
+  padding: 12px 16px;
+  margin-bottom: 14px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+  box-shadow: var(--shadow);
+}
+
+.continue-banner b {
+  font-size: 16px;
+}
+
+/* 题目列表 */
+.puzzle-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.puzzle-item {
+  background: #fff;
+  border-radius: 12px;
+  padding: 12px 14px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);
+  cursor: pointer;
+}
+
+.puzzle-item .idx {
+  font-weight: 800;
+  color: var(--wood-dark);
+  width: 34px;
+  text-align: center;
+  font-size: 18px;
+}
+
+.puzzle-item .title {
+  flex: 1;
+  font-size: 15px;
+}
+
+.puzzle-item .status {
+  width: 60px;
+  text-align: right;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.puzzle-item .status.ok {
+  color: var(--ok);
+}
+
+.puzzle-item .status.bad {
+  color: var(--err);
+}
+
+.puzzle-item .status.todo {
+  color: #999;
+}
+
+/* 答题页 */
+.solve-page {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.solve-meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 14px;
+  background: #fff;
+  border-radius: 10px;
+  padding: 8px 12px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);
+}
+
+.badge {
+  padding: 3px 10px;
+  border-radius: 999px;
+  font-weight: 700;
+  color: #fff;
+}
+
+.badge.lv {
+  background: var(--wood-mid);
+}
+
+.badge.goal {
+  background: var(--accent);
+}
+
+.timer {
+  font-variant-numeric: tabular-nums;
+  font-weight: 700;
+  color: var(--ink);
+}
+
+.timer.warn {
+  color: var(--err);
+}
+
+.solve-goal {
+  background: #fff8ec;
+  border: 1px dashed #d9b380;
+  border-radius: 10px;
+  padding: 8px 12px;
+  font-size: 14px;
+  text-align: center;
+  color: #5a4022;
+}
+
+.board-frame {
+  background: var(--wood-mid);
+  border-radius: var(--radius);
+  padding: 10px;
+  box-shadow: var(--shadow);
+}
+
+.board-frame svg {
+  display: block;
+}
+
+.hint {
+  min-height: 18px;
+  font-size: 13px;
+  color: #7a5c32;
+  text-align: center;
+}
+
+.controls {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  margin: 2px 0 6px;
+}
+
+.controls button {
+  flex: 1;
+  max-width: 180px;
+  padding: 11px 8px;
+  border-radius: 10px;
+  border: none;
+  font-size: 15px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+@media (max-width: 600px) {
+  .solve-page {
+    gap: 6px;
+  }
+
+  .solve-page .board-frame {
+    display: flex;
+    justify-content: center;
+    padding: 8px;
+  }
+
+  .solve-page .board-frame svg {
+    max-height: calc(100dvh - 370px);
+    width: 100%;
+    height: auto;
+  }
+
+  .solve-page .controls {
+    position: sticky;
+    bottom: 0;
+    z-index: 10;
+    margin: 0;
+    padding: 6px 0 max(6px, env(safe-area-inset-bottom));
+    background: var(--paper);
+  }
+}
+
+.btn-primary {
+  background: var(--wood-dark);
+  color: #fff;
+}
+
+.btn-primary:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
+.btn-plain {
+  background: #eee2ca;
+  color: var(--ink);
+}
+
+.btn-danger {
+  background: var(--err);
+  color: #fff;
+}
+
+/* 结算遮罩 */
+.settle-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 100;
+  background: rgba(40, 25, 8, 0.72);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  backdrop-filter: blur(2px);
+}
+
+.settle-card {
+  background: var(--paper);
+  border-radius: var(--radius);
+  padding: 18px 16px 16px;
+  width: min(420px, 100%);
+  text-align: center;
+  box-shadow: var(--shadow);
+}
+
+.settle-image {
+  max-width: min(320px, 78vw);
+  max-height: 34vh;
+  object-fit: contain;
+  border-radius: 10px;
+  display: block;
+  margin: 0 auto;
+}
+
+.settle-text {
+  font-size: 20px;
+  font-weight: 800;
+  margin: 12px 0 2px;
+}
+
+.settle-text.ok {
+  color: var(--ok);
+}
+
+.settle-text.bad {
+  color: var(--err);
+}
+
+.settle-sub {
+  font-size: 13px;
+  color: #6a5540;
+  margin: 4px 0 14px;
+  white-space: pre-wrap;
+}
+
+.settle-buttons {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  gap: 8px;
+}
+
+.settle-buttons button {
+  padding: 10px 8px;
+  border: none;
+  border-radius: 9px;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+  color: #fff;
+}
+
+/* 解答回放 */
+.replay-panel {
+  background: #fff;
+  border-radius: var(--radius);
+  padding: 12px;
+  box-shadow: var(--shadow);
+}
+
+.replay-controls {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  margin-top: 8px;
+}
+
+.replay-controls button {
+  padding: 8px 14px;
+  border: none;
+  border-radius: 8px;
+  font-size: 14px;
+  cursor: pointer;
+  background: var(--wood-light);
+  color: var(--ink);
+  font-weight: 600;
+}
+
+.replay-controls .cnt {
+  font-size: 14px;
+  min-width: 60px;
+  text-align: center;
+  font-variant-numeric: tabular-nums;
+}
+
+.move-note {
+  font-size: 13px;
+  color: #5a4022;
+  text-align: center;
+  margin-top: 6px;
+  min-height: 16px;
+}
+
+/* 通用 */
+.notice {
+  background: #fff4d6;
+  border: 1px solid #e6c26a;
+  border-radius: 10px;
+  padding: 10px 12px;
+  font-size: 14px;
+  margin: 8px 0;
+}
+
+.muted {
+  color: #8a7355;
+  font-size: 12px;
+  text-align: center;
+}
+
+/* PWA 提示条 */
+.pwa-banner {
+  position: sticky;
+  top: 0;
+  z-index: 90;
+  padding: 8px 14px;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  justify-content: center;
+}
+
+.pwa-banner.ok {
+  background: #d7ecc8;
+  color: #2f5b1e;
+}
+
+.pwa-banner.refresh {
+  background: #ffe6c7;
+  color: #6b3f00;
+}
+
+.pwa-banner button {
+  padding: 4px 12px;
+  border: none;
+  border-radius: 6px;
+  background: #5b8a3f;
+  color: #fff;
+  font-size: 13px;
+  cursor: pointer;
+}
+
+.pwa-banner.refresh button:last-child {
+  background: #b9a183;
+}

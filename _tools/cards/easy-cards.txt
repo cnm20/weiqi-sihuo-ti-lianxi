@@ -1,0 +1,1595 @@
+===== easy/ggg-easy-01.sgf =====
+Black to play. https://gogameguru.com/
+    b c d e f g h i
+18  . . . O . X . .
+17  . . X O . O . O
+16  . X . X O O . O
+15  . . . X X X X X
+14  . . . . . . . .
+
+===== easy/ggg-easy-02.sgf =====
+Black to play. https://gogameguru.com/
+    c d e f g h i
+18  . X O . X . .
+17  . X O O O . O
+16  . X X X O . O
+15  . . . . X O .
+14  . . . . X X X
+13  . . . . . . .
+
+===== easy/ggg-easy-03.sgf =====
+Black to play. https://gogameguru.com/
+    c d e f g h i
+18  . . X O . . .
+17  . . X O . O .
+16  . . X O X O O
+15  . X . X O X .
+14  . . . X . X .
+13  . . . . . . .
+
+===== easy/ggg-easy-04.sgf =====
+Black to play. https://gogameguru.com/
+    d e f g h i
+18  . O X . . .
+17  . O X . . .
+16  . O X . X X
+15  . O O O O O
+14  . . . . . .
+
+===== easy/ggg-easy-05.sgf =====
+Black to play. https://gogameguru.com/
+    c d e f g h i
+18  . O X . . O X
+17  . O X . X X X
+16  . O X . O . .
+15  . O O O . O .
+14  . . . . . . .
+
+===== easy/ggg-easy-06.sgf =====
+Black to play. https://gogameguru.com/
+    c d e f g h i
+18  . X X O O . .
+17  . X O . O O O
+16  . X O . O X .
+15  . X X O . X .
+14  . . . X X . .
+13  . . . . . . .
+
+===== easy/ggg-easy-07.sgf =====
+Black to play. https://gogameguru.com/
+    b c d e f g h i
+18  . . . X . X . X
+17  . . O X X X O .
+16  . O . O O . X .
+15  . . . . . O O O
+14  . . . . . . . .
+
+===== easy/ggg-easy-08.sgf =====
+Black to play. https://gogameguru.com/
+    b c d e f g h i
+18  . . . . . . . .
+17  . . O X X . X X
+16  . O . O X . O O
+15  . . . O O O O .
+14  . . . . . . . .
+
+===== easy/ggg-easy-09.sgf =====
+Black to play. https://gogameguru.com/
+    d e f g h i
+18  . O X . . .
+17  . O X . X .
+16  . O X . X .
+15  . O O O O O
+14  . . . . . .
+
+===== easy/ggg-easy-10.sgf =====
+Black to play. https://gogameguru.com/
+    a b c d e f g h i
+18  . . . . . . . X .
+17  . . O X X . X X O
+16  . O . O X . X O .
+15  . . . O O X O O .
+14  . . . . . O . . .
+13  . . . . . . O . .
+12  . . . . . . . . .
+
+===== easy/ggg-easy-100.sgf =====
+Black to play. https://gogameguru.com/
+    0 1 2 3 4 5 6 7 8 9 a b c d e f
+18  . . . X . . X X X . . X X . . .
+17  . . X O X . O O . X X O O X X .
+16  . . X O . O . . O . O . . O X .
+15  . X O O . O . . O . O . . O X .
+14  . . X O X X O O . X X O O . X .
+13  . X . X . . X X X . . X X . . .
+12  . . . . . . . . . . . . . . . .
+
+===== easy/ggg-easy-101.sgf =====
+Black to play. https://gogameguru.com/
+    9 a b c d e f g h i
+18  . . . . . . . . . .
+17  . O . O . . . X . .
+16  . . O X O . . X O .
+15  . . . X . O O X O .
+14  . . . . X X X O . .
+13  . . . . . . . O . .
+12  . . . . . . . . . .
+
+===== easy/ggg-easy-102.sgf =====
+Black to play. https://gogameguru.com/
+    0 1 2 3 4 5 6
+18  . . . . X . .
+17  . . X X O O .
+16  . X O O . . .
+15  . X . . . . .
+14  . O O . O . .
+13  . . . . . . .
+
+===== easy/ggg-easy-103.sgf =====
+Black to play. https://gogameguru.com/
+    9 a b c d e f g h
+18  . X O . . O . . .
+17  . X O . X O X O .
+16  . X O . O X O O .
+15  . X O O O X X X .
+14  . . X X X . . . .
+13  . . . . . . . . .
+
+===== easy/ggg-easy-104.sgf =====
+Black to play. https://gogameguru.com/
+    9 a b c d e f g h i
+18  . . . . . . . X O .
+17  . . . X X X O X O .
+16  . X X O O O . X O .
+15  . . O . . . O O X .
+14  . . . . . . O X X .
+13  . . . . . . . . . .
+12  . . . . . . . X . .
+11  . . . . . . . . . .
+
+===== easy/ggg-easy-105.sgf =====
+Black to play. https://gogameguru.com/
+    c d e f g h i
+18  . X O . . O .
+17  . X O O O X .
+16  . X X . O X X
+15  . . . X X O .
+14  . . . . . O .
+13  . . . . O . .
+12  . . . . . . .
+11  . . . . . . .
+10  . . . . O . .
+ 9  . . . . . . .
+
+===== easy/ggg-easy-106.sgf =====
+
+    c d e f g h i
+18  . . . . X O .
+17  . O . O O X .
+16  . . . O X . .
+15  . O O X X X X
+14  . . X O O O O
+13  . . X X . . .
+12  . . . . X . .
+11  . . . . . . .
+
+===== easy/ggg-easy-107.sgf =====
+
+    a b c d e f g h i
+18  . . . . . . . . .
+17  . . . . . O X X .
+16  . . . X . O X . .
+15  . X . . O X O O .
+14  . . . . . X . . .
+13  . . . . O O O . .
+12  . . . . . . . . .
+
+===== easy/ggg-easy-108.sgf =====
+
+    b c d e f g h i
+18  . . . . . . . .
+17  . O O X X . . .
+16  . O X X O X X .
+15  . O O O O X O .
+14  . . . . . O O .
+13  . . . . . . . .
+
+===== easy/ggg-easy-109.sgf =====
+
+    a b c d e f g h i
+18  . . X . O . O X .
+17  . X O O . X O X .
+16  . X X X O O O X .
+15  . . . . X X X O .
+14  . . . . . . . O .
+13  . . . . . . O . .
+12  . . . . . . . . .
+11  . . . . . . O . .
+10  . . . . . . . . .
+
+===== easy/ggg-easy-11.sgf =====
+Black to play. https://gogameguru.com/
+    c d e f g h i
+18  . . X O . X .
+17  . O X X X . .
+16  . O O O O . .
+15  . . . . . O O
+14  . . . . . . .
+
+===== easy/ggg-easy-110.sgf =====
+Black to play. https://gogameguru.com/
+    b c d e f g h i
+18  . . . . . . . .
+17  . O . O X X X .
+16  . . . O . O X .
+15  . . . . . O X .
+14  . . . O . . O .
+13  . . . . . O . .
+12  . . . . . . . .
+
+===== easy/ggg-easy-111.sgf =====
+Black to play. https://gogameguru.com/
+    d e f g h i
+18  . . . . . .
+17  . O X X . .
+16  . O O X . X
+15  . . . O X .
+14  . . . O O O
+13  . . . . . .
+
+===== easy/ggg-easy-112.sgf =====
+Black to play. https://gogameguru.com/
+    d e f g h i
+18  . . . . . .
+17  . X O O . .
+16  . X X O . O
+15  . . . X O .
+14  . . . X X .
+13  . . . . . .
+
+===== easy/ggg-easy-113.sgf =====
+Black to play. https://gogameguru.com/
+    c d e f g h i
+18  . . . . . . .
+17  . . . X . . .
+16  . . O X O . .
+15  . X O X O . .
+14  . X O O X O .
+13  . . X . X O .
+12  . . . . X O .
+11  . . O . O . .
+10  . . . . . . .
+
+===== easy/ggg-easy-114.sgf =====
+
+    0 1 2 3 4 5 6 7
+18  . . . . . . . .
+17  . . O . . . O .
+16  . . O X X X O .
+15  . X X O O O X .
+14  . X O . . . X .
+13  . . . . . . . .
+
+===== easy/ggg-easy-115.sgf =====
+Black to play. https://gogameguru.com/
+    d e f g h i
+18  . X O . . .
+17  . . X . O .
+16  . X . . O .
+15  . . X O . .
+14  . . X O O O
+13  . . X X X .
+12  . . . . . .
+
+===== easy/ggg-easy-116.sgf =====
+Black to play. https://gogameguru.com/
+    d e f g h i
+18  . . . . . .
+17  . . X X X .
+16  . . X O O O
+15  . . X X X O
+14  . X O O O .
+13  . X X O . .
+12  . X O X . .
+11  . . O O O .
+10  . . . . . .
+
+===== easy/ggg-easy-117.sgf =====
+Black to play. https://gogameguru.com/
+    e f g h i
+18  . . . . .
+17  . O . X .
+16  . O X . .
+15  . O X X .
+14  . O . O .
+13  . . . O .
+12  . . . . .
+
+===== easy/ggg-easy-118.sgf =====
+Black to play. https://gogameguru.com/
+    c d e f g h i
+18  . . . O . . .
+17  . . . . . X .
+16  . O . O X . .
+15  . . . O X X .
+14  . . . O . O .
+13  . . . . . O .
+12  . . . . . . .
+
+===== easy/ggg-easy-119.sgf =====
+Black to play. https://gogameguru.com/
+    a b c d e f g h i
+18  . . . O X X . . .
+17  . . . O O X X . .
+16  . O . X O O X . .
+15  . . . . . O X O .
+14  . . . . . O O X .
+13  . . . . . . X . .
+12  . . . . . . . . .
+
+===== easy/ggg-easy-12.sgf =====
+Black to play. https://gogameguru.com/
+    d e f g h i
+18  . O X . O .
+17  . O X . X .
+16  . O O . X O
+15  . . . . X X
+14  . . O O O O
+13  . . . . . .
+
+===== easy/ggg-easy-120.sgf =====
+Black to play. https://gogameguru.com/
+    a b c d e f g h i
+18  . . . . . . . . .
+17  . . O O X X X O .
+16  . . . X O X O O .
+15  . . . X O O X O .
+14  . . . . O X X . .
+13  . . . . . . X . .
+12  . . . . . . . . .
+11  . O . . . . . . .
+10  . . . . . . . . .
+
+===== easy/ggg-easy-121.sgf =====
+Black to play. https://gogameguru.com/
+    1 2 3 4 5 6 7 8 9
+18  . . . . . . . . .
+17  . . X O . . . . .
+16  . O O X O . . O .
+15  . X X . O . O . .
+14  . . . . . . . . .
+13  . X . . . . . . .
+12  . . . . . . . . .
+11  . . . . . . . . .
+10  . O . O . . . . .
+ 9  . . . . . . . . .
+
+===== easy/ggg-easy-122.sgf =====
+Black to play. https://gogameguru.com/
+    a b c d e f g h i
+18  . . . . . . . O .
+17  . O X . . . O X X
+16  . O X O O O X . .
+15  . O O X X X X . .
+14  . . . . . . . . .
+
+===== easy/ggg-easy-123.sgf =====
+Black to play. https://gogameguru.com/
+    c d e f g h i
+18  . . . . . . .
+17  . X O . O O .
+16  . X O . X X .
+15  . X O O O X .
+14  . . X X X O .
+13  . . . . O O .
+12  . . . . . . .
+
+===== easy/ggg-easy-124.sgf =====
+Black to play. https://gogameguru.com/
+    0 1 2 3 4 5
+18  . . O . . .
+17  . . O X . .
+16  . O X . X .
+15  . O X . . .
+14  . O X . . .
+13  . X . . . .
+12  . . X . . .
+11  . . . . . .
+
+===== easy/ggg-easy-125.sgf =====
+Black to play. https://gogameguru.com/
+    a b c d e f g h i
+18  . . . . . . . . .
+17  . . . . O . . . .
+16  . O . X . . . O .
+15  . . . X O O X O .
+14  . . O O X X X O .
+13  . . . . . . . O .
+12  . . . . . X . . .
+11  . . . . . . O . .
+10  . . . . . . . . .
+
+===== easy/ggg-easy-126.sgf =====
+Black to play. https://gogameguru.com/
+    c d e f g h i
+18  . X . . . . .
+17  . X O . . O O
+16  . X O O O X .
+15  . . X . X X .
+14  . X . . . . .
+13  . . . . X . .
+12  . . . . . . .
+
+===== easy/ggg-easy-127.sgf =====
+Black to play. https://gogameguru.com/
+    0 1 2 3 4 5 6 7 8 9
+18  . . . . . . . . . .
+17  . . X . . . . . . .
+16  . O O X X O . . O .
+15  . . X O O O . . . .
+14  . . . X . . . . . .
+13  . . X . . . . . . .
+12  . . . . . . . . . .
+
+===== easy/ggg-easy-128.sgf =====
+Black to play. https://gogameguru.com/
+    b c d e f g h i
+18  . X O X . . . .
+17  . X O . . . O O
+16  . X O O O O X X
+15  . X X X X X X .
+14  . . . . . . . .
+
+===== easy/ggg-easy-129.sgf =====
+Black to play. https://gogameguru.com/
+    0 1 2 3 4 5 6 7 8
+18  . O X X . . . . .
+17  O . O X O O . . .
+16  . . O X X O . O .
+15  . . O X . X O . .
+14  . X X . . X . . .
+13  . . . . . . . . .
+
+===== easy/ggg-easy-13.sgf =====
+Black to play. https://gogameguru.com/
+    d e f g h i
+18  . O X . . .
+17  . O X X . .
+16  . O O O X X
+15  . . . . O O
+14  . . . . . .
+
+===== easy/ggg-easy-130.sgf =====
+Black to play. https://gogameguru.com/
+    0 1 2 3 4 5 6 7 8
+18  . O X X . . . . .
+17  O . O X O O . . .
+16  . . O X X O . O .
+15  . . . X . X O . .
+14  . . . X . X . . .
+13  . X X . . . . . .
+12  . . . . . . . . .
+
+===== easy/ggg-easy-131.sgf =====
+Black to play. https://gogameguru.com/
+    0 1 2 3 4 5 6 7
+18  . . . O . X X .
+17  . O . . O O X .
+16  . O O O X X X .
+15  . X X X . . . .
+14  . . . . . . . .
+13  . X . . . . . .
+12  . . . . . . . .
+
+===== easy/ggg-easy-132.sgf =====
+Black to play. https://gogameguru.com/
+    0 1 2 3 4 5 6 7
+18  . . . . O . . .
+17  X . O X O X . .
+16  O O O O X . X .
+15  X O X X X . . .
+14  . X . . . . . .
+13  . . X . . . . .
+12  . X . . . . . .
+11  . . . . . . . .
+
+===== easy/ggg-easy-133.sgf =====
+Black to play. https://gogameguru.com/
+    0 1 2 3 4 5 6 7
+18  . . . . . . . .
+17  . . X . . . . .
+16  . X O O . O O .
+15  . X X O . . . .
+14  . O X X O . . .
+13  . O O O O . . .
+12  . . . . . . . .
+
+===== easy/ggg-easy-134.sgf =====
+Black to play. https://gogameguru.com/
+    0 1 2 3 4 5 6 7 8
+18  . X O . . . . . .
+17  O X O . . O X X .
+16  X O O O . O O X .
+15  . X O X O X X X .
+14  . . X X X . . . .
+13  . X . . . . . . .
+12  . . . . . . . . .
+
+===== easy/ggg-easy-135.sgf =====
+Black to play. https://gogameguru.com/
+    1 2 3 4 5 6 7 8 9
+18  . . . . . O . . .
+17  . O X X . . O . .
+16  . O X O O O X X .
+15  . O O X X X . . .
+14  . . . . . . . . .
+
+===== easy/ggg-easy-136.sgf =====
+Black to play. https://gogameguru.com/
+    0 1 2 3 4 5 6
+18  . . . . O . .
+17  O . . O X X .
+16  . O . O O X .
+15  . O X X X X .
+14  . X . . . . .
+13  . . X . . . .
+12  . . . . . . .
+
+===== easy/ggg-easy-137.sgf =====
+Black to play. https://gogameguru.com/
+    a b c d e f g h i
+18  . . . . . . . . .
+17  . . . . . . O . .
+16  . O O X X X O . .
+15  . . X O O O X X .
+14  . . X . . . O X .
+13  . . . . . . O X .
+12  . . . . . . . . .
+11  . . . . . . . . .
+10  . . . . . . O . .
+ 9  . . . . . . . . .
+
+===== easy/ggg-easy-138.sgf =====
+Black to play. https://gogameguru.com/
+    b c d e f g h i
+18  . . . . . . X .
+17  . . . . . . X O
+16  . . O X X X O .
+15  . O . O O O O .
+14  . . . . . . . .
+
+===== easy/ggg-easy-139.sgf =====
+Black to play. https://gogameguru.com/
+    a b c d e f g h i
+18  . . . . . . . . .
+17  . . . . . X X O .
+16  . O . X O X O O .
+15  . . . O O O X X .
+14  . . . . . . . . .
+13  . . . . . . O . .
+12  . . . . . . . . .
+
+===== easy/ggg-easy-14.sgf =====
+Black to play. https://gogameguru.com/
+    c d e f g h i
+18  . O X . . . .
+17  . O X . X O .
+16  . O O O X X .
+15  . . . . X O X
+14  . . . O O O .
+13  . . . . . O .
+12  . . . . . . .
+
+===== easy/ggg-easy-140.sgf =====
+Black to play. https://gogameguru.com/
+    b c d e f g h i
+17  . . . . . . . .
+16  . . X O O . . .
+15  . X . X . O X .
+14  . . . . X X O .
+13  . . . . O O . .
+12  . . . . . . . .
+11  . . . . . O . .
+10  . . . . . . . .
+
+===== easy/ggg-easy-15.sgf =====
+Black to play. https://gogameguru.com/
+    a b c d e f g h i
+18  . X O . O O X . .
+17  . X O O O X O O O
+16  . . X . X X X X .
+15  . X . . . . . . .
+14  . . . . . . . . .
+
+===== easy/ggg-easy-16.sgf =====
+Black to play. https://gogameguru.com/
+    c d e f g h i
+18  . X . . . O .
+17  . X O . O O O
+16  . X . O X X .
+15  . . X X X . .
+14  . . . . . . .
+
+===== easy/ggg-easy-17.sgf =====
+Black to play. https://gogameguru.com/
+    c d e f g h i
+18  . X . . . O .
+17  . X O O . O O
+16  . X X . . O X
+15  . . . X X X X
+14  . . . . . . .
+
+===== easy/ggg-easy-18.sgf =====
+Black to play. https://gogameguru.com/
+    b c d e f g h i
+18  . . O . . . X .
+17  . O X . . . X .
+16  . O O X X . X .
+15  . . . O O O O O
+14  . . . . . . . .
+
+===== easy/ggg-easy-19.sgf =====
+Black to play. https://gogameguru.com/
+    c d e f g h i
+18  . O . . . . .
+17  . O X X O X X
+16  . O O O X . .
+15  . . . O X . O
+14  . . . . O O .
+13  . . . . . . .
+
+===== easy/ggg-easy-20.sgf =====
+Black to play. https://gogameguru.com/
+    d e f g h i
+18  . . . . . .
+17  . O X X . X
+16  . O O X . X
+15  . . . O X O
+14  . . . O O O
+13  . . . . . .
+
+===== easy/ggg-easy-21.sgf =====
+Black to play. https://gogameguru.com/
+    0 1 2 3 4 5 6 7
+18  . . . X . X O .
+17  X X O X X X O .
+16  O O . O O O O .
+15  . O O . . . . .
+14  . . . . . . . .
+
+===== easy/ggg-easy-22.sgf =====
+Black to play. https://gogameguru.com/
+    0 1 2 3 4 5 6 7
+18  . . . X . X . .
+17  X . O X X X O .
+16  . . X O O O O .
+15  . O O . . . . .
+14  . . . . . . . .
+
+===== easy/ggg-easy-23.sgf =====
+Black to play. https://gogameguru.com/
+    9 a b c d e f g h i
+18  . . . . . . X . X .
+17  . O . O X . X X X O
+16  . . . O O . X O O .
+15  . . . . . . O . . .
+14  . . . . O . . O . .
+13  . . . . . . . . . .
+
+===== easy/ggg-easy-24.sgf =====
+Black to play. https://gogameguru.com/
+    9 a b c d e f g h
+18  . . . . . X . . .
+17  . O . . X . X O .
+16  . O . . X . X O .
+15  . . O O O X X O .
+14  . . . . . O O O .
+13  . . . . . . . . .
+
+===== easy/ggg-easy-25.sgf =====
+Black to play. https://gogameguru.com/
+    a b c d e f g h i
+18  . . O O . . X O .
+17  . O X . . X X O .
+16  . O X X O X O . .
+15  . O O X X X O . .
+14  . . . O O O O . .
+13  . . . . . . . . .
+
+===== easy/ggg-easy-26.sgf =====
+Black to play. https://gogameguru.com/
+    0 1 2 3 4 5 6
+18  . . . . O O .
+17  X X . . X O .
+16  O X X X X O .
+15  O O O O O O .
+14  . . . . . . .
+
+===== easy/ggg-easy-27.sgf =====
+Black to play. https://gogameguru.com/
+    0 1 2 3 4 5 6 7 8 9
+18  . X . . . . . . . .
+17  . X O O X O O X O .
+16  . X O X O O X O . .
+15  . O X X X X X O . .
+14  . O . . . . . O . .
+13  . . O . . . . . . .
+12  . . . . . . . . . .
+11  . . O . . . . . . .
+10  . . . . . . . . . .
+
+===== easy/ggg-easy-28.sgf =====
+Black to play. Can you find a way to capture White's two stones? https://gogameguru.com/
+    c d e f g h i
+18  . . . O . . .
+17  . . O . O X .
+16  . X O O X O .
+15  . . . . X O .
+14  . . . . X . .
+13  . . . . . . .
+12  . . . . X . .
+11  . . . . . . .
+
+===== easy/ggg-easy-29.sgf =====
+Black to play. https://gogameguru.com/
+    0 1 2 3 4 5 6 7 8 9 a b
+18  . . . X X O . O . . . .
+17  . X O . O O O O X . X .
+16  . . X O O X X X X . . .
+15  . . X X X O O O . . . .
+14  . . . . O . . . . . . .
+13  . . . . . . O . . . . .
+12  . . X . . . . . . . . .
+11  . . . . . . . . . . . .
+
+===== easy/ggg-easy-30.sgf =====
+Black to play. https://gogameguru.com/
+    0 1 2 3 4 5 6 7
+18  . X . . . . . .
+17  X O O O O O X .
+16  . X X O . O X .
+15  . . . . O . X .
+14  . . X X X X . .
+13  . . . . . . . .
+
+===== easy/ggg-easy-31.sgf =====
+Black to play. https://gogameguru.com/
+    c d e f g h i
+18  . . . . . . .
+17  . O X X X . X
+16  . O O O X O .
+15  . . . . O X O
+14  . . . . O . O
+13  . . . . . O .
+12  . . . . . . .
+
+===== easy/ggg-easy-32.sgf =====
+Black to play. https://gogameguru.com/
+    1 2 3 4 5 6 7 8 9 a
+18  . . . . . . . . . .
+17  . O X X . X X O . .
+16  . O O X . . O . O .
+15  . . . O X X O . . .
+14  . . O . O O O . . .
+13  . . . . . . . . . .
+
+===== easy/ggg-easy-33.sgf =====
+Black to play. https://gogameguru.com/
+    d e f g h i
+18  . . O . . .
+17  . O X O X X
+16  . O X . O .
+15  . O X X X X
+14  . O O O O O
+13  . . . . . .
+
+===== easy/ggg-easy-34.sgf =====
+Black to play. https://gogameguru.com/
+    b c d e f g h i
+18  . . . . . X O .
+17  . X O X . X O .
+16  . X . O X X O .
+15  . . X O O O O .
+14  . . X X X X X .
+13  . . . . . . . .
+12  . . . . . . . .
+11  . . . . . X . .
+10  . . . . . . . .
+
+===== easy/ggg-easy-35.sgf =====
+Black to play. https://gogameguru.com/
+    0 1 2 3 4 5
+18  . . . X O .
+17  X . O X O .
+16  . X X O O .
+15  X X . . . .
+14  . O X . O .
+13  . O O O . .
+12  . . . . . .
+
+===== easy/ggg-easy-36.sgf =====
+Black to play. https://gogameguru.com/
+    0 1 2 3 4 5
+18  . . . O . .
+17  . . O X O .
+16  . X O X O .
+15  X X X X O .
+14  . O O O O .
+13  . . . . . .
+
+===== easy/ggg-easy-37.sgf =====
+Black to play. https://gogameguru.com/
+    8 9 a b c d e f g h i
+18  . X O . O . . . X O .
+17  . X O . O . X X X O .
+16  . X O O O X X O X O .
+15  . X X X X O O O O . .
+14  . . . . . . . . . . .
+
+===== easy/ggg-easy-38.sgf =====
+Black to play. https://gogameguru.com/
+    a b c d e f g h i
+18  . . . X . . . O .
+17  . . O O X . X O .
+16  . . O X . X O . .
+15  . . O X X X O O .
+14  . . . O O O X O .
+13  . O . . . . X X .
+12  . . . . . . . . .
+11  . . . . . . . . .
+10  . . . . . . . . .
+ 9  . . . . . . X . .
+ 8  . . . . . . . . .
+
+===== easy/ggg-easy-39.sgf =====
+Black to play. https://gogameguru.com/
+    1 2 3 4 5 6 7
+18  . . . . O . .
+17  . O X X X O .
+16  . O X O X O .
+15  . O . . X O .
+14  . O . . X O .
+13  . O X . X O .
+12  . O . X X O .
+11  . . O O O . .
+10  . . . . . . .
+
+===== easy/ggg-easy-40.sgf =====
+Black to play. https://gogameguru.com/
+    c d e f g h i
+18  . . . . . . .
+17  . . . . O O .
+16  . . . O X X .
+15  . O . O O X .
+14  . . O X X O .
+13  . . . X . . .
+12  . . O X O X X
+11  . . O O X X O
+10  . . . . O O O
+ 9  . . . . . . .
+
+===== easy/ggg-easy-41.sgf =====
+Black to play. Can you capture White's cutting stone at A? https://gogameguru.com/
+    0 1 2 3 4 5 6 7 8 9 a
+18  . . . . . . . . . . .
+17  . O . O X . . . . . .
+16  . . . O X . . . . . .
+15  . . O X O . . . . . .
+14  . . O X . . . . . . .
+13  . . . X . . . . . . .
+12  . O . . . . . . . . .
+11  . . . . . . . . . . .
+10  . . . . . . . . . . .
+ 9  . . . . . . . . . O .
+ 8  . . . . . . . . . . .
+
+===== easy/ggg-easy-42.sgf =====
+Black to play. https://gogameguru.com/
+    0 1 2 3 4 5 6 7 8
+18  . . . . . . . . .
+17  X O O . X . . . .
+16  . X O . O O . O .
+15  . X O O X . . . .
+14  . X O . . X . . .
+13  . X X O O X . . .
+12  . X O X X . . . .
+11  . . O . . . . . .
+10  . . O X . . . . .
+ 9  . O . O . . . . .
+ 8  . . . . . . . . .
+
+===== easy/ggg-easy-43.sgf =====
+Black to play. https://gogameguru.com/
+    0 1 2 3 4 5
+18  . O . . . .
+17  . O X . X .
+16  . O X . . .
+15  . O X . . .
+14  . O X . . .
+13  . . X . . .
+12  . . X . . .
+11  . X . . . .
+10  . . X . . .
+ 9  . . . . . .
+
+===== easy/ggg-easy-44.sgf =====
+Black to play. https://gogameguru.com/
+    0 1 2 3 4 5 6 7
+18  . . . . . . . .
+17  . O O O O O . .
+16  . O X X X O . .
+15  . X . O X X O .
+14  . X X O O X O .
+13  . O X . . X O .
+12  . O . X X O O .
+11  . . O O O . . .
+10  . . . . . . . .
+
+===== easy/ggg-easy-45.sgf =====
+Black to play. https://gogameguru.com/
+    a b c d e f g h i
+18  . . . . . O O X .
+17  . X . . . O X . X
+16  . X O O O O X X .
+15  . X O . O X O X .
+14  . X O O . X O O .
+13  . X X X X X . . .
+12  . . . . O . O . .
+11  . . . . . . . . .
+10  . . . . O . . . .
+ 9  . . . . . . O . .
+ 8  . . . . . . . . .
+
+===== easy/ggg-easy-46.sgf =====
+Black to play. https://gogameguru.com/
+    0 1 2 3 4 5 6
+18  . . . . . . .
+17  . O . . . . .
+16  . . O O . O .
+15  . . X O . . .
+14  . X . X . O .
+13  . X X X . . .
+12  . X O O O . .
+11  . O . . . . .
+10  . . O . . . .
+ 9  . . . . . . .
+
+===== easy/ggg-easy-47.sgf =====
+Black to play. https://gogameguru.com/
+    c d e f g h i
+18  . X . O . . .
+17  . X O . O . O
+16  . X X O O O X
+15  . . . X X X X
+14  . . . . . . .
+
+===== easy/ggg-easy-48.sgf =====
+Black to play. White A would have been better at B. Why? https://gogameguru.com/
+    0 1 2 3 4 5 6 7
+18  . . . . . . . .
+17  . . . O O X . .
+16  . . . O X . . .
+15  . O . O X . X .
+14  . . . X O . O .
+13  . . . X O . . .
+12  . . . . X . . .
+11  . . . . . . . .
+
+===== easy/ggg-easy-49.sgf =====
+Black to play. How can Black prevent White from capturing at A while also winning the capturing race between B and C? https://gogameguru.com/
+    8 9 a b c d e f g h i
+18  . . . . . . . . . . .
+17  . . . . . O . . X X .
+16  . . . X X O X X O . .
+15  . X . . O X O O O . .
+14  . . . . O X X . . . .
+13  . . . . O . . O . . .
+12  . . . . . . . . . . .
+
+===== easy/ggg-easy-50.sgf =====
+Black to play. https://gogameguru.com/
+    c d e f g h i
+17  . . . . . . .
+16  . . . O O O .
+15  . O O X X X X
+14  . O X . O . .
+13  . . O X O X X
+12  . . O X X X O
+11  . . O O O O .
+10  . . . . . . .
+ 9  . . . . . O .
+ 8  . . . . . . .
+
+===== easy/ggg-easy-51.sgf =====
+Black to play. https://gogameguru.com/
+    0 1 2 3 4
+18  . . . . .
+17  . X X X .
+16  . O O X .
+15  . . . X .
+14  . . O X .
+13  O O O X .
+12  O . O X .
+11  O O O X .
+10  X X X X .
+ 9  . . . . .
+
+===== easy/ggg-easy-52.sgf =====
+Black to play. https://gogameguru.com/
+    0 1 2 3 4 5
+18  . . . . . .
+17  . . O O X .
+16  . . O X X .
+15  . O O X . .
+14  . O X X . .
+13  . X O . O .
+12  . X O . . .
+11  . . X . . .
+10  . . . . . .
+
+===== easy/ggg-easy-53.sgf =====
+Black to play. https://gogameguru.com/
+    0 1 2 3 4 5 6 7 8 9 a b c d e f g h i
+18  . . . . . . . . . . . . . . . . . . .
+17  . . X . . . . . . . . . . . . . . . .
+16  . O O X X . . . O . . . . . . . . . .
+15  . . . O O . X . . . . . . O . O . X .
+14  . . O . . . . . . . . . . . . . . . .
+13  . . . . . . . . . . . . . . . . X . .
+12  . . . . . . . . . . . . . . . . . . .
+11  . . . . . . . . . . . . . . . . . . .
+10  . . X . . . . . . . . . . . . . . . .
+ 9  . . . . . . . . . . . . . . . . . . .
+
+===== easy/ggg-easy-54.sgf =====
+Black to play. https://gogameguru.com/
+    0 1 2 3 4 5 6
+18  . . . . . . .
+17  O O O O . . .
+16  X X X X O O .
+15  . . O X . . .
+14  . . O X . O .
+13  . X X O . . .
+12  . O O O . . .
+11  . . . . . . .
+
+===== easy/ggg-easy-55.sgf =====
+Black to play. https://gogameguru.com/
+    9 a b c d e f g h i
+18  . . . . . O . O X .
+17  . . X . . . O O X .
+16  . O X . O X O X X .
+15  . . X . O O X O . .
+14  . . . . O X X X X .
+13  . . . X X O O O O .
+12  . . . . . . . . . .
+11  . . . . . . . . . .
+10  . . . . . . . . . .
+ 9  . . . . . . . O . .
+ 8  . . . . . . . . . .
+
+===== easy/ggg-easy-56.sgf =====
+Black to play. https://gogameguru.com/
+    b c d e f g h i
+18  . . . . O X . .
+17  . X . X O X X .
+16  . . . X O O O O
+15  . . . X X X . .
+14  . . . . . . X .
+13  . . . . . . . .
+
+===== easy/ggg-easy-57.sgf =====
+Black to play. https://gogameguru.com/
+    0 1 2 3 4 5 6 7 8
+18  . . . . . O . . .
+17  X X X O . O X . .
+16  O O X X O O X . .
+15  O . O O X X . . .
+14  . O . . O X . X .
+13  . . . O . O X . .
+12  . . . . . O X . .
+11  . . . . . O . . .
+10  . . . . . . . . .
+
+===== easy/ggg-easy-58.sgf =====
+Black to play. https://gogameguru.com/
+    b c d e f g h i
+18  . . . . . . . .
+17  . . . X X O O O
+16  . X . . O X X X
+15  . . . . O X . .
+14  . . . . O O X .
+13  . . . . . . O .
+12  . . . . . X X .
+11  . . . . . . . .
+
+===== easy/ggg-easy-59.sgf =====
+Black to play. https://gogameguru.com/
+    c d e f g h
+18  . . . . . .
+17  . O . O . .
+16  . . O X X .
+15  . . O X O .
+14  . . X O O .
+13  . . X O X .
+12  . . . X O .
+11  . . . . X .
+10  . . . . . .
+
+===== easy/ggg-easy-60.sgf =====
+Black to play. https://gogameguru.com/
+    a b c d e f g h i
+18  . . . . . . O O .
+17  . . . . . . O X X
+16  . O . . O O X X .
+15  . . . . . X O X X
+14  . . . . . X O O O
+13  . . . . . X . . .
+12  . . . . . . . X .
+11  . . . . . . . . .
+
+===== easy/ggg-easy-61.sgf =====
+Black to play. https://gogameguru.com/
+    d e f g h i
+18  . . . . . .
+17  . . . X X .
+16  . . X O O O
+15  . . X O . .
+14  . O O X X O
+13  . . . O X .
+12  . . O . O X
+11  . . . . O .
+10  . . . . . .
+
+===== easy/ggg-easy-62.sgf =====
+Black to play. https://gogameguru.com/
+    b c d e f g h i
+18  . . . . . . . .
+17  . . . O . O . .
+16  . O . . O X X X
+15  . . . X X O O .
+14  . . . X O O . .
+13  . . . . X O O .
+12  . . . . X X X .
+11  . . . . . . . .
+
+===== easy/ggg-easy-63.sgf =====
+Black to play. https://gogameguru.com/
+    a b c d e f g h i
+18  . . . . . . . . .
+17  . . . O . O O X X
+16  . O . . O X X O .
+15  . . . . . X O O .
+14  . . . . . X . . .
+13  . . . . . X . . .
+12  . . . . . X O . .
+11  . . . . . X O . .
+10  . . . . . . O . .
+ 9  . . . . . . . . .
+
+===== easy/ggg-easy-64.sgf =====
+Black to play. https://gogameguru.com/
+    a b c d e f g h i
+18  . . . . . . . . .
+17  . . . . . . O O .
+16  . O . . O O X X X
+15  . . . . . X O . .
+14  . . . . . X O . O
+13  . . . . . X O . .
+12  . . . . O O X X .
+11  . . . . . . . . .
+
+===== easy/ggg-easy-65.sgf =====
+Black to play. https://gogameguru.com/
+    d e f g h i
+18  . . . X O .
+17  . X . X O .
+16  . . X . . O
+15  . X O O X O
+14  . . X O . O
+13  . . X O O O
+12  . . X X X X
+11  . . . . . .
+
+===== easy/ggg-easy-66.sgf =====
+Black to play. https://gogameguru.com/
+    d e f g h i
+18  . . . . . .
+17  . X . X X .
+16  . . X O O .
+15  . X O . X O
+14  . X X O O O
+13  . . O X X X
+12  . . O . . .
+11  . . . . O .
+10  . . . . . .
+
+===== easy/ggg-easy-67.sgf =====
+Black to play. https://gogameguru.com/
+    d e f g h i
+18  . . O O . .
+17  . X O X O .
+16  . X O X O .
+15  . X O X X .
+14  . . X O X .
+13  . . . O O .
+12  . . . . . .
+
+===== easy/ggg-easy-68.sgf =====
+Black to play. https://gogameguru.com/
+    c d e f g h i
+18  . . . . . . .
+17  . . O X X O .
+16  . O . O X X .
+15  . . . O X O X
+14  . . . . O O .
+13  . . O . . O .
+12  . . . . . . .
+
+===== easy/ggg-easy-69.sgf =====
+Black to play. https://gogameguru.com/
+    c d e f g h i
+18  . X . O . X .
+17  . X O O O X .
+16  . X X O . O .
+15  . . O X X X X
+14  . . O O O O O
+13  . . . . . . .
+
+===== easy/ggg-easy-70.sgf =====
+Black to play. https://gogameguru.com/
+    0 1 2 3 4 5 6 7 8
+18  . . O . . . . . .
+17  X X . X X O . O .
+16  O X X O X O . . .
+15  . O O O O O . . .
+14  . . . . . . . . .
+13  . O . . . . . . .
+12  . . . . . . . . .
+
+===== easy/ggg-easy-71.sgf =====
+Black to play. https://gogameguru.com/
+    0 1 2 3 4 5
+18  . O . . . .
+17  . X O O . .
+16  . X X O . .
+15  . . . . O .
+14  . X X O . .
+13  X X O . . .
+12  O X O . . .
+11  . O O . . .
+10  . . . . . .
+ 9  . O . . . .
+ 8  . . . . . .
+
+===== easy/ggg-easy-72.sgf =====
+Black to play. https://gogameguru.com/
+    0 1 2 3 4 5 6 7 8 9 a
+18  . O . . . O . . . . .
+17  . X O . X X O O . . .
+16  . X O O O O X . . O .
+15  . X X O X X X . . . .
+14  . . O X O . . . . . .
+13  . . . X . . . . . . .
+12  . . . . . . . . . . .
+
+===== easy/ggg-easy-73.sgf =====
+Black to play. https://gogameguru.com/
+    0 1 2 3 4
+18  . X . . .
+17  X X O O .
+16  . . X O .
+15  . . X O .
+14  . . X O .
+13  O O O . .
+12  . . . . .
+
+===== easy/ggg-easy-74.sgf =====
+Black to play. https://gogameguru.com/
+    0 1 2 3 4 5 6 7 8
+18  . X . . . . X . .
+17  X O X X O O O X .
+16  . O O X O . X X .
+15  . . O O X . . . .
+14  . . . . X . . . .
+13  . . . . . . . . .
+
+===== easy/ggg-easy-75.sgf =====
+Black to play. https://gogameguru.com/
+    d e f g h i
+18  . . . . . .
+17  . . O X . X
+16  . . O X . .
+15  . . O X X O
+14  . . . O O .
+13  . O . . . .
+12  . . . . . .
+
+===== easy/ggg-easy-76.sgf =====
+Black to play. https://gogameguru.com/
+    0 1 2 3 4 5 6 7
+18  . . . . . O . .
+17  . . X X O . O .
+16  . O O O X O . .
+15  . . X X X O . .
+14  . . . . . . . .
+
+===== easy/ggg-easy-77.sgf =====
+Black to play. https://gogameguru.com/
+    0 1 2 3 4 5 6
+18  O . O . . . .
+17  O . O . . . .
+16  . O X X X . .
+15  X O O X . X .
+14  . X X O X . .
+13  . . . O . . .
+12  . . O . . . .
+11  . . . . . . .
+10  . . O . . . .
+ 9  . . . . . . .
+
+===== easy/ggg-easy-78.sgf =====
+Black to play. https://gogameguru.com/
+    8 9 a b c d e f g h i
+18  . . . O O X . . . . .
+17  . . . O X O O O X X .
+16  . O . O X X X X O X .
+15  . . O X . . . . O O .
+14  . . . X . X . . . . .
+13  . . . . . . . . . . .
+12  . . . . . . . . O . .
+11  . . . . . . . . . . .
+
+===== easy/ggg-easy-79.sgf =====
+Black to play. https://gogameguru.com/
+    8 9 a b c d e f g h i
+18  . . X O O O O O O . .
+17  . . X O X O . X X O O
+16  . . X O X O O O O X X
+15  . O O X X X X O X . .
+14  . . . O . . O X . X .
+13  . . . . . . . X . . .
+12  . . . . . . . . . . .
+
+===== easy/ggg-easy-80.sgf =====
+Black to play. https://gogameguru.com/
+    0 1 2 3 4 5 6 7 8 9
+18  . . O . . . . . . .
+17  . O . O X . O . . .
+16  . . O X X . . . O .
+15  . O O X O O . . . .
+14  . X X O O O X O . .
+13  . . X O O X . . . .
+12  . . X O X X X . X .
+11  . O O X X O . . . .
+10  . . X . . . . . . .
+ 9  . . . . . . . . . .
+
+===== easy/ggg-easy-81.sgf =====
+Black to play. How can Black connect his all stones? https://gogameguru.com/
+    7 8 9 a b c d e f g h
+17  . . . . . . . . . . .
+16  . . . . . . O X . . .
+15  . O . . X . . . X . .
+14  . . . . . . O . . . .
+13  . . . . . . . . X . .
+12  . . . . . . . . . X .
+11  . . . . . . . . . . .
+10  . . . . . . . . . O .
+ 9  . . . . . . . . . . .
+
+===== easy/ggg-easy-82.sgf =====
+Black to play. https://gogameguru.com/
+    0 1 2 3 4 5 6 7 8 9 a b c d e f g h
+18  . . . . . . . . . . . . . . . . . .
+17  . X O O O O O X . . . . . . . . . .
+16  . X X . . X X X . . X . O . . . . .
+15  . . . O . . . . . . . . . . . O . .
+14  . . X O . O . . . . O . . . . . . .
+13  . . X X O . . . . . . . . . . . . .
+12  . . . . . . . O . . . . . . . . . .
+11  . . . X O . . . . . . . . . . . . .
+10  . . . X . . . . . . . . . . . . . .
+ 9  . . . . . . . . . . . . . . . . X .
+ 8  . . . . . . . . . . . . . . . . . .
+
+===== easy/ggg-easy-83.sgf =====
+Black to play. https://gogameguru.com/
+    0 1 2 3 4 5 6 7
+18  . . . . . . . .
+17  . X X . . . . .
+16  . O X O O . . .
+15  O . O X . . O .
+14  . . O X . . . .
+13  . X O X . . . .
+12  O O X X X . . .
+11  O X X . O . . .
+10  . O O O . . . .
+ 9  . . . . . . . .
+
+===== easy/ggg-easy-84.sgf =====
+Black to play. https://gogameguru.com/
+    8 9 a b c d e f g h i
+18  . . . . . . . . O O .
+17  . . . . . X X O O X .
+16  . . . X . . O X X . X
+15  . X . . O . O O X X X
+14  . . . . . . . . O O O
+13  . . . . . . . O . . .
+12  . . . . . . . . . . .
+
+===== easy/ggg-easy-85.sgf =====
+Black to play. https://gogameguru.com/
+    c d e f g h i
+18  . . O X X X .
+17  . O . O O X .
+16  . . . O X X .
+15  . O . O X O .
+14  . . . X O . .
+13  . . . X O O O
+12  . . . . X X .
+11  . . . . . . .
+
+===== easy/ggg-easy-86.sgf =====
+Black to play. https://gogameguru.com/
+    a b c d e f g h i
+18  . . . . . O . . .
+17  . . . X O . O O X
+16  . X X O O O X X .
+15  . . . X X X . . .
+14  . . . . . . X . .
+13  . . . . . . . . .
+
+===== easy/ggg-easy-87.sgf =====
+Black to play. https://gogameguru.com/
+    0 1 2 3 4 5 6
+18  . . . . . . .
+17  X X X . . . .
+16  O O O X . . .
+15  . X O X . . .
+14  . O X X . X .
+13  . O O O O X .
+12  O O O . O X .
+11  X O X O O X .
+10  . X X X X . .
+ 9  . . . . . . .
+
+===== easy/ggg-easy-88.sgf =====
+Black to play. https://gogameguru.com/
+    a b c d e f g
+18  . . . . O . .
+17  . O X . O X .
+16  . O X O O X .
+15  . O O X X X .
+14  . . X . . . .
+13  . . . . . . .
+
+===== easy/ggg-easy-89.sgf =====
+Black to play. https://gogameguru.com/
+    b c d e f g h i
+18  . . X . O . O .
+17  . X O O O X O O
+16  . X X O . O X O
+15  . . . X . O X .
+14  . . . . X X X .
+13  . . . . . . . .
+
+===== easy/ggg-easy-90.sgf =====
+Black to play. https://gogameguru.com/
+    b c d e f g h i
+18  . . X O . O . .
+17  . O O X X . X .
+16  . O X O X X X .
+15  . . . O O O O .
+14  . . . . . . . .
+13  . . . . . . . .
+12  . . . . . . . .
+11  . . . . . O . .
+10  . . . . . . . .
+
+===== easy/ggg-easy-91.sgf =====
+Black to play. https://gogameguru.com/
+    e f g h i
+17  . . . . .
+16  . . X . .
+15  . X . . .
+14  . X O O O
+13  . O X X X
+12  . O X . .
+11  . O X O O
+10  . O O X .
+ 9  . . . . .
+
+===== easy/ggg-easy-92.sgf =====
+Black to play. https://gogameguru.com/
+    c d e f g h i
+18  . . . O O . .
+17  . X X O X O .
+16  . X O O X . .
+15  . X O X X X .
+14  . . X O O O .
+13  . . X X O . .
+12  . . . O . . .
+11  . . . . . . .
+
+===== easy/ggg-easy-93.sgf =====
+Black to play. https://gogameguru.com/
+    0 1 2 3 4 5 6 7
+18  . . . . . . . .
+17  . O X X O . . .
+16  . O X O . . X .
+15  . O X O O . . .
+14  . O O X X X . .
+13  . . . . . . . .
+
+===== easy/ggg-easy-94.sgf =====
+Black to play. https://gogameguru.com/
+    0 1 2 3 4 5 6 7 8
+18  . . . . . . . . .
+17  . X . . . O O X .
+16  . X O O O X X X .
+15  . O X X X O . . .
+14  . O . . . O . . .
+13  . . O . O . . . .
+12  . . . . . . . . .
+
+===== easy/ggg-easy-95.sgf =====
+Black to play. https://gogameguru.com/
+    0 1 2 3 4 5
+18  . X O . . .
+17  O X O . O .
+16  . . X O . .
+15  . . X O . .
+14  . X X O . .
+13  O O O O . .
+12  . . . . . .
+
+===== easy/ggg-easy-96.sgf =====
+
+    0 1 2 3 4 5 6 7 8
+18  . . . . . . . . .
+17  . O X X O . . . .
+16  . O X O . O X X .
+15  . O X O . . . . .
+14  . O O X O X . . .
+13  . . . X X . . . .
+12  . . . . . . . . .
+
+===== easy/ggg-easy-97.sgf =====
+Black to play. https://gogameguru.com/
+    0 1 2 3 4 5
+18  . O . . . .
+17  X X O . O .
+16  . O X O . .
+15  X . X O . .
+14  . . X O . .
+13  . X O . . .
+12  . O O . . .
+11  . . . . . .
+
+===== easy/ggg-easy-98.sgf =====
+Black to play. https://gogameguru.com/
+    0 1 2 3 4 5 6 7
+18  . . . X . . . .
+17  . O O O X . . .
+16  . . O X . X . .
+15  . O O X . . . .
+14  . O X O X . . .
+13  . X X O . . . .
+12  . . X . . . . .
+11  . . . . . . . .
+10  . . . O . . O .
+ 9  . . . . . . . .
+
+===== easy/ggg-easy-99.sgf =====
+Black to play. How can Black capture the cutting stones? https://gogameguru.com/
+    0 1 2 3 4 5 6 7 8 9
+18  . . . . . . . . . .
+17  . . . . . . O O . .
+16  . . X X . O X . . .
+15  . O X O O . . . O .
+14  . . O X X X . . . .
+13  . O . . . . . . . .
+12  . . O . . . . . . .
+11  . . . . . . . . . .
+

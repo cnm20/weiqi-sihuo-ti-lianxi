@@ -1,0 +1,107 @@
+[
+ {
+  "file": "easy/ggg-easy-44.sgf",
+  "hint": "alive",
+  "koHint": false,
+  "mainLen": 1,
+  "nodes": 1
+ },
+ {
+  "file": "easy/ggg-easy-53.sgf",
+  "hint": "capture",
+  "koHint": false,
+  "mainLen": 1,
+  "nodes": 1
+ },
+ {
+  "file": "easy/ggg-easy-56.sgf",
+  "hint": "capture",
+  "koHint": false,
+  "mainLen": 1,
+  "nodes": 1
+ },
+ {
+  "file": "easy/ggg-easy-74.sgf",
+  "hint": "cut",
+  "koHint": false,
+  "mainLen": 1,
+  "nodes": 1
+ },
+ {
+  "file": "easy/ggg-easy-17.sgf",
+  "hint": "alive",
+  "koHint": false,
+  "mainLen": 1,
+  "nodes": 3
+ },
+ {
+  "file": "easy/ggg-easy-37.sgf",
+  "hint": "alive",
+  "koHint": true,
+  "mainLen": 2,
+  "nodes": 2
+ },
+ {
+  "file": "easy/ggg-easy-69.sgf",
+  "hint": "capturing",
+  "koHint": false,
+  "mainLen": 2,
+  "nodes": 2
+ },
+ {
+  "file": "easy/ggg-easy-71.sgf",
+  "hint": "capture",
+  "koHint": false,
+  "mainLen": 2,
+  "nodes": 2
+ },
+ {
+  "file": "easy/ggg-easy-91.sgf",
+  "hint": "capturing",
+  "koHint": false,
+  "mainLen": 2,
+  "nodes": 2
+ },
+ {
+  "file": "easy/ggg-easy-95.sgf",
+  "hint": "alive",
+  "koHint": true,
+  "mainLen": 2,
+  "nodes": 2
+ },
+ {
+  "file": "easy/ggg-easy-132.sgf",
+  "hint": "connect",
+  "koHint": false,
+  "mainLen": 3,
+  "nodes": 3
+ },
+ {
+  "file": "easy/ggg-easy-57.sgf",
+  "hint": "capturing",
+  "koHint": false,
+  "mainLen": 3,
+  "nodes": 3
+ },
+ {
+  "file": "easy/ggg-easy-70.sgf",
+  "hint": "lives",
+  "koHint": false,
+  "mainLen": 3,
+  "nodes": 3
+ },
+ {
+  "file": "easy/ggg-easy-99.sgf",
+  "hint": "cut",
+  "koHint": false,
+  "mainLen": 3,
+  "nodes": 3
+ },
+ {
+  "file": "easy/ggg-easy-43.sgf",
+  "hint": "two eyes",
+  "koHint": false,
+  "mainLen": 5,
+  "nodes": 5
+ }
+]

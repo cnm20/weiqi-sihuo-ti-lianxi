@@ -1,0 +1,974 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<head profile="http://gmpg.org/xfn/11"><script src="https://web-static.archive.org/_static/js/athena.js" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app219.us.archive.org';v.server_ms=1918;archive_analytics.send_pageview({});});</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=2N_sDSC0" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=o9P2E1FK" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden","showSwfDownload":true};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+    __wm.init("http://web.archive.org/web");
+  __wm.wombat("http://gogameguru.com/weekly-go-problems-week-9/","20140722200834","http://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1406059714");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=1utQkbB3" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=3PDvdIFv" />
+<!-- End Wayback Rewrite JS Include -->
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<title>Weekly Go problems: Week 9</title><meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+ 
+<meta name="description" content="Here are the weekly Go problems for week 09. Black plays first in all problems and all solutions are labeled 'correct'. Have fun! Easy Go problem Download"/>
+<meta name="keywords" content="Go Problems,"/>
+<script type="text/javascript">
+//<![CDATA[
+try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:1405825020,byc:0,owlid:"cf",bag2:1,mirage2:0,oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/dokv=88e434a982/"},atok:"23f62df535c3d4091c8264ec54011513",petok:"45118f94efa4ac94e909568551a8c6e1a2292b79-1406059715-1800",zone:"gogameguru.com",rocket:"0",apps:{"abetterbrowser":{"ie":"6"}}}];!function(a,b){a=document.createElement("script"),b=document.getElementsByTagName("script")[0],a.async=!0,a.src="//web.archive.org/web/20140722200834/http://ajax.cloudflare.com/cdn-cgi/nexp/dokv=97fb4d042e/cloudflare.min.js",b.parentNode.insertBefore(a,b)}()}}catch(e){};
+//]]>
+</script>
+<link rel="canonical" href="http://web.archive.org/web/20140722200834/http://gogameguru.com/weekly-go-problems-week-9/"/>
+<link rel="publisher" href="https://plus.google.com/111715774215148787136"/>
+<meta property="og:locale" content="en_US"/>
+<meta property="og:type" content="article"/>
+<meta property="og:title" content="Weekly Go problems: Week 9"/>
+<meta property="og:description" content="Here are the weekly Go problems for week 09. Black plays first in all problems and all solutions are labeled 'correct'. Have fun! Easy Go problem Download"/>
+<meta property="og:url" content="http://web.archive.org/web/20140722200834/http://gogameguru.com/weekly-go-problems-week-9/"/>
+<meta property="og:site_name" content="Go Game Guru"/>
+<meta property="article:publisher" content="https://www.facebook.com/gogameguru"/>
+<meta property="article:author" content="http://www.facebook.com/profile.php?id=100001651251686"/>
+<meta property="article:section" content="Go Problems"/>
+<meta property="article:published_time" content="2011-10-27T21:00:00+00:00"/>
+<meta property="article:modified_time" content="2012-03-08T15:22:26+00:00"/>
+<meta property="og:updated_time" content="2012-03-08T15:22:26+00:00"/>
+<meta property="fb:admins" content="100001651251686"/>
+<meta property="og:image" content="http://web.archive.org/web/20140722200834im_/http://gogameguru.com/i/2011/08/go-problems-09-t.png"/>
+<meta property="og:image" content="http://web.archive.org/web/20140722200834im_/http://gogameguru.com/i/go-problems/ggg-easy-09.png"/>
+<meta property="og:image" content="http://web.archive.org/web/20140722200834im_/http://gogameguru.com/i/go-problems/ggg-intermediate-09.png"/>
+<meta property="og:image" content="http://web.archive.org/web/20140722200834im_/http://gogameguru.com/i/go-problems/go-problems-09.png"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:site" content="@gogameguru"/>
+<meta name="twitter:domain" content="Go Game Guru"/>
+<meta name="twitter:creator" content="@http://twitter.com/gogameguru/"/>
+ 
+<link rel="alternate" type="application/rss+xml" title="Go Game Guru » Feed" href="http://web.archive.org/web/20140722200834/http://feeds.feedburner.com/gogameguru"/>
+<link rel="alternate" type="application/rss+xml" title="Go Game Guru » Comments Feed" href="http://web.archive.org/web/20140722200834/http://feeds.feedburner.com/gogameguru-comments"/>
+<link rel="alternate" type="application/rss+xml" title="Go Game Guru » Weekly Go problems: Week 9 Comments Feed" href="http://web.archive.org/web/20140722200834/http://gogameguru.com/weekly-go-problems-week-9/feed/"/>
+<link rel="stylesheet" id="yarppWidgetCss-css" href="http://web.archive.org/web/20140722200834cs_/http://gogameguru.com/wp-content/plugins/yet-another-related-posts-plugin/style/widget.css?03e48f" type="text/css" media="all"/>
+<link rel="stylesheet" id="generate-theme-css" href="http://web.archive.org/web/20140722200834cs_/http://gogameguru.com/wp-content/themes/generate/style.css?03e48f" type="text/css" media="all"/>
+<link rel="stylesheet" id="sidebar-login-css" href="http://web.archive.org/web/20140722200834cs_/http://gogameguru.com/wp-content/plugins/sidebar-login/assets/css/sidebar-login.css?03e48f" type="text/css" media="all"/>
+<link rel="stylesheet" id="really_simple_share_style-css" href="http://web.archive.org/web/20140722200834cs_/http://gogameguru.com/wp-content/plugins/really-simple-facebook-twitter-share-buttons/style.css?03e48f" type="text/css" media="all"/>
+<script type="text/javascript" src="//web.archive.org/web/20140722200834js_/http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js?03e48f"></script>
+<script type="text/javascript" src="http://web.archive.org/web/20140722200834js_/http://gogameguru.com/wp-content/plugins/glift-go-game/js/glift.js?03e48f"></script>
+<script type="text/javascript" src="http://web.archive.org/web/20140722200834js_/http://p.jwpcdn.com/6/8/jwplayer.js?ver=3.9.1"></script>
+<script type="text/javascript" src="http://web.archive.org/web/20140722200834js_/http://gogameguru.com/wp-content/plugins/sidebar-login/assets/js/blockui.min.js?03e48f"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var sidebar_login_params = {"ajax_url":"http:\/\/web.archive.org\/web\/20140722200834\/http:\/\/gogameguru.com\/wp-admin\/admin-ajax.php","force_ssl_login":"1","force_ssl_admin":"0","is_ssl":"0","i18n_username_required":"Please enter your username","i18n_password_required":"Please enter your password","error_class":"sidebar_login_error"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://web.archive.org/web/20140722200834js_/http://gogameguru.com/wp-content/plugins/sidebar-login/assets/js/sidebar-login.min.js?03e48f"></script>
+<meta name="generator" content="WordPress 3.9.1"/>
+ 
+<script type="text/javascript">
+<!--
+function bb2_addLoadEvent(func) {
+	var oldonload = window.onload;
+	if (typeof window.onload != 'function') {
+		window.onload = func;
+	} else {
+		window.onload = function() {
+			oldonload();
+			func();
+		}
+	}
+}
+
+bb2_addLoadEvent(function() {
+	for ( i=0; i < document.forms.length; i++ ) {
+		if (document.forms[i].method == 'post') {
+			var myElement = document.createElement('input');
+			myElement.setAttribute('type', 'hidden');
+			myElement.name = 'bb2_screener_';
+			myElement.value = '1406059715 207.241.237.227 207.241.237.227, 199.27.133.228';
+			document.forms[i].appendChild(myElement);
+		}
+	}
+});
+// --></script>
+<link rel="stylesheet" media="all" type="text/css" href="http://web.archive.org/web/20140722200834cs_/http://gogameguru.com/wp-content/plugins/eidogo-for-wordpress/eidogo/player/css/player.css?03e48f"/>
+<link rel="stylesheet" media="all" type="text/css" href="http://web.archive.org/web/20140722200834cs_/http://gogameguru.com/wp-content/plugins/eidogo-for-wordpress/wp-eidogo.css?03e48f"/>
+<script type="text/javascript"><!--
+			var broken_browser = false;
+		--></script>
+<!--[if lt IE 7]>
+		<script type="text/javascript">
+			broken_browser = "<p class=\"ie6warning\"><strong>Your web browser can't display the interactive Go board, because it's too old.\n\t\t\tPlease consider <a href=\"http:\/\/abetterbrowser.org\/\" target=\"_blank\">upgrading to a newer browser<\/a>.<\/strong>\n\t\t\t<\/p>";
+		</script>
+		<![endif]-->
+<script type="text/javascript" src="http://web.archive.org/web/20140722200834js_/http://gogameguru.com/wp-content/plugins/eidogo-for-wordpress/eidogo/player/js/all.compressed.js?03e48f"></script><script type="text/javascript">jwplayer.key='9trmXbW8Qn9pVlzOGLjSiv3qiRmL0V0Sc8WwGYA6YQY=';jwplayer.defaults = { "ph": 2 };</script><link rel="Shortcut Icon" href="http://web.archive.org/web/20140722200834im_/http://gogameguru.com/favicon.ico" type="image/x-icon"/>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-17997888-1']);
+  _gaq.push(['_setDomainName', 'gogameguru.com']);
+  _gaq.push(['_addIgnoredRef', 'gogameguru.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script> <style type="text/css">.recentcomments a{display:inline!important;padding:0!important;margin:0!important;}</style>
+</head>
+<body class="single single-post postid-3485 single-format-standard header-image content-sidebar generate-blue generate-blue"><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script>__wm.rw(0);</script>
+<div id="wm-ipp-base" lang="en" style="display:none;direction:ltr;" toolbar-mode="auto">
+<div id="wm-ipp" style="position:fixed;left:0;top:0;right:0;">
+<div id="donato" style="position:relative;width:100%;height:0;">
+  <div id="donato-base">
+    <iframe id="donato-if" src="https://archive.org/includes/donate.php?as_page=1&amp;platform=wb&amp;referer=http%3A//web.archive.org/web/20140722200834/http%3A//gogameguru.com/weekly-go-problems-week-9/"
+	    scrolling="no" frameborder="0" style="width:100%; height:100%">
+    </iframe>
+  </div>
+</div><div id="wm-ipp-inside">
+  <div id="wm-toolbar" style="position:relative;display:flex;flex-flow:row nowrap;justify-content:space-between;" nav="async">
+    <div id="wm-logo" style="/*width:110px;*/padding-top:12px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-200.png" srcset="https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png, https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-150.png 1.5x, https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-200.png 2x" alt="Wayback Machine" style="width:100px" border="0" /></a>
+    </div>
+    <div class="c" style="display:flex;flex-flow:column nowrap;justify-content:space-between;flex:1;">
+      <form class="u" style="display:flex;flex-direction:row;flex-wrap:nowrap;" target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="http://gogameguru.com/weekly-go-problems-week-9/" onfocus="this.focus();this.select();" style="flex:1;"/><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20140722200834" /><input type="submit" value="Go" />
+      </form>
+      <div style="display:flex;flex-flow:row nowrap;align-items:flex-end;">
+                <div class="s" id="wm-nav-captures" style="flex:1;">
+                    <a class="t" href="/web/20140722200834*/http://gogameguru.com/weekly-go-problems-week-9/" title="See a list of every capture for this URL">17 captures</a>
+          <div class="r" title="Timespan for captures of this URL">29 Oct 2011 - 31 May 2023</div>
+          </div>
+        <div class="k">
+          <a href="" id="wm-graph-anchor">
+            <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+              <canvas id="wm-sparkline-canvas" width="775" height="27" border="0"></canvas>
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class="n">
+      <table>
+        <tbody>
+          <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+          <tr class="m">
+            <td class="b" nowrap="nowrap">Jun</td>
+            <td class="c" id="displayMonthEl" title="You are here: 20:08:34 Jul 22, 2014">JUL</td>
+            <td class="f" nowrap="nowrap">Aug</td>
+          </tr>
+          <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+          <tr class="d">
+            <td class="b" nowrap="nowrap"><span class="ta"></span></td>
+            <td class="c" id="displayDayEl" style="width:34px;font-size:22px;white-space:nowrap;" title="You are here: 20:08:34 Jul 22, 2014">22</td>
+            <td class="f" nowrap="nowrap"><span class="ta"></span></td>
+          </tr>
+          <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+          <tr class="y">
+            <td class="b" nowrap="nowrap">2013</td>
+            <td class="c" id="displayYearEl" title="You are here: 20:08:34 Jul 22, 2014">2014</td>
+            <td class="f" nowrap="nowrap">2015</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="r" style="display:flex;flex-flow:column nowrap;align-items:flex-end;justify-content:space-between;">
+      <div id="wm-btns" style="text-align:right;height:23px;">
+                <span class="xxs">
+          <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a id="wm-save-snapshot-open" href="#" title="Share via My Web Archive" >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php" title="Sign In" id="wm-sign-in">
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        </span>
+                <a class="xxs" href="https://help.archive.org/help/category/the-wayback-machine/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+        <a id="wm-tb-close" href="#close" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" class="xxs">
+        <a href="/web/20140722200834/http://web.archive.org/screenshot/http://gogameguru.com/weekly-go-problems-week-9/"
+           id="wm-screenshot"
+           title="screenshot">
+          <span class="wm-icon-screen-shot"></span>
+        </a>
+        <a href="#" id="wm-video" title="video">
+          <span class="iconochive-movies"></span>
+        </a>
+        <a id="wm-share-facebook" href="#" data-url="http://web.archive.org/web/20140722200834/http://gogameguru.com/weekly-go-problems-week-9/" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+        <a id="wm-share-twitter" href="#" data-url="http://web.archive.org/web/20140722200834/http://gogameguru.com/weekly-go-problems-week-9/" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+      <div style="padding-right:2px;text-align:right;white-space:nowrap;">
+        <a id="wm-expand" class="wm-btn wm-closed" href="#expand"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span class="xxs" style="font-size:80%;">About this capture</span></a>
+      </div>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+        <div id="wm-capinfo-notice" source="api"></div>
+                <div id="wm-capinfo-collected-by">
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center;padding:2px 0;">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/webwidecrawl);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/webwidecrawl" target="_new"><span class="wm-title">Internet Archive</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  The Internet Archive discovers and captures web pages through many different web crawls.
+
+At any given time several distinct crawls are running, some for months, and some every day or longer.
+
+View the web archive through the <a href="http://archive.org/web/web.php">Wayback Machine</a>.
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/wide00011)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/wide00011" target="_new"><span class="wm-title">Wide Crawl started June 2014</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  Web wide crawl with initial seedlist and crawler configuration from June 2014.
+	</div>
+	      </div>
+    </div>
+    </div>
+    <div id="wm-capinfo-timestamps">
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center;padding:2px 0;" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="https://web-static.archive.org/_static/images/loading.gif" alt="loading" /></div>
+    </div>
+    </div>
+  </div></div></div></div><div id="wm-ipp-print">The Wayback Machine - http://web.archive.org/web/20140722200834/http://gogameguru.com/weekly-go-problems-week-9/</div>
+<script type="text/javascript">//<![CDATA[
+__wm.bt(775,27,25,2,"web","http://gogameguru.com/weekly-go-problems-week-9/","20140722200834",1996,"https://web-static.archive.org/_static/",["https://web-static.archive.org/_static/css/banner-styles.css?v=1utQkbB3","https://web-static.archive.org/_static/css/iconochive.css?v=3PDvdIFv"], false);
+  __wm.rw(1);
+//]]></script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+ <script type="text/javascript">//<![CDATA[try{(function(a){var b="http://",c="gogameguru.com",d="/cdn-cgi/cl/",e="img.gif",f=new a;f.src=[b,c,d,e].join("")})(Image)}catch(e){}//]]></script><div id="wrap"><div id="header"><div class="wrap"><div id="title-area"><p id="title"><a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/">Go Game Guru</a></p><p id="description">Learn all about the board game Go</p></div><div class="widget-area header-widget-area"><div id="search-2" class="widget widget_search"><div class="widget-wrap"><form method="get" class="searchform search-form" action="http://web.archive.org/web/20140722200834/http://gogameguru.com/" role="search"><input type="text" value="Search this website…" name="s" class="s search-input" onfocus="if ('Search this website…' === this.value) {this.value = '';}" onblur="if ('' === this.value) {this.value = 'Search this website…';}"/><input type="submit" class="searchsubmit search-submit" value="Search"/></form></div></div>
+</div></div></div><div id="nav"><div class="wrap"><ul id="menu-nav" class="menu genesis-nav-menu menu-primary"><li id="menu-item-5858" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-5858"><a title="Go Game Guru" href="http://web.archive.org/web/20140722200834/http://gogameguru.com/">Home</a></li>
+<li id="menu-item-5859" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5859"><a title="The World’s Speciality Go Store" href="http://web.archive.org/web/20140722200834/http://shop.gogameguru.com/">Go Game Shop</a></li>
+<li id="menu-item-7346" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7346"><a title="Login to watch Baduk TV" href="http://web.archive.org/web/20140722200834/https://gogameguru.com/member-access/">Watch Baduk TV</a></li>
+<li id="menu-item-15575" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15575"><a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/discuss/">Discussions</a></li>
+<li id="menu-item-13191" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13191"><a title="Get help navigating Go Game Guru" href="http://web.archive.org/web/20140722200834/http://gogameguru.com/navigation/">Site Navigation</a></li>
+</ul></div></div><div id="subnav"><div class="wrap"><ul id="menu-subnav" class="menu genesis-nav-menu menu-secondary"><li id="menu-item-5862" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5862"><a title="Learn Go" href="http://web.archive.org/web/20140722200834/http://gogameguru.com/learn-go/">Learn Go</a>
+<ul class="sub-menu">
+<li id="menu-item-5863" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5863"><a title="What is Go" href="http://web.archive.org/web/20140722200834/http://gogameguru.com/what-is-go/">What is Go?</a></li>
+<li id="menu-item-15639" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15639"><a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/learn-go-week/">Learn Go Week</a></li>
+</ul>
+</li>
+<li id="menu-item-7089" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7089"><a title="Get Better At Go" href="http://web.archive.org/web/20140722200834/http://gogameguru.com/get-better-at-go/">Get Better At Go</a>
+<ul class="sub-menu">
+<li id="menu-item-7090" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7090"><a title="Commented Go Games" href="http://web.archive.org/web/20140722200834/http://gogameguru.com/get-better-at-go/commented-go-games/">Commented Go Games</a></li>
+<li id="menu-item-7091" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7091"><a title="Go Principles" href="http://web.archive.org/web/20140722200834/http://gogameguru.com/get-better-at-go/principles/">Go Principles</a></li>
+<li id="menu-item-7092" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7092"><a title="Go Problems" href="http://web.archive.org/web/20140722200834/http://gogameguru.com/get-better-at-go/go-problems/">Go Problems</a></li>
+<li id="menu-item-7093" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7093"><a title="Go Strategy" href="http://web.archive.org/web/20140722200834/http://gogameguru.com/get-better-at-go/strategy/">Go Strategy</a></li>
+<li id="menu-item-7094" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7094"><a title="Go Technique" href="http://web.archive.org/web/20140722200834/http://gogameguru.com/get-better-at-go/technique/">Go Technique</a></li>
+</ul>
+</li>
+<li id="menu-item-7088" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7088"><a title="News about the game of Go" href="http://web.archive.org/web/20140722200834/http://gogameguru.com/go-news/">Go News</a>
+<ul class="sub-menu">
+<li id="menu-item-7087" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7087"><a title="Amateur Go News" href="http://web.archive.org/web/20140722200834/http://gogameguru.com/go-news/amateur-go/">Amateur Go News</a></li>
+<li id="menu-item-7086" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7086"><a title="Professional Go News" href="http://web.archive.org/web/20140722200834/http://gogameguru.com/go-news/professional-go/">Pro Go News</a></li>
+<li id="menu-item-7085" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7085"><a title="Interviews with Go players" href="http://web.archive.org/web/20140722200834/http://gogameguru.com/go-interviews/">Interviews</a></li>
+<li id="menu-item-7084" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7084"><a title="Professional Go Players" href="http://web.archive.org/web/20140722200834/http://gogameguru.com/professional-go-players/">Pro Go Players</a></li>
+<li id="menu-item-7083" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7083"><a title="General Go Game Guru News" href="http://web.archive.org/web/20140722200834/http://gogameguru.com/general-news/">General News</a></li>
+</ul>
+</li>
+<li id="menu-item-5864" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5864"><a title="Resources for the game of Go" href="http://web.archive.org/web/20140722200834/http://gogameguru.com/resources-game-go/">Resources</a>
+<ul class="sub-menu">
+<li id="menu-item-7082" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7082"><a title="A downloadable 9×9 board (with stones)" href="http://web.archive.org/web/20140722200834/http://gogameguru.com/instant-go-set/">A Printable Go Set</a></li>
+<li id="menu-item-7081" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7081"><a title="Newsletter about the game of Go" href="http://web.archive.org/web/20140722200834/http://gogameguru.com/newsletter/">Free Go Newsletter</a></li>
+<li id="menu-item-6126" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6126"><a title="How to Get Better at Go" href="http://web.archive.org/web/20140722200834/http://gogameguru.com/how-to-get-better-at-go/">How to Get Better at Go</a></li>
+<li id="menu-item-7080" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7080"><a title="Learn Go The Easy Way" href="http://web.archive.org/web/20140722200834/http://gogameguru.com/learn-go-the-easy-way/">Learn Go The Easy Way</a></li>
+<li id="menu-item-7079" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7079"><a title="Professional Go Calendar" href="http://web.archive.org/web/20140722200834/http://gogameguru.com/pro-go-calendar/">Pro Go Calendar</a></li>
+<li id="menu-item-7078" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7078"><a title="Go Books" href="http://web.archive.org/web/20140722200834/http://gogameguru.com/go-books/">Recommended Go Books</a></li>
+<li id="menu-item-15705" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15705"><a title="Use the Go Lightweight Frontend on your website" href="http://web.archive.org/web/20140722200834/http://gogameguru.com/glift/">Glift JavaScript Go Client</a></li>
+<li id="menu-item-7077" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7077"><a title="Links" href="http://web.archive.org/web/20140722200834/http://gogameguru.com/links/">Websites About Go</a></li>
+</ul>
+</li>
+<li id="menu-item-10651" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10651"><a title="Go Game Shop – The World’s Specialty Go Game Store" href="http://web.archive.org/web/20140722200834/http://shop.gogameguru.com/">Shop</a>
+<ul class="sub-menu">
+<li id="menu-item-10652" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10652"><a title="Buy a Go Board" href="http://web.archive.org/web/20140722200834/http://shop.gogameguru.com/go-boards/">Go Boards</a></li>
+<li id="menu-item-10653" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10653"><a title="Buy Go Stones" href="http://web.archive.org/web/20140722200834/http://shop.gogameguru.com/go-stones/">Go Stones</a></li>
+<li id="menu-item-10654" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10654"><a title="Buy Go Bowls" href="http://web.archive.org/web/20140722200834/http://shop.gogameguru.com/go-bowls/">Go Bowls</a></li>
+<li id="menu-item-10655" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10655"><a title="Buy a Go Game" href="http://web.archive.org/web/20140722200834/http://shop.gogameguru.com/go-game-sets/">Go Game Sets</a></li>
+<li id="menu-item-10656" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10656"><a title="Buy Go Books" href="http://web.archive.org/web/20140722200834/http://shop.gogameguru.com/go-books/">Go Books</a></li>
+<li id="menu-item-7354" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7354"><a title="Baduk TV" href="http://web.archive.org/web/20140722200834/http://gogameguru.com/baduk-tv/">Baduk TV</a></li>
+<li id="menu-item-11113" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11113"><a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/go-game-shop-faq/">Go Game Shop FAQ</a></li>
+<li id="menu-item-11813" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11813"><a title="Go Game Guru Customer Reviews" href="http://web.archive.org/web/20140722200834/http://gogameguru.com/customer-reviews/">Customer Reviews</a></li>
+</ul>
+</li>
+<li id="menu-item-7348" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7348"><a title="Baduk TV" href="http://web.archive.org/web/20140722200834/http://gogameguru.com/baduk-tv/">Baduk TV</a>
+<ul class="sub-menu">
+<li id="menu-item-9545" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9545"><a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/get-baduk-tv/">Get Baduk TV</a></li>
+<li id="menu-item-9448" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9448"><a title="Baduk TV with English Subtitles" href="http://web.archive.org/web/20140722200834/http://gogameguru.com/baduk-tv-library/baduk-tv-english/">Baduk TV English</a></li>
+<li id="menu-item-7350" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7350"><a title="Baduk TV Video On Demand" href="http://web.archive.org/web/20140722200834/http://gogameguru.com/baduk-tv-library/baduk-tv-on-demand/">Baduk TV On Demand</a></li>
+<li id="menu-item-7351" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7351"><a title="Live Baduk TV Streaming" href="http://web.archive.org/web/20140722200834/http://gogameguru.com/baduk-tv-live/">Baduk TV Live</a></li>
+<li id="menu-item-8600" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8600"><a title="Live Baduk TV for iPhone, iPad and Android" href="http://web.archive.org/web/20140722200834/http://gogameguru.com/baduk-tv-mobile/">Baduk TV Mobile</a></li>
+<li id="menu-item-7699" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7699"><a title="Weekly TV Guide for Baduk TV" href="http://web.archive.org/web/20140722200834/http://gogameguru.com/baduk-tv-guide/">Baduk TV Guide</a></li>
+<li id="menu-item-9580" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9580"><a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/troubleshooting-baduk-tv/">Troubleshooting</a></li>
+<li id="menu-item-7349" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7349"><a title="Manage Your Account" href="http://web.archive.org/web/20140722200834/https://gogameguru.com/member-account/">Your Account</a></li>
+</ul>
+</li>
+<li id="menu-item-7347" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7347"><a title="About Go Game Guru" href="http://web.archive.org/web/20140722200834/http://gogameguru.com/about/">About</a>
+<ul class="sub-menu">
+<li id="menu-item-5866" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5866"><a title="Contact Go Game Guru" href="http://web.archive.org/web/20140722200834/http://gogameguru.com/contact/">Contact Us</a></li>
+</ul>
+</li>
+</ul></div></div><div id="inner"><div class="wrap"><div id="content-sidebar-wrap"><div id="content" class="hfeed"><div class="breadcrumb"><a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/">Home</a> &raquo; <a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/get-better-at-go/">Get Better at Go</a> &raquo; <a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/get-better-at-go/go-problems/">Go Problems</a> &raquo; Weekly Go problems: Week 9</div><div class="post-3485 post type-post status-publish format-standard has-post-thumbnail hentry category-go-problems entry"><h1 class="entry-title">Weekly Go problems: Week 9</h1>
+<div class="post-info"><span class="author vcard"><span class="fn"><a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/author/david-ormerod/" rel="author">David Ormerod</a></span></span> <span class="post-comments"><a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/weekly-go-problems-week-9/#comments">31 Comments</a></span></div><div class="entry-content"><div style="min-height:33px;" class="really_simple_share really_simple_share_button robots-nocontent snap_nopreview"><div class="really_simple_share_facebook_like" style="width:85px;"><iframe src="//web.archive.org/web/20140722200834if_/http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fgogameguru.com%2Fweekly-go-problems-week-9%2F&amp;layout=button_count&amp;width=85&amp;height=27&amp;locale=en_US&amp;appId=258822027502369" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:85px; height:27px;" allowtransparency="true"></iframe></div><div class="really_simple_share_twitter" style="width:80px;"><a href="http://web.archive.org/web/20140722200834/https://twitter.com/share" target="_blank" class="twitter-share-button" data-count="horizontal" data-text="Weekly Go problems: Week 9 #baduk #igo #weiqi" data-url="http://web.archive.org/web/20140722200834/http://gogameguru.com/weekly-go-problems-week-9/" data-via="gogameguru" data-related="gogameguru"></a></div><div class="really_simple_share_google1" style="width:75px;"><div class="g-plusone" data-size="medium" data-href="http://gogameguru.com/weekly-go-problems-week-9/"></div></div></div>
+<div class="really_simple_share_clearfix"></div><p>Here are the weekly <a title="Solving Go problems is a great way to get better at Go because it helps to build your ‘Go muscles’. It’s fun too! Have a look at these Go problems.
+" href="http://web.archive.org/web/20140722200834/http://gogameguru.com/get-better-at-go/go-problems/">Go problems</a> for week 09.</p>
+<p>Black plays first in all problems and all solutions are labeled &#8216;correct&#8217;. Have fun!</p>
+<h3 style="text-align: center;">Easy Go problem</h3>
+<div class="wp-eidogo wp-eidogo-problem aligncenter">
+<div class="player-container" id="player-container-0"></div>
+<script type="text/javascript"><!--
+				if (broken_browser) {
+					document.getElementById('player-container-0').innerHTML = broken_browser;
+				} else {
+					var wpeidogo_player0 = new eidogo.Player({"theme":"problem","enableShortcuts":false,"problemMode":true,"markVariations":false,"markNext":false,"shrinkToFit":true,"problemColor":"B","container":"player-container-0","sgfUrl":"http:\/\/web.archive.org\/web\/20140722200834\/http:\/\/gogameguru.com\/i\/go-problems\/ggg-easy-09.sgf"});
+				}
+			--></script>
+</div>
+<p><a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/i/go-problems/ggg-easy-09.png"><img class="aligncenter size-full" title="ggg easy 09" src="http://web.archive.org/web/20140722200834im_/http://gogameguru.com/i/go-problems/ggg-easy-09.png" alt="ggg easy 09 picture"/></a></p>
+<div style="text-align: center;">Download the solutions to the easy problem as an <a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/i/go-problems/ggg-easy-09.sgf">SGF</a> or <a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/i/go-problems/solutions/ggg-easy-09.pdf">PDF</a> file.</div>
+<p>&nbsp;</p>
+<h3 style="text-align: center;">Intermediate Go problem</h3>
+<div class="wp-eidogo wp-eidogo-problem aligncenter">
+<div class="player-container" id="player-container-1"></div>
+<script type="text/javascript"><!--
+				if (broken_browser) {
+					document.getElementById('player-container-1').innerHTML = broken_browser;
+				} else {
+					var wpeidogo_player1 = new eidogo.Player({"theme":"problem","enableShortcuts":false,"problemMode":true,"markVariations":false,"markNext":false,"shrinkToFit":true,"problemColor":"B","container":"player-container-1","sgfUrl":"http:\/\/web.archive.org\/web\/20140722200834\/http:\/\/gogameguru.com\/i\/go-problems\/ggg-intermediate-09.sgf"});
+				}
+			--></script>
+</div>
+<p><a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/i/go-problems/ggg-intermediate-09.png"><img class="aligncenter size-full" title="ggg intermediate 09" src="http://web.archive.org/web/20140722200834im_/http://gogameguru.com/i/go-problems/ggg-intermediate-09.png" alt="ggg intermediate 09 picture"/></a></p>
+<div style="text-align: center;">Download the solutions to the intermediate problem as an <a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/i/go-problems/ggg-intermediate-09.sgf">SGF</a> or <a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/i/go-problems/solutions/ggg-intermediate-09.pdf">PDF</a> file.</div>
+<p>&nbsp;</p>
+<h3 style="text-align: center;">Hard Go problem</h3>
+<div class="wp-eidogo wp-eidogo-problem aligncenter">
+<div class="player-container" id="player-container-2"></div>
+<script type="text/javascript"><!--
+				if (broken_browser) {
+					document.getElementById('player-container-2').innerHTML = broken_browser;
+				} else {
+					var wpeidogo_player2 = new eidogo.Player({"theme":"problem","enableShortcuts":false,"problemMode":true,"markVariations":false,"markNext":false,"shrinkToFit":true,"problemColor":"B","container":"player-container-2","sgfUrl":"http:\/\/web.archive.org\/web\/20140722200834\/http:\/\/gogameguru.com\/i\/go-problems\/ggg-hard-09.sgf"});
+				}
+			--></script>
+</div>
+<p><a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/i/go-problems/go-problems-09.png"><img class="aligncenter size-full" title="go problems 09" src="http://web.archive.org/web/20140722200834im_/http://gogameguru.com/i/go-problems/go-problems-09.png" alt="go problems 09 picture"/></a></p>
+<div style="text-align: center;">Download the solutions to the hard problem as an <a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/i/go-problems/ggg-hard-09.sgf">SGF</a> or <a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/i/go-problems/solutions/ggg-hard-09.pdf">PDF</a> file.</div>
+<p>&nbsp;</p>
+<h3>Still want more Go problems?</h3>
+<p>You can find <a href="http://web.archive.org/web/20140722200834/http://shop.gogameguru.com/go-books/" title="Go Books">Go books</a> packed full of <a href="http://web.archive.org/web/20140722200834/http://shop.gogameguru.com/go-books/go-problems/life-and-death-problems/" title="Life and Death Problems (Tsumego)">life and death problems</a>, <a href="http://web.archive.org/web/20140722200834/http://shop.gogameguru.com/go-books/go-problems/tesuji-books/" title="Tesuji Problems (Go Tactics)">tesuji problems</a> and other valuable Go knowledge at the <a href="http://web.archive.org/web/20140722200834/http://shop.gogameguru.com/" title="Go Game Shop">Go Game Shop.</a></p>
+<h3>Discuss other possible moves</h3>
+<p>If you have any questions or want to discuss any of these problems, please leave a comment below at any time. You can use the coordinates on the problem images to discuss a move or sequence of moves.</p>
+<p>You can also download the solutions as a PDF or SGF file by clicking the links below each problem.</p>
+<div style="min-height:33px;" class="really_simple_share really_simple_share_button robots-nocontent snap_nopreview"><div class="really_simple_share_facebook_like" style="width:85px;"><iframe src="//web.archive.org/web/20140722200834if_/http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fgogameguru.com%2Fweekly-go-problems-week-9%2F&amp;layout=button_count&amp;width=85&amp;height=27&amp;locale=en_US&amp;appId=258822027502369" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:85px; height:27px;" allowtransparency="true"></iframe></div><div class="really_simple_share_twitter" style="width:80px;"><a href="http://web.archive.org/web/20140722200834/https://twitter.com/share" target="_blank" class="twitter-share-button" data-count="horizontal" data-text="Weekly Go problems: Week 9 #baduk #igo #weiqi" data-url="http://web.archive.org/web/20140722200834/http://gogameguru.com/weekly-go-problems-week-9/" data-via="gogameguru" data-related="gogameguru"></a></div><div class="really_simple_share_google1" style="width:75px;"><div class="g-plusone" data-size="medium" data-href="http://gogameguru.com/weekly-go-problems-week-9/"></div></div></div>
+<div class="really_simple_share_clearfix"></div></div><div class="post-meta"><span class="categories"><a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/get-better-at-go/go-problems/" title="View all posts in Go Problems" rel="category tag">Go Problems</a></span> <span class="date published time" title="2011-10-27T21:00:00+00:00"> &ndash; October 27, 2011</span> </div></div><div class="author-box"><div><img alt="" src="http://web.archive.org/web/20140722200834im_/http://gogameguru.com/i/gc/9e7d536642f25f6704084df1d57883b8-70.jpg" class="avatar avatar-70 photo" height="70" width="70"/> <strong>About David Ormerod</strong><br/><p>David likes teaching, learning, playing and writing about the game Go. He's taught hundreds of people to play Go, including many children at schools in Australia. In 2010 David was the Australian representative at the 31st World Amateur Go Championships. He's a 5 dan amateur Go player and is the editor of Go Game Guru. You can find David on <a href="http://web.archive.org/web/20140722200834/https://plus.google.com/116142245338090039490" rel="me">Google+</a> and follow Go Game Guru on <a href="http://web.archive.org/web/20140722200834/http://www.facebook.com/gogameguru">Facebook</a>, <a href="http://web.archive.org/web/20140722200834/http://gplus.to/gogameguru">Google+</a> or <a href="http://web.archive.org/web/20140722200834/http://twitter.com/gogameguru/">Twitter</a>.</p>
+</div></div><div id="comments"><h3>Comments</h3><ol class="comment-list">
+<li class="comment even thread-even depth-1" id="comment-2350">
+<div class="comment-header">
+<div class="comment-author vcard">
+<img alt="" src="http://web.archive.org/web/20140722200834im_/http://gogameguru.com/i/gc/bd37e88f43b661c2b182f892d1b73ff1-48.jpg" class="avatar avatar-48 photo" height="48" width="48"/> <cite class="fn"><a href="http://web.archive.org/web/20140722200834/http://truthandgo.blogspot.com/" rel="external" class="url">Amon</a></cite> <span class="says">says:</span> </div>
+<div class="comment-meta commentmetadata">
+<a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/weekly-go-problems-week-9/#comment-2350">October 27, 2011 at 10:30 pm</a>
+</div>
+</div>
+<div class="comment-content">
+<p>The hard Tsumego is cool, thank you, but it does not say &#8220;correct&#8221; after the variation leads to a capture of all white stones at the bottom &#8230;</p>
+</div>
+<div class="reply">
+<a class="comment-reply-link" href="#comment-2350" onclick="return addComment.moveForm(&quot;comment-2350&quot;, &quot;2350&quot;, &quot;respond&quot;, &quot;3485&quot;)">Reply</a> </div>
+<ul class="children">
+<li class="comment odd alt depth-2" id="comment-2351">
+<div class="comment-header">
+<div class="comment-author vcard">
+<img alt="" src="http://web.archive.org/web/20140722200834im_/http://gogameguru.com/i/gc/bd37e88f43b661c2b182f892d1b73ff1-48.jpg" class="avatar avatar-48 photo" height="48" width="48"/> <cite class="fn"><a href="http://web.archive.org/web/20140722200834/http://truthandgo.blogspot.com/" rel="external" class="url">Amon</a></cite> <span class="says">says:</span> </div>
+<div class="comment-meta commentmetadata">
+<a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/weekly-go-problems-week-9/#comment-2351">October 27, 2011 at 10:52 pm</a>
+</div>
+</div>
+<div class="comment-content">
+<p>Oh&#8230; sorry not captured &#8230; but B is alive and it is not labeled &#8220;correct&#8221; &#8230; <img src="http://web.archive.org/web/20140722200834im_/http://gogameguru.com/wp-includes/images/smilies/icon_wink.gif" alt=";-)" class="wp-smiley"/> maybe because there is a better way of playing?</p>
+</div>
+<div class="reply">
+<a class="comment-reply-link" href="#comment-2351" onclick="return addComment.moveForm(&quot;comment-2351&quot;, &quot;2351&quot;, &quot;respond&quot;, &quot;3485&quot;)">Reply</a> </div>
+<ul class="children">
+<li class="comment even depth-3" id="comment-2354">
+<div class="comment-header">
+<div class="comment-author vcard">
+<img alt="" src="http://web.archive.org/web/20140722200834im_/http://gogameguru.com/i/gc/7f61e38b6dac488fc3ebac2daf9ce8d9-48.jpg" class="avatar avatar-48 photo" height="48" width="48"/> <cite class="fn"><a href="http://web.archive.org/web/20140722200834/http://senseis.xmp.net/?DieterVerhofstadt" rel="external" class="url">Dieter</a></cite> <span class="says">says:</span> </div>
+<div class="comment-meta commentmetadata">
+<a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/weekly-go-problems-week-9/#comment-2354">October 28, 2011 at 2:04 am</a>
+</div>
+</div>
+<div class="comment-content">
+<p>How do you capture all stones at the bottom? I don&#8217;t think you can.</p>
+</div>
+<div class="reply">
+<a class="comment-reply-link" href="#comment-2354" onclick="return addComment.moveForm(&quot;comment-2354&quot;, &quot;2354&quot;, &quot;respond&quot;, &quot;3485&quot;)">Reply</a> </div>
+</li> 
+<li class="comment byuser comment-author-david-ormerod bypostauthor odd alt depth-3" id="comment-2358">
+<div class="comment-header">
+<div class="comment-author vcard">
+<img alt="" src="http://web.archive.org/web/20140722200834im_/http://gogameguru.com/i/gc/9e7d536642f25f6704084df1d57883b8-48.jpg" class="avatar avatar-48 photo" height="48" width="48"/> <cite class="fn">David Ormerod</cite> <span class="says">says:</span> </div>
+<div class="comment-meta commentmetadata">
+<a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/weekly-go-problems-week-9/#comment-2358">October 28, 2011 at 9:24 am</a>
+</div>
+</div>
+<div class="comment-content">
+<p>Hi Amon, I&#8217;m not sure what you mean either, but the correct variation is labelled. If you tell us what moves you&#8217;re thinking about, you can analyze it with other readers. You can use the coordinates on the picture above.</p>
+</div>
+<div class="reply">
+<a class="comment-reply-link" href="#comment-2358" onclick="return addComment.moveForm(&quot;comment-2358&quot;, &quot;2358&quot;, &quot;respond&quot;, &quot;3485&quot;)">Reply</a> </div>
+<ul class="children">
+<li class="comment even depth-4" id="comment-2364">
+<div class="comment-header">
+<div class="comment-author vcard">
+<img alt="" src="http://web.archive.org/web/20140722200834im_/http://gogameguru.com/i/gc/bd37e88f43b661c2b182f892d1b73ff1-48.jpg" class="avatar avatar-48 photo" height="48" width="48"/> <cite class="fn"><a href="http://web.archive.org/web/20140722200834/http://truthandgo.blogspot.com/" rel="external" class="url">Amon</a></cite> <span class="says">says:</span> </div>
+<div class="comment-meta commentmetadata">
+<a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/weekly-go-problems-week-9/#comment-2364">October 28, 2011 at 11:01 am</a>
+</div>
+</div>
+<div class="comment-content">
+<p> <img src="http://web.archive.org/web/20140722200834im_/http://gogameguru.com/wp-includes/images/smilies/icon_smile.gif" alt=":-)" class="wp-smiley"/> Uups , i just came back from a pub &#8230; and now after 2 beers i see that i was totally wrong about the solution &#8230; normally it is the other way round!? <img src="http://web.archive.org/web/20140722200834im_/http://gogameguru.com/wp-includes/images/smilies/icon_biggrin.gif" alt=":-D" class="wp-smiley"/> Sorry.</p>
+</div>
+<div class="reply">
+<a class="comment-reply-link" href="#comment-2364" onclick="return addComment.moveForm(&quot;comment-2364&quot;, &quot;2364&quot;, &quot;respond&quot;, &quot;3485&quot;)">Reply</a> </div>
+<ul class="children">
+<li class="comment byuser comment-author-david-ormerod bypostauthor odd alt depth-5" id="comment-2387">
+<div class="comment-header">
+<div class="comment-author vcard">
+<img alt="" src="http://web.archive.org/web/20140722200834im_/http://gogameguru.com/i/gc/9e7d536642f25f6704084df1d57883b8-48.jpg" class="avatar avatar-48 photo" height="48" width="48"/> <cite class="fn">David Ormerod</cite> <span class="says">says:</span> </div>
+<div class="comment-meta commentmetadata">
+<a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/weekly-go-problems-week-9/#comment-2387">October 31, 2011 at 2:37 pm</a>
+</div>
+</div>
+<div class="comment-content">
+<p>No worries Amon. Are you the drunken master of Go then? <img src="http://web.archive.org/web/20140722200834im_/http://gogameguru.com/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley"/> </p>
+</div>
+<div class="reply">
+<a class="comment-reply-link" href="#comment-2387" onclick="return addComment.moveForm(&quot;comment-2387&quot;, &quot;2387&quot;, &quot;respond&quot;, &quot;3485&quot;)">Reply</a> </div>
+</li> 
+</ul> 
+</li> 
+</ul> 
+</li> 
+</ul> 
+</li> 
+</ul> 
+</li> 
+<li class="comment even thread-odd thread-alt depth-1" id="comment-2352">
+<div class="comment-header">
+<div class="comment-author vcard">
+<img alt="" src="http://web.archive.org/web/20140722200834im_/http://gogameguru.com/i/gc/7f61e38b6dac488fc3ebac2daf9ce8d9-48.jpg" class="avatar avatar-48 photo" height="48" width="48"/> <cite class="fn"><a href="http://web.archive.org/web/20140722200834/http://senseis.xmp.net/?DieterVerhofstadt" rel="external" class="url">Dieter</a></cite> <span class="says">says:</span> </div>
+<div class="comment-meta commentmetadata">
+<a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/weekly-go-problems-week-9/#comment-2352">October 27, 2011 at 11:23 pm</a>
+</div>
+</div>
+<div class="comment-content">
+<p>Easy: vital point is clear, so all that remains is verifying that no other move works, because of the vital point. One of these variations has depth = 7, so this problem is not so easy to complete.<br/>
+Intermediate: width 4, depth 3-4. When you look over the available moves, the correct one is quite apparent. Still I found this one harder than &#8230;<br/>
+Hard: this is about half-eyes and a technique to gain tempo and make one eye in sente. When you find the solution to that problem, it&#8217;s really a one way street. Width = 2, depth = 10 (although I stopped reading after 3, because the throw-ins are foreseen).</p>
+</div>
+<div class="reply">
+<a class="comment-reply-link" href="#comment-2352" onclick="return addComment.moveForm(&quot;comment-2352&quot;, &quot;2352&quot;, &quot;respond&quot;, &quot;3485&quot;)">Reply</a> </div>
+<ul class="children">
+<li class="comment odd alt depth-2" id="comment-2353">
+<div class="comment-header">
+<div class="comment-author vcard">
+<img alt="" src="http://web.archive.org/web/20140722200834im_/http://gogameguru.com/i/gc/7f61e38b6dac488fc3ebac2daf9ce8d9-48.jpg" class="avatar avatar-48 photo" height="48" width="48"/> <cite class="fn"><a href="http://web.archive.org/web/20140722200834/http://senseis.xmp.net/?DieterVerhofstadt" rel="external" class="url">Dieter</a></cite> <span class="says">says:</span> </div>
+<div class="comment-meta commentmetadata">
+<a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/weekly-go-problems-week-9/#comment-2353">October 27, 2011 at 11:25 pm</a>
+</div>
+</div>
+<div class="comment-content">
+<p>So, the difference in difficulty is more about knowledge or experience than sheer reading here. And exhaustively, another fine selection of craft!</p>
+</div>
+<div class="reply">
+<a class="comment-reply-link" href="#comment-2353" onclick="return addComment.moveForm(&quot;comment-2353&quot;, &quot;2353&quot;, &quot;respond&quot;, &quot;3485&quot;)">Reply</a> </div>
+<ul class="children">
+<li class="comment byuser comment-author-david-ormerod bypostauthor even depth-3" id="comment-2359">
+<div class="comment-header">
+<div class="comment-author vcard">
+<img alt="" src="http://web.archive.org/web/20140722200834im_/http://gogameguru.com/i/gc/9e7d536642f25f6704084df1d57883b8-48.jpg" class="avatar avatar-48 photo" height="48" width="48"/> <cite class="fn">David Ormerod</cite> <span class="says">says:</span> </div>
+<div class="comment-meta commentmetadata">
+<a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/weekly-go-problems-week-9/#comment-2359">October 28, 2011 at 9:31 am</a>
+</div>
+</div>
+<div class="comment-content">
+<p>Thanks Dieter, the easy one does involve a bit more reading this week, though stronger players should solve it at a glance (just because they know the pattern). I&#8217;m just introducing a basic shape move that comes up often.</p>
+<p>You&#8217;re right about the other two, they rely a lot more on whether you know a specific technique or not. If you don&#8217;t, they could be quite hard.</p>
+</div>
+<div class="reply">
+<a class="comment-reply-link" href="#comment-2359" onclick="return addComment.moveForm(&quot;comment-2359&quot;, &quot;2359&quot;, &quot;respond&quot;, &quot;3485&quot;)">Reply</a> </div>
+</li> 
+</ul> 
+</li> 
+<li class="comment odd alt depth-2" id="comment-2356">
+<div class="comment-header">
+<div class="comment-author vcard">
+<img alt="" src="http://web.archive.org/web/20140722200834im_/http://gogameguru.com/i/gc/c871631c2b7e52c8bc3082f6ba28c02e-48.jpg" class="avatar avatar-48 photo" height="48" width="48"/> <cite class="fn">Larry</cite> <span class="says">says:</span> </div>
+<div class="comment-meta commentmetadata">
+<a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/weekly-go-problems-week-9/#comment-2356">October 28, 2011 at 5:00 am</a>
+</div>
+</div>
+<div class="comment-content">
+<p>I dont understand what you mean by width and depth. Or at lease how it relates to a capture problem</p>
+</div>
+<div class="reply">
+<a class="comment-reply-link" href="#comment-2356" onclick="return addComment.moveForm(&quot;comment-2356&quot;, &quot;2356&quot;, &quot;respond&quot;, &quot;3485&quot;)">Reply</a> </div>
+<ul class="children">
+<li class="comment byuser comment-author-david-ormerod bypostauthor even depth-3" id="comment-2360">
+<div class="comment-header">
+<div class="comment-author vcard">
+<img alt="" src="http://web.archive.org/web/20140722200834im_/http://gogameguru.com/i/gc/9e7d536642f25f6704084df1d57883b8-48.jpg" class="avatar avatar-48 photo" height="48" width="48"/> <cite class="fn">David Ormerod</cite> <span class="says">says:</span> </div>
+<div class="comment-meta commentmetadata">
+<a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/weekly-go-problems-week-9/#comment-2360">October 28, 2011 at 9:33 am</a>
+</div>
+</div>
+<div class="comment-content">
+<p>He&#8217;s using it as a rough way to measure the difficulty of a problem. Width is the number of different choices and depth is how many moves you have to read ahead to see if it works. I&#8217;m sure Dieter can explain how he works it out more clearly though :).</p>
+</div>
+<div class="reply">
+<a class="comment-reply-link" href="#comment-2360" onclick="return addComment.moveForm(&quot;comment-2360&quot;, &quot;2360&quot;, &quot;respond&quot;, &quot;3485&quot;)">Reply</a> </div>
+<ul class="children">
+<li class="comment odd alt depth-4" id="comment-2367">
+<div class="comment-header">
+<div class="comment-author vcard">
+<img alt="" src="http://web.archive.org/web/20140722200834im_/http://gogameguru.com/i/gc/7f61e38b6dac488fc3ebac2daf9ce8d9-48.jpg" class="avatar avatar-48 photo" height="48" width="48"/> <cite class="fn"><a href="http://web.archive.org/web/20140722200834/http://senseis.xmp.net/?DieterVerhofstadt" rel="external" class="url">Dieter</a></cite> <span class="says">says:</span> </div>
+<div class="comment-meta commentmetadata">
+<a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/weekly-go-problems-week-9/#comment-2367">October 28, 2011 at 8:40 pm</a>
+</div>
+</div>
+<div class="comment-content">
+<p>An analysis tree splits into branches all of which have a certain number of moves in total. The total number of branches is my &#8220;width&#8221; and the maximum number of moves for any branch is my &#8220;depth&#8221;.</p>
+<p>See <a href="http://web.archive.org/web/20140722200834/http://senseis.xmp.net/?ReadingDepth">http://senseis.xmp.net/?ReadingDepth</a> and <a href="http://web.archive.org/web/20140722200834/http://senseis.xmp.net/?ReadingWidth">http://senseis.xmp.net/?ReadingWidth</a></p>
+<p>Since we&#8217;ve been discussing the actual difficulty of the problems, I thought I&#8217;d provide these metrics instead of a gut feeling, but of course these metrics highly depend on one&#8217;s strength. E.g. for a beginner the depth of reading out a bulky five can be as much as 13, while for us it&#8217;s 1.</p>
+<p>Still, it may be interesting for a problem composer to know how many variations I as a 1-2d bother to verify and how deep I&#8217;ll go before cutting off the analysis, so I keep publishing my answers this way.</p>
+</div>
+<div class="reply">
+<a class="comment-reply-link" href="#comment-2367" onclick="return addComment.moveForm(&quot;comment-2367&quot;, &quot;2367&quot;, &quot;respond&quot;, &quot;3485&quot;)">Reply</a> </div>
+<ul class="children">
+<li class="comment even depth-5" id="comment-2488">
+<div class="comment-header">
+<div class="comment-author vcard">
+<img alt="" src="http://web.archive.org/web/20140722200834im_/http://gogameguru.com/i/gc/547245f18f559eead5f11648437629de-48.jpg" class="avatar avatar-48 photo" height="48" width="48"/> <cite class="fn"><a href="http://web.archive.org/web/20140722200834/http://chez-xavier-combelle.blogspot.com/" rel="external" class="url">Xavier Combelle</a></cite> <span class="says">says:</span> </div>
+<div class="comment-meta commentmetadata">
+<a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/weekly-go-problems-week-9/#comment-2488">November 11, 2011 at 5:09 am</a>
+</div>
+</div>
+<div class="comment-content">
+<p>Nice explanations about reading depth and reading width</p>
+</div>
+<div class="reply">
+<a class="comment-reply-link" href="#comment-2488" onclick="return addComment.moveForm(&quot;comment-2488&quot;, &quot;2488&quot;, &quot;respond&quot;, &quot;3485&quot;)">Reply</a> </div>
+</li> 
+</ul> 
+</li> 
+</ul> 
+</li> 
+</ul> 
+</li> 
+</ul> 
+</li> 
+<li class="comment odd alt thread-even depth-1" id="comment-2355">
+<div class="comment-header">
+<div class="comment-author vcard">
+<img alt="" src="http://web.archive.org/web/20140722200834im_/http://gogameguru.com/i/gc/d5ea9089846d94f70df137061855be90-48.jpg" class="avatar avatar-48 photo" height="48" width="48"/> <cite class="fn"><a href="http://web.archive.org/web/20140722200834/http://www.gokgs.com/" rel="external" class="url">Bill Shubert</a></cite> <span class="says">says:</span> </div>
+<div class="comment-meta commentmetadata">
+<a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/weekly-go-problems-week-9/#comment-2355">October 28, 2011 at 3:40 am</a>
+</div>
+</div>
+<div class="comment-content">
+<p>This week I found the first two fairly easy. The hard one, I thought I had it, but I got the order of moves wrong! The order I did made it possible for white to succeed. Then I gave up on that approach, and didn&#8217;t figure out until a while later that if I just reordered my moves it would work fine.</p>
+</div>
+<div class="reply">
+<a class="comment-reply-link" href="#comment-2355" onclick="return addComment.moveForm(&quot;comment-2355&quot;, &quot;2355&quot;, &quot;respond&quot;, &quot;3485&quot;)">Reply</a> </div>
+<ul class="children">
+<li class="comment byuser comment-author-david-ormerod bypostauthor even depth-2" id="comment-2361">
+<div class="comment-header">
+<div class="comment-author vcard">
+<img alt="" src="http://web.archive.org/web/20140722200834im_/http://gogameguru.com/i/gc/9e7d536642f25f6704084df1d57883b8-48.jpg" class="avatar avatar-48 photo" height="48" width="48"/> <cite class="fn">David Ormerod</cite> <span class="says">says:</span> </div>
+<div class="comment-meta commentmetadata">
+<a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/weekly-go-problems-week-9/#comment-2361">October 28, 2011 at 9:39 am</a>
+</div>
+</div>
+<div class="comment-content">
+<p>It&#8217;s funny how that happens. Sometimes when I give up on a difficult problem, the solution will just occur to me later, when I&#8217;m working or washing the dishes&#8230; :). I suppose it happens with everything though to a certain extent. The brain knows what it&#8217;s doing even if we don&#8217;t.</p>
+<p>Move order is one of those fascinating things about Go.</p>
+</div>
+<div class="reply">
+<a class="comment-reply-link" href="#comment-2361" onclick="return addComment.moveForm(&quot;comment-2361&quot;, &quot;2361&quot;, &quot;respond&quot;, &quot;3485&quot;)">Reply</a> </div>
+</li> 
+</ul> 
+</li> 
+<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-2365">
+<div class="comment-header">
+<div class="comment-author vcard">
+<img alt="" src="http://web.archive.org/web/20140722200834im_/http://gogameguru.com/i/gc/bf0b4af0639e524e8b62de3298c12d30-48.jpg" class="avatar avatar-48 photo" height="48" width="48"/> <cite class="fn">Zar</cite> <span class="says">says:</span> </div>
+<div class="comment-meta commentmetadata">
+<a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/weekly-go-problems-week-9/#comment-2365">October 28, 2011 at 11:48 am</a>
+</div>
+</div>
+<div class="comment-content">
+<p>Ahh, as soon as I start thinking it&#8217;s impossible, the type of problem it is comes to light xD</p>
+<p>&gt;_&gt; Ones like the intermediate problem always stump me for a while ~_~</p>
+</div>
+<div class="reply">
+<a class="comment-reply-link" href="#comment-2365" onclick="return addComment.moveForm(&quot;comment-2365&quot;, &quot;2365&quot;, &quot;respond&quot;, &quot;3485&quot;)">Reply</a> </div>
+<ul class="children">
+<li class="comment byuser comment-author-david-ormerod bypostauthor even depth-2" id="comment-2381">
+<div class="comment-header">
+<div class="comment-author vcard">
+<img alt="" src="http://web.archive.org/web/20140722200834im_/http://gogameguru.com/i/gc/9e7d536642f25f6704084df1d57883b8-48.jpg" class="avatar avatar-48 photo" height="48" width="48"/> <cite class="fn">David Ormerod</cite> <span class="says">says:</span> </div>
+<div class="comment-meta commentmetadata">
+<a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/weekly-go-problems-week-9/#comment-2381">October 31, 2011 at 2:31 pm</a>
+</div>
+</div>
+<div class="comment-content">
+<p>Good on you Zar, keep it up! <img src="http://web.archive.org/web/20140722200834im_/http://gogameguru.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley"/> </p>
+</div>
+<div class="reply">
+<a class="comment-reply-link" href="#comment-2381" onclick="return addComment.moveForm(&quot;comment-2381&quot;, &quot;2381&quot;, &quot;respond&quot;, &quot;3485&quot;)">Reply</a> </div>
+</li> 
+</ul> 
+</li> 
+<li class="comment odd alt thread-even depth-1" id="comment-2368">
+<div class="comment-header">
+<div class="comment-author vcard">
+<img alt="" src="http://web.archive.org/web/20140722200834im_/http://gogameguru.com/i/gc/f8e95938e01f92d4d3f19a6b75f6a2ee-48.jpg" class="avatar avatar-48 photo" height="48" width="48"/> <cite class="fn"><a href="http://web.archive.org/web/20140722200834/http://idioume.blogspot.com/" rel="external" class="url">limitless</a></cite> <span class="says">says:</span> </div>
+<div class="comment-meta commentmetadata">
+<a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/weekly-go-problems-week-9/#comment-2368">October 29, 2011 at 2:58 am</a>
+</div>
+</div>
+<div class="comment-content">
+<p>hard problem :S????? abit too easy.. seems 5k</p>
+</div>
+<div class="reply">
+<a class="comment-reply-link" href="#comment-2368" onclick="return addComment.moveForm(&quot;comment-2368&quot;, &quot;2368&quot;, &quot;respond&quot;, &quot;3485&quot;)">Reply</a> </div>
+<ul class="children">
+<li class="comment byuser comment-author-david-ormerod bypostauthor even depth-2" id="comment-2382">
+<div class="comment-header">
+<div class="comment-author vcard">
+<img alt="" src="http://web.archive.org/web/20140722200834im_/http://gogameguru.com/i/gc/9e7d536642f25f6704084df1d57883b8-48.jpg" class="avatar avatar-48 photo" height="48" width="48"/> <cite class="fn">David Ormerod</cite> <span class="says">says:</span> </div>
+<div class="comment-meta commentmetadata">
+<a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/weekly-go-problems-week-9/#comment-2382">October 31, 2011 at 2:32 pm</a>
+</div>
+</div>
+<div class="comment-content">
+<p>Maybe it&#8217;s easy for you, but as I&#8217;ve said previously the difficulty will vary from week to week, person to person. It&#8217;s not supposed to be insanely hard&#8230;</p>
+</div>
+<div class="reply">
+<a class="comment-reply-link" href="#comment-2382" onclick="return addComment.moveForm(&quot;comment-2382&quot;, &quot;2382&quot;, &quot;respond&quot;, &quot;3485&quot;)">Reply</a> </div>
+</li> 
+</ul> 
+</li> 
+<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-2369">
+<div class="comment-header">
+<div class="comment-author vcard">
+<img alt="" src="http://web.archive.org/web/20140722200834im_/http://gogameguru.com/i/gc/9f3fc5bd33c57447a9927104b7658c3c-48.jpg" class="avatar avatar-48 photo" height="48" width="48"/> <cite class="fn">Moe</cite> <span class="says">says:</span> </div>
+<div class="comment-meta commentmetadata">
+<a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/weekly-go-problems-week-9/#comment-2369">October 29, 2011 at 3:43 am</a>
+</div>
+</div>
+<div class="comment-content">
+<p>Hahaha! I can always solve the hard ones before the intermediate ones!</p>
+</div>
+<div class="reply">
+<a class="comment-reply-link" href="#comment-2369" onclick="return addComment.moveForm(&quot;comment-2369&quot;, &quot;2369&quot;, &quot;respond&quot;, &quot;3485&quot;)">Reply</a> </div>
+<ul class="children">
+<li class="comment byuser comment-author-david-ormerod bypostauthor even depth-2" id="comment-2383">
+<div class="comment-header">
+<div class="comment-author vcard">
+<img alt="" src="http://web.archive.org/web/20140722200834im_/http://gogameguru.com/i/gc/9e7d536642f25f6704084df1d57883b8-48.jpg" class="avatar avatar-48 photo" height="48" width="48"/> <cite class="fn">David Ormerod</cite> <span class="says">says:</span> </div>
+<div class="comment-meta commentmetadata">
+<a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/weekly-go-problems-week-9/#comment-2383">October 31, 2011 at 2:33 pm</a>
+</div>
+</div>
+<div class="comment-content">
+<p>Heheh, that&#8217;s weird&#8230; Maybe you&#8217;re trying harder on the hard ones?</p>
+</div>
+<div class="reply">
+<a class="comment-reply-link" href="#comment-2383" onclick="return addComment.moveForm(&quot;comment-2383&quot;, &quot;2383&quot;, &quot;respond&quot;, &quot;3485&quot;)">Reply</a> </div>
+<ul class="children">
+<li class="comment odd alt depth-3" id="comment-2408">
+<div class="comment-header">
+<div class="comment-author vcard">
+<img alt="" src="http://web.archive.org/web/20140722200834im_/http://gogameguru.com/i/gc/9f3fc5bd33c57447a9927104b7658c3c-48.jpg" class="avatar avatar-48 photo" height="48" width="48"/> <cite class="fn">Moe</cite> <span class="says">says:</span> </div>
+<div class="comment-meta commentmetadata">
+<a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/weekly-go-problems-week-9/#comment-2408">November 3, 2011 at 5:00 pm</a>
+</div>
+</div>
+<div class="comment-content">
+<p>Hahaha! Now that you mention it, that could have something to do with it!</p>
+</div>
+<div class="reply">
+<a class="comment-reply-link" href="#comment-2408" onclick="return addComment.moveForm(&quot;comment-2408&quot;, &quot;2408&quot;, &quot;respond&quot;, &quot;3485&quot;)">Reply</a> </div>
+</li> 
+</ul> 
+</li> 
+</ul> 
+</li> 
+<li class="comment even thread-even depth-1" id="comment-2370">
+<div class="comment-header">
+<div class="comment-author vcard">
+<img alt="" src="http://web.archive.org/web/20140722200834im_/http://gogameguru.com/i/gc/7bf45a39b04b2975ac36ca2242a43028-48.jpg" class="avatar avatar-48 photo" height="48" width="48"/> <cite class="fn">scwizard</cite> <span class="says">says:</span> </div>
+<div class="comment-meta commentmetadata">
+<a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/weekly-go-problems-week-9/#comment-2370">October 29, 2011 at 5:24 am</a>
+</div>
+</div>
+<div class="comment-content">
+<p>I couldn&#8217;t do the hard problem because I didn&#8217;t know about that sort of shape threatening to live u_u</p>
+</div>
+<div class="reply">
+<a class="comment-reply-link" href="#comment-2370" onclick="return addComment.moveForm(&quot;comment-2370&quot;, &quot;2370&quot;, &quot;respond&quot;, &quot;3485&quot;)">Reply</a> </div>
+<ul class="children">
+<li class="comment byuser comment-author-david-ormerod bypostauthor odd alt depth-2" id="comment-2384">
+<div class="comment-header">
+<div class="comment-author vcard">
+<img alt="" src="http://web.archive.org/web/20140722200834im_/http://gogameguru.com/i/gc/9e7d536642f25f6704084df1d57883b8-48.jpg" class="avatar avatar-48 photo" height="48" width="48"/> <cite class="fn">David Ormerod</cite> <span class="says">says:</span> </div>
+<div class="comment-meta commentmetadata">
+<a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/weekly-go-problems-week-9/#comment-2384">October 31, 2011 at 2:34 pm</a>
+</div>
+</div>
+<div class="comment-content">
+<p>Yes, it&#8217;s a fairly high level tesuji in my opinion. Once you know that technique, of course, the problem is easier.</p>
+</div>
+<div class="reply">
+<a class="comment-reply-link" href="#comment-2384" onclick="return addComment.moveForm(&quot;comment-2384&quot;, &quot;2384&quot;, &quot;respond&quot;, &quot;3485&quot;)">Reply</a> </div>
+</li> 
+</ul> 
+</li> 
+<li class="comment even thread-odd thread-alt depth-1" id="comment-2372">
+<div class="comment-header">
+<div class="comment-author vcard">
+<img alt="" src="http://web.archive.org/web/20140722200834im_/http://gogameguru.com/i/gc/5bb1dd155669efdec453a43b58941bed-48.jpg" class="avatar avatar-48 photo" height="48" width="48"/> <cite class="fn">Max</cite> <span class="says">says:</span> </div>
+<div class="comment-meta commentmetadata">
+<a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/weekly-go-problems-week-9/#comment-2372">October 29, 2011 at 5:57 pm</a>
+</div>
+</div>
+<div class="comment-content">
+<p>The funny thing is, I came on to this site dead tired and for some reason started playing the easy one as white. Fortunately the solution is the same. lol</p>
+</div>
+<div class="reply">
+<a class="comment-reply-link" href="#comment-2372" onclick="return addComment.moveForm(&quot;comment-2372&quot;, &quot;2372&quot;, &quot;respond&quot;, &quot;3485&quot;)">Reply</a> </div>
+<ul class="children">
+<li class="comment byuser comment-author-david-ormerod bypostauthor odd alt depth-2" id="comment-2385">
+<div class="comment-header">
+<div class="comment-author vcard">
+<img alt="" src="http://web.archive.org/web/20140722200834im_/http://gogameguru.com/i/gc/9e7d536642f25f6704084df1d57883b8-48.jpg" class="avatar avatar-48 photo" height="48" width="48"/> <cite class="fn">David Ormerod</cite> <span class="says">says:</span> </div>
+<div class="comment-meta commentmetadata">
+<a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/weekly-go-problems-week-9/#comment-2385">October 31, 2011 at 2:34 pm</a>
+</div>
+</div>
+<div class="comment-content">
+<p>It&#8217;s surprising how often the moves for black or white to play are the same in Go :).</p>
+</div>
+<div class="reply">
+<a class="comment-reply-link" href="#comment-2385" onclick="return addComment.moveForm(&quot;comment-2385&quot;, &quot;2385&quot;, &quot;respond&quot;, &quot;3485&quot;)">Reply</a> </div>
+</li> 
+</ul> 
+</li> 
+<li class="comment even thread-even depth-1" id="comment-2375">
+<div class="comment-header">
+<div class="comment-author vcard">
+<img alt="" src="http://web.archive.org/web/20140722200834im_/http://gogameguru.com/i/gc/75bb05df49766ad73748249bd20ac4d6-48.jpg" class="avatar avatar-48 photo" height="48" width="48"/> <cite class="fn">Andy</cite> <span class="says">says:</span> </div>
+<div class="comment-meta commentmetadata">
+<a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/weekly-go-problems-week-9/#comment-2375">October 30, 2011 at 8:57 am</a>
+</div>
+</div>
+<div class="comment-content">
+<p>took me a while to figure the hard one really hard problem indeed,what level is the hard peoblem?</p>
+</div>
+<div class="reply">
+<a class="comment-reply-link" href="#comment-2375" onclick="return addComment.moveForm(&quot;comment-2375&quot;, &quot;2375&quot;, &quot;respond&quot;, &quot;3485&quot;)">Reply</a> </div>
+<ul class="children">
+<li class="comment byuser comment-author-david-ormerod bypostauthor odd alt depth-2" id="comment-2386">
+<div class="comment-header">
+<div class="comment-author vcard">
+<img alt="" src="http://web.archive.org/web/20140722200834im_/http://gogameguru.com/i/gc/9e7d536642f25f6704084df1d57883b8-48.jpg" class="avatar avatar-48 photo" height="48" width="48"/> <cite class="fn">David Ormerod</cite> <span class="says">says:</span> </div>
+<div class="comment-meta commentmetadata">
+<a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/weekly-go-problems-week-9/#comment-2386">October 31, 2011 at 2:36 pm</a>
+</div>
+</div>
+<div class="comment-content">
+<p>I don&#8217;t really try to classify them with a rank. I don&#8217;t know how to do that and even if I did, is it useful or sensible? Personally I think it&#8217;s a dan level problem though.</p>
+</div>
+<div class="reply">
+<a class="comment-reply-link" href="#comment-2386" onclick="return addComment.moveForm(&quot;comment-2386&quot;, &quot;2386&quot;, &quot;respond&quot;, &quot;3485&quot;)">Reply</a> </div>
+</li> 
+</ul> 
+</li> 
+<li class="comment even thread-odd thread-alt depth-1" id="comment-2486">
+<div class="comment-header">
+<div class="comment-author vcard">
+<img alt="" src="http://web.archive.org/web/20140722200834im_/http://gogameguru.com/i/gc/547245f18f559eead5f11648437629de-48.jpg" class="avatar avatar-48 photo" height="48" width="48"/> <cite class="fn"><a href="http://web.archive.org/web/20140722200834/http://chez-xavier-combelle.blogspot.com/" rel="external" class="url">Xavier Combelle</a></cite> <span class="says">says:</span> </div>
+<div class="comment-meta commentmetadata">
+<a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/weekly-go-problems-week-9/#comment-2486">November 11, 2011 at 5:05 am</a>
+</div>
+</div>
+<div class="comment-content">
+<p>Nice problems</p>
+</div>
+<div class="reply">
+<a class="comment-reply-link" href="#comment-2486" onclick="return addComment.moveForm(&quot;comment-2486&quot;, &quot;2486&quot;, &quot;respond&quot;, &quot;3485&quot;)">Reply</a> </div>
+</li> 
+<li class="comment odd alt thread-even depth-1" id="comment-3459">
+<div class="comment-header">
+<div class="comment-author vcard">
+<img alt="" src="http://web.archive.org/web/20140722200834im_/http://gogameguru.com/i/gc/463821429df300ebd956fe6a87304f99-48.jpg" class="avatar avatar-48 photo" height="48" width="48"/> <cite class="fn">Megobt</cite> <span class="says">says:</span> </div>
+<div class="comment-meta commentmetadata">
+<a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/weekly-go-problems-week-9/#comment-3459">February 6, 2012 at 1:36 am</a>
+</div>
+</div>
+<div class="comment-content">
+<p>I&#8217;m looking at the solution to the intermediate problem, but I still don&#8217;t see how black is alive. It looks to me like black can&#8217;t actually create eyes unless white moves again in the middle, and vice versa, white can&#8217;t kill black unless black moves in the middle. So is it some sort of stalemate where black can&#8217;t be killed but doesn&#8217;t get any territory?</p>
+</div>
+<div class="reply">
+<a class="comment-reply-link" href="#comment-3459" onclick="return addComment.moveForm(&quot;comment-3459&quot;, &quot;3459&quot;, &quot;respond&quot;, &quot;3485&quot;)">Reply</a> </div>
+<ul class="children">
+<li class="comment even depth-2" id="comment-3460">
+<div class="comment-header">
+<div class="comment-author vcard">
+<img alt="" src="http://web.archive.org/web/20140722200834im_/http://gogameguru.com/i/gc/547245f18f559eead5f11648437629de-48.jpg" class="avatar avatar-48 photo" height="48" width="48"/> <cite class="fn"><a href="http://web.archive.org/web/20140722200834/http://chez-xavier-combelle.blogspot.com/" rel="external" class="url">Xavier Combelle</a></cite> <span class="says">says:</span> </div>
+<div class="comment-meta commentmetadata">
+<a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/weekly-go-problems-week-9/#comment-3460">February 6, 2012 at 4:34 am</a>
+</div>
+</div>
+<div class="comment-content">
+<p>Yes it&#8217;s a seki</p>
+</div>
+<div class="reply">
+<a class="comment-reply-link" href="#comment-3460" onclick="return addComment.moveForm(&quot;comment-3460&quot;, &quot;3460&quot;, &quot;respond&quot;, &quot;3485&quot;)">Reply</a> </div>
+</li> 
+</ul> 
+</li> 
+</ol></div> <div id="respond" class="comment-respond">
+<h3 id="reply-title" class="comment-reply-title">Speak your mind <small><a rel="nofollow" id="cancel-comment-reply-link" href="/web/20140722200834/http://gogameguru.com/weekly-go-problems-week-9/#respond" style="display:none;">Cancel reply</a></small></h3>
+<form action="http://web.archive.org/web/20140722200834/http://gogameguru.com/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate>
+<p class="comment-form-author"><input id="author" name="author" type="text" value="" size="30" tabindex="1"/><label for="author">Name</label> </p>
+<p class="comment-form-email"><input id="email" name="email" type="text" value="" size="30" tabindex="2"/><label for="email">Email</label> </p>
+<p class="comment-form-url"><input id="url" name="url" type="text" value="" size="30" tabindex="3"/><label for="url">Website</label></p>
+<p class="comment-form-comment"><textarea id="comment" name="comment-5f632449a4fbb62729b6f9" cols="45" rows="8" tabindex="4" aria-required="true"></textarea><textarea name="comment" rows="1" cols="1" style="display:none"></textarea></p><input type="hidden" name="comment-replaced" value="true"/> <p class="form-submit">
+<input name="submit" type="submit" id="submit" value="Post Comment"/>
+<input type="hidden" name="comment_post_ID" value="3485" id="comment_post_ID"/>
+<input type="hidden" name="comment_parent" id="comment_parent" value="0"/>
+</p>
+<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="d692a4c27d"/></p><p style="display:none;"><input type="text" name="nxts" value="1406059715"/><input type="text" name="nxts_signed" value="13ca588b5917078b82738a61e1ba15064ba746d1"/><input type="text" name="131c428a" value=""/><input type="text" name="d0332dced8ec1ee50c5bd29ba6" value="351e84fe65403a742c"/></p> <p><label for="subscribe-reloaded"><input style="width:30px" type="checkbox" name="subscribe-reloaded" id="subscribe-reloaded" value="yes"/> Notify me by email when someone else comments on this page.</label></p> <p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="22"/></p> </form>
+</div> 
+<div class="entry-content"><div class="yarpp-related yarpp-related-none">
+</div>
+</div></div><div id="sidebar" class="sidebar widget-area"><div id="text-7" class="widget widget_text"><div class="widget-wrap"><h4 class="widget-title widgettitle">Get updates (it&#8217;s free)</h4>
+<div class="textwidget"><p>Get better at Go with free updates.</p>
+<div style="margin:5px 0 10px 0">
+<img class="alignright" style="margin:0" src="http://web.archive.org/web/20140722200834im_/http://gogameguru.com/i/email/arrow-top.png" alt="Go Game Newsletter" title="Want to get better at Go?" width="75" height="80"/>
+&nbsp;
+<p>(Your opponents won't know what happened!)</p>
+</div>
+<form method="post" class="af-form-wrapper" action="http://web.archive.org/web/20140722200834/http://www.aweber.com/scripts/addlead.pl">
+<input type="hidden" name="meta_web_form_id" value="1318622437"/>
+<input type="hidden" name="meta_split_id" value=""/>
+<input type="hidden" name="listname" value="ggg-newsletter"/>
+<input type="hidden" name="redirect" value="http://www.aweber.com/thankyou-coi.htm?m=text" id="redirect_a3c0f0b273de27d635645b05857a75fd"/>
+<input type="hidden" name="meta_redirect_onlist" value="http://gogameguru.com/already-subscribed/"/>
+<input type="hidden" name="meta_adtracking" value="Home_page"/>
+<input type="hidden" name="meta_message" value="1"/>
+<input type="hidden" name="meta_required" value="email"/>
+<input type="hidden" name="meta_tooltip" value="email||Enter your email address..."/>
+<input style="width: 208px;" class="text" id="awf_field-29640586" type="text" name="email" value="Enter your email address..." tabindex="500" onfocus=" if (this.value == 'Enter your email address...') { this.value = ''; }" onblur="if (this.value == '') { this.value='Enter your email address...';} "/><input style="width: 230px;" name="submit" class="submit" type="submit" value="Sign Up!" tabindex="501"/>
+</form>
+<div style="margin-top:15px">
+<img class="alignleft" src="http://web.archive.org/web/20140722200834im_/http://gogameguru.com/i/email/arrow-bottom.png" alt="Get updates about the board game Go" title="Weekly updates about the game of Go" width="75" height="80"/>
+<p>Enter your email address and click 'Sign&nbsp;Up!'</p>
+</div></div>
+</div></div>
+<div id="text-5" class="widget widget_text"><div class="widget-wrap"><h4 class="widget-title widgettitle">Useful Resources</h4>
+<div class="textwidget"><a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/learn-go/"><img src="http://web.archive.org/web/20140722200834im_/http://gogameguru.com/i/learn-go.png" alt="Learn how to play Go" title="Learn Go" width="230" height="142"/></a>
+&nbsp;
+<a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/instant-go-set/"><img src="http://web.archive.org/web/20140722200834im_/http://gogameguru.com/i/instant-go-set.jpg" alt="Print and make your own instant Go board and stones" title="Instant Go Set" width="230" height="142"/></a>
+&nbsp;
+<a href="http://web.archive.org/web/20140722200834/http://shop.gogameguru.com/go-boards/"><img src="http://web.archive.org/web/20140722200834im_/http://gogameguru.com/i/go-board.png" alt="Get a Go Board" title="Go Boards" width="230" ; height="142"/></a>
+&nbsp;
+<a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/baduk-tv/"><img src="http://web.archive.org/web/20140722200834im_/http://gogameguru.com/i/baduk-tv.png" alt="Baduk TV - 24/7 Go TV with English subtitles" title="Baduk TV" width="230" ; height="142"/></a></div>
+		</div></div>
+<div id="recent-comments-2" class="widget widget_recent_comments"><div class="widget-wrap"><h4 class="widget-title widgettitle">Join Ongoing Discussions</h4>
+<ul id="recentcomments"><li class="recentcomments">Hippo on <a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/go-commentary-choi-cheolhan-vs-park-junghwan-18th-chunwon/#comment-9460">Go Commentary: Choi Cheolhan vs Park Junghwan &#8211; 18th Chunwon</a></li><li class="recentcomments"><a href="http://web.archive.org/web/20140722200834/http://yahoo.com/" rel="external" class="url">Anonymous</a> on <a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/weekly-go-problems-week-121/#comment-9447">Weekly Go problems: Week 121</a></li><li class="recentcomments">Younggil An on <a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/go-commentary-iyama-yuta-vs-ida-atsushi-69th-honinbo/#comment-9446">Go Commentary: Iyama Yuta vs Ida Atsushi &#8211; 69th Honinbo</a></li><li class="recentcomments">Younggil An on <a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/go-commentary-iyama-yuta-vs-ida-atsushi-69th-honinbo/#comment-9445">Go Commentary: Iyama Yuta vs Ida Atsushi &#8211; 69th Honinbo</a></li><li class="recentcomments">Daniel on <a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/weekly-go-problems-week-121/#comment-9444">Weekly Go problems: Week 121</a></li><li class="recentcomments">Hippo on <a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/go-commentary-iyama-yuta-vs-ida-atsushi-69th-honinbo/#comment-9443">Go Commentary: Iyama Yuta vs Ida Atsushi &#8211; 69th Honinbo</a></li><li class="recentcomments">Hippo on <a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/go-commentary-iyama-yuta-vs-ida-atsushi-69th-honinbo/#comment-9442">Go Commentary: Iyama Yuta vs Ida Atsushi &#8211; 69th Honinbo</a></li><li class="recentcomments">Younggil An on <a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/go-commentary-iyama-yuta-vs-ida-atsushi-69th-honinbo/#comment-9441">Go Commentary: Iyama Yuta vs Ida Atsushi &#8211; 69th Honinbo</a></li><li class="recentcomments">Younggil An on <a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/weekly-go-problems-week-121/#comment-9440">Weekly Go problems: Week 121</a></li><li class="recentcomments">Josh Hoak on <a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/meet-glift/#comment-9439">Meet Glift: New software to help you improve at Go</a></li></ul></div></div>
+<div id="text-6" class="widget widget_text"><div class="widget-wrap"><h4 class="widget-title widgettitle">Popular Articles</h4>
+			<div class="textwidget"><ul>
+<li><a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/learn-go-easy-way-go-game-1/">Learn Go The Easy Way: How you can start playing Go right now</a></li>
+<li><a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/how-to-get-better-at-go/">How to get better at Go</a></li>
+<li><a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/go-commentary-gu-li-vs-lee-sedol-17th-samsung-cup-final-game-1/">Go Commentary: Gu Li vs Lee Sedol – 17th Samsung Cup Final – Game 1</a></li>
+<li><a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/5-tips-dealing-unexpected-moves-go/">5 tips for dealing with unexpected moves in Go</a></li>
+<li><a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/30-worlds-go-players-2011-2012/">30 of the world's best Go players</a></li>
+<li><a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/thinking-big/">Thinking big in Go</a></li>
+<li><a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/learn-go-easy-way-go-game-3/">Learn Go The Easy Way: The 3 techniques of a Capture Go ninja</a></li>
+<li><a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/classic-go-games-xu-xingyou-vs-huang-longshi-the-games-of-blood-and-tears/">Classic Go Games: Xu Xingyou vs Huang Longshi – The Games of Blood and Tears</a></li>
+<li><a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/5-4-openings-tips-tricks/">How to deal with 5-4 openings: Tips and tricks</a></li>
+<li><a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/seki-go-game-1/">Whole board seki game 1</a></li>
+</ul></div>
+		</div></div>
+<div id="better_rss_widget-5" class="widget widget_better_rss_widget"><div class="widget-wrap"><h4 class="widget-title widgettitle"><a class="rsswidget" href="http://web.archive.org/web/20140722200834/http://gogameguru.com/baduk-tv-library/baduk-tv-english/" title="Learn all about the board game Go">Baduk TV English</a></h4>
+<ul><li><a class="rsswidget" href="http://web.archive.org/web/20140722200834/http://gogameguru.com/baduk-tv-videos/baduk-tv-english-classic-tesuji-problem-2/" title="">Baduk TV English: Classic Tesuji: Problem 2 – Two Sons Sharing Sorrows</a><div class="rssSummary"></div></li><li><a class="rsswidget" href="http://web.archive.org/web/20140722200834/http://gogameguru.com/baduk-tv-videos/baduk-tv-english-attacking-vitamins-lesson-14/" title="">Baduk TV English: Attacking Vitamins: Lesson 14</a><div class="rssSummary"></div></li><li><a class="rsswidget" href="http://web.archive.org/web/20140722200834/http://gogameguru.com/baduk-tv-videos/baduk-tv-english-level-3-kyu-lesson-25/" title="">Baduk TV English: Level Up to 3 Kyu: Lesson 25</a><div class="rssSummary"></div></li><li><a class="rsswidget" href="http://web.archive.org/web/20140722200834/http://gogameguru.com/baduk-tv-videos/baduk-tv-english-classic-tsumego-problem-2/" title="">Baduk TV English: Classic Tsumego: Problem 2 – Ambush on All Sides</a><div class="rssSummary"></div></li><li><a class="rsswidget" href="http://web.archive.org/web/20140722200834/http://gogameguru.com/baduk-tv-videos/baduk-tv-english-becoming-9-kyu-lesson-5/" title="">Baduk TV English: Becoming 9 Kyu: Lesson 5</a><div class="rssSummary"></div></li></ul></div></div>
+</div></div></div></div><div id="footer" class="footer"><div class="wrap">    <p><a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/" title="Go Game Guru">Go Game Guru</a> | <a rel="license" href="http://web.archive.org/web/20140722200834/http://creativecommons.org/licenses/by-nc-sa/3.0/" title="License details for people who want to translate or reuse Go Game Guru content. Please provide attribution in the form of a link back to the original page at Go Game Guru. Our content may not be used for commerical purposes. Please see the license for full details.">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a> | <a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/privacy-policy/" title="Go Game Guru Privacy Policy">Privacy Policy</a> | <a href="http://web.archive.org/web/20140722200834/http://gogameguru.com/terms-of-service/" title="Go Game Guru Terms of Service">Terms of Service</a> | <a href="http://web.archive.org/web/20140722200834/http://feeds.feedburner.com/gogameguru" title="Go Game Guru RSS Feed">RSS</a></p>
+    </div></div></div>			<div class="fixedBar">
+			<div class="boxfloat">
+				<ul id="tips">
+					<li><a href="http://web.archive.org/web/20140722200834/http://shop.gogameguru.com/" title="Go Game Shop">Did you know we have a Go shop? Click here see our store</a></li>
+				</ul>
+			</div>
+			</div>
+		<script type="text/javascript">
+        //<![CDATA[
+        
+      !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="http://web.archive.org/web/20140722200834/https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+      
+      window.___gcfg = {lang: "en"};
+		  (function() {
+		    var po = document.createElement("script"); po.type = "text/javascript"; po.async = true;
+		    po.src = "http://web.archive.org/web/20140722200834/https://apis.google.com/js/plusone.js";
+		    var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(po, s);
+		  })();
+      
+        //]]>
+  		</script><script type="text/javascript" src="http://web.archive.org/web/20140722200834js_/http://gogameguru.com/wp-content/plugins/akismet/_inc/form.js?03e48f"></script>
+<link rel="stylesheet" id="yarppRelatedCss-css" href="http://web.archive.org/web/20140722200834cs_/http://gogameguru.com/wp-content/plugins/yet-another-related-posts-plugin/style/related.css?03e48f" type="text/css" media="all"/>
+<script type="text/javascript" src="http://web.archive.org/web/20140722200834js_/http://gogameguru.com/wp-includes/js/comment-reply.min.js?03e48f"></script>
+</body>
+</html>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using disk: enhanced
+
+ Served from: gogameguru.com @ 2014-07-23 06:08:35 by W3 Total Cache --><!--
+     FILE ARCHIVED ON 20:08:34 Jul 22, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 07:53:52 Sep 07, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 0.548
+  exclusion.robots: 0.065
+  exclusion.robots.policy: 0.051
+  esindex: 0.008
+  cdx.remote: 9.258
+  LoadShardBlock: 1439.152 (3)
+  PetaboxLoader3.datanode: 1389.831 (4)
+  load_resource: 433.245
+  PetaboxLoader3.resolve: 109.325
+  nav: 0.207 (6)
+-->
